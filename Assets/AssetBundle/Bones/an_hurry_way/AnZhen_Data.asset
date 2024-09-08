@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: AnZhen_Data
+  m_EditorClassIdentifier: 
+  dataName: AnZhen
+  dragonBonesJSON: {fileID: 4900000, guid: 50d7665f244368f40a656509d2bb0eaa, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: ff2395bf32629754d9dd3b55e90513ab, type: 3}
+    texture: {fileID: 2800000, guid: 25a9ae258e9d29b4db97be95baae86f6, type: 3}
+    material: {fileID: 2100000, guid: 878ca3dd23b9fbf48ba40fb9ea93e9e7, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 7ae764c4f0c887e408e44249234bcbae, type: 2}

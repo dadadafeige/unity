@@ -1,0 +1,3037 @@
+[
+  {
+    "UIName": "top_item",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "top_item",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "top_item",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "top_item",
+    "ComponentName": "exp_icon",
+    "SpritePath": "Assets/Images/common/exp_small_icon.png"
+  },
+  {
+    "UIName": "top_item",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "top_item",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "top_item",
+    "ComponentName": "jinbi_icon",
+    "SpritePath": "Assets/Images/common/gold_small_icon.png"
+  },
+  {
+    "UIName": "top_item",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "top_item",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "top_item",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "top_item",
+    "ComponentName": "fuwen_icon",
+    "SpritePath": "Assets/Images/common/tally_small_icon.png"
+  },
+  {
+    "UIName": "top_item",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIBag",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIBag",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn2.png"
+  },
+  {
+    "UIName": "UIBag",
+    "ComponentName": "icon",
+    "SpritePath": "Assets/Images/item_icon/lanliyu_icon.png"
+  },
+  {
+    "UIName": "UIBag",
+    "ComponentName": "use_btn",
+    "SpritePath": "Assets/Images/common/use_btn.png"
+  },
+  {
+    "UIName": "UIBag",
+    "ComponentName": "sell_btn",
+    "SpritePath": "Assets/Images/common/sell_btn.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "barricade",
+    "SpritePath": "Assets/Images/collect_material/collect_material_barricade1.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "title",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball4.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "item1",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball9.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "icon1",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball_item1.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "name_bg",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball1.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "name1",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball7.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "num_bg",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball8.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "item2",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball9.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "icon2",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball_item2.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "name_bg",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball1.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "name2",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball5.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "num_bg",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball8.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "item3",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball9.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "icon3",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball_item3.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "name_bg",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball1.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "name3",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball3.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "num_bg",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball8.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "diff",
+    "SpritePath": "Assets/Images/common/diff_1.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "ball_icon",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball6.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "pro_bg",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball11.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "pro",
+    "SpritePath": "Assets/Images/balance_ball/balance_ball10.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn2.png"
+  },
+  {
+    "UIName": "UIBalanceBall",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "Image",
+    "SpritePath": "Assets/Images/battle/battle_flower.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "player_hp_bg",
+    "SpritePath": "Assets/Images/battle/player_hp_bg.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "player_hp",
+    "SpritePath": "Assets/Images/battle/player_hp.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "energy_grid1",
+    "SpritePath": "Assets/Images/battle/energy_grid.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "energy_grid2",
+    "SpritePath": "Assets/Images/battle/energy_grid.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "head",
+    "SpritePath": "Assets/Images/battle/head_man.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "head_bg",
+    "SpritePath": "Assets/Images/battle/head_bg.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "head_enemy_bg",
+    "SpritePath": "Assets/Images/battle/enemy_hp_bg.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "enemy_hp",
+    "SpritePath": "Assets/Images/battle/enemy_hp.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "enemy_head_bg",
+    "SpritePath": "Assets/Images/battle/enemy_head_bg.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "battle_round",
+    "SpritePath": "Assets/Images/battle/battle_round.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "battle_attack_Image",
+    "SpritePath": "Assets/Images/battle/battle_attack_btn2.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "battle_bag_Image",
+    "SpritePath": "Assets/Images/battle/battle_bag_btn2.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "battle_skill_Image",
+    "SpritePath": "Assets/Images/battle/battle_skill_btn2.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "battle_escape_btn",
+    "SpritePath": "Assets/Images/battle/battle_escape_btn.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "battle_auto_btn",
+    "SpritePath": "Assets/Images/battle/battle_auto_btn.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "aperture",
+    "SpritePath": "Assets/Images/battle/aperture.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "arrow",
+    "SpritePath": "Assets/Images/battle/battle_arrow.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "aperture",
+    "SpritePath": "Assets/Images/battle/aperture.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "arrow",
+    "SpritePath": "Assets/Images/battle/battle_arrow.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "aperture",
+    "SpritePath": "Assets/Images/battle/aperture.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "arrow",
+    "SpritePath": "Assets/Images/battle/battle_arrow.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "arrow",
+    "SpritePath": "Assets/Images/battle/battle_arrow.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "aperture",
+    "SpritePath": "Assets/Images/battle/aperture.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "arrow",
+    "SpritePath": "Assets/Images/battle/battle_arrow.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "aperture",
+    "SpritePath": "Assets/Images/battle/aperture.png"
+  },
+  {
+    "UIName": "UIBattle",
+    "ComponentName": "arrow",
+    "SpritePath": "Assets/Images/battle/battle_arrow.png"
+  },
+  {
+    "UIName": "UIBattleAttack",
+    "ComponentName": "go_attack_pro",
+    "SpritePath": "Assets/Images/go_fish/go_fish_pro.png"
+  },
+  {
+    "UIName": "UIBattleAttack",
+    "ComponentName": "go_attack_pro_btn",
+    "SpritePath": "Assets/Images/battle/battle_attle.png"
+  },
+  {
+    "UIName": "UIBattleAttack",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn2.png"
+  },
+  {
+    "UIName": "UIBattleSettle",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIBattleSettle",
+    "ComponentName": "result",
+    "SpritePath": "Assets/Images/common/get_reward.png"
+  },
+  {
+    "UIName": "UIBattleSettle",
+    "ComponentName": "icon",
+    "SpritePath": "Assets/Images/common/exp_small_icon.png"
+  },
+  {
+    "UIName": "UIBattleSettle",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIChapterList",
+    "ComponentName": "Image",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIChapterList",
+    "ComponentName": "left_btn",
+    "SpritePath": "Assets/Images/chapter_list/chapter_list_left.png"
+  },
+  {
+    "UIName": "UIChapterList",
+    "ComponentName": "right_btn",
+    "SpritePath": "Assets/Images/chapter_list/chapter_list_right.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "collect_material_word",
+    "SpritePath": "Assets/Images/collect_material/collect_material_word.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "barricade1",
+    "SpritePath": "Assets/Images/collect_material/collect_material_barricade1.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "barricade2",
+    "SpritePath": "Assets/Images/collect_material/collect_material_barricade1.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "barricade3",
+    "SpritePath": "Assets/Images/collect_material/collect_material_barricade1.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "barricade4",
+    "SpritePath": "Assets/Images/collect_material/collect_material_barricade1.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "barricade",
+    "SpritePath": "Assets/Images/collect_material/collect_material_barricade1.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "plate",
+    "SpritePath": "Assets/Images/collect_material/collect_material_plate.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "upButton",
+    "SpritePath": "Assets/Images/collect_material/collect_material_direction.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "downButton",
+    "SpritePath": "Assets/Images/collect_material/collect_material_direction.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "leftButton",
+    "SpritePath": "Assets/Images/collect_material/collect_material_direction.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "rightButton",
+    "SpritePath": "Assets/Images/collect_material/collect_material_direction.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "player",
+    "SpritePath": "Assets/Images/collect_material/collect_material_player.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "enemy_image",
+    "SpritePath": "Assets/Images/collect_material/collect_material_enemy1.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "gemstone_image",
+    "SpritePath": "Assets/Images/item_icon/gemstone_water_icon.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "material_icon",
+    "SpritePath": "Assets/Images/item_icon/gemstone_fire_icon.png"
+  },
+  {
+    "UIName": "UICollectMaterial",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "collect_material_word",
+    "SpritePath": "Assets/Images/collect_material/collect_material_word.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "barricade1",
+    "SpritePath": "Assets/Images/collect_material/collect_material_barricade1.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "barricade2",
+    "SpritePath": "Assets/Images/collect_material/collect_material_barricade1.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "barricade3",
+    "SpritePath": "Assets/Images/collect_material/collect_material_barricade1.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "barricade4",
+    "SpritePath": "Assets/Images/collect_material/collect_material_barricade1.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "barricade",
+    "SpritePath": "Assets/Images/collect_material/collect_material_barricade1.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "plate",
+    "SpritePath": "Assets/Images/collect_material/collect_material_plate.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "upButton",
+    "SpritePath": "Assets/Images/collect_material/collect_material_direction.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "downButton",
+    "SpritePath": "Assets/Images/collect_material/collect_material_direction.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "leftButton",
+    "SpritePath": "Assets/Images/collect_material/collect_material_direction.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "rightButton",
+    "SpritePath": "Assets/Images/collect_material/collect_material_direction.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "player",
+    "SpritePath": "Assets/Images/collect_material/collect_material_player.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "gemstone_image",
+    "SpritePath": "Assets/Images/collect_material2/collect_material_men.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "material_icon",
+    "SpritePath": "Assets/Images/item_icon/gemstone_fire_icon.png"
+  },
+  {
+    "UIName": "UICollectMaterial2",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "right_num_bg",
+    "SpritePath": "Assets/Images/common/tag_bg1.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "right_num_icon",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_right2.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn3.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "dialogue_bg",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_dialogue_bg1.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "feedingfish_dialogue_pro",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_dialogue_pro.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "feedingfish_dialogue_head",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_dialogue_head1.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "result",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_right1.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "fish_item_bg",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_box.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "fish_item_icon",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_huangliyu.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "feedingfish_diff_bg",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_diff_bg.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "feedingfish_diff",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_diff2.png"
+  },
+  {
+    "UIName": "UIFeedingFish",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "BG",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "Image",
+    "SpritePath": "Assets/Images/open_door/示意.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "right_num_bg",
+    "SpritePath": "Assets/Images/common/tag_bg1.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "right_num_icon",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_right2.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn3.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "dialogue_bg",
+    "SpritePath": "Assets/Images/open_door/open_door1.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "feedingfish_dialogue_pro",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_dialogue_pro.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "feedingfish_dialogue_head",
+    "SpritePath": "Assets/Images/open_door/open_door4.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "result",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_right1.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "fish_item_bg",
+    "SpritePath": "Assets/Images/open_door/open_door3.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "fish_item_icon",
+    "SpritePath": "Assets/Images/open_door/open_door_icon1.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "feedingfish_diff_bg",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_diff_bg.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "feedingfish_diff",
+    "SpritePath": "Assets/Images/feedingfish/feedingfish_diff2.png"
+  },
+  {
+    "UIName": "UIFeedingFish2",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIFeedingFishSettle",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIFeedingFishSettle",
+    "ComponentName": "result",
+    "SpritePath": "Assets/Images/common/success_word.png"
+  },
+  {
+    "UIName": "UIFeedingFishSettle",
+    "ComponentName": "icon",
+    "SpritePath": "Assets/Images/common/exp_small_icon.png"
+  },
+  {
+    "UIName": "UIFeedingFishSettle",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/finish_word.png"
+  },
+  {
+    "UIName": "UIFeedingFishSettle",
+    "ComponentName": "come_back_btn",
+    "SpritePath": "Assets/Images/common/restart_word.png"
+  },
+  {
+    "UIName": "UIFeedingFishSettle",
+    "ComponentName": "next_btn",
+    "SpritePath": "Assets/Images/common/next_word.png"
+  },
+  {
+    "UIName": "UIFeedingFishSettle",
+    "ComponentName": "reward_icon",
+    "SpritePath": "Assets/Images/common/reward_icon.png"
+  },
+  {
+    "UIName": "UIFindDifferen",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIFindDifferen",
+    "ComponentName": "pro_bg",
+    "SpritePath": "Assets/Images/Flanker/flanker_pro_bg.png"
+  },
+  {
+    "UIName": "UIFindDifferen",
+    "ComponentName": "pro",
+    "SpritePath": "Assets/Images/Flanker/flanker_pro.png"
+  },
+  {
+    "UIName": "UIFindDifferen",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIFindDifferen",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIFindDifferen2",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIFindDifferen2",
+    "ComponentName": "pro_bg",
+    "SpritePath": "Assets/Images/Flanker/flanker_pro_bg.png"
+  },
+  {
+    "UIName": "UIFindDifferen2",
+    "ComponentName": "pro",
+    "SpritePath": "Assets/Images/Flanker/flanker_pro.png"
+  },
+  {
+    "UIName": "UIFindDifferen2",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIFindDifferen2",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "icon",
+    "SpritePath": "Assets/Images/find_something/find_something1_1.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "right",
+    "SpritePath": "Assets/Images/Flanker/flanker_right.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "NumbeRmemory_1",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_1.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "NumbeRmemory_2",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_2.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "NumbeRmemory_13",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_13.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "find_something_word",
+    "SpritePath": "Assets/Images/find_something/find_something_word.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "find_something_pop",
+    "SpritePath": "Assets/Images/find_something/find_something_pop.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "pro_bg",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_5.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "pro",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_6.png"
+  },
+  {
+    "UIName": "UIFindSomething",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "flanker_name",
+    "SpritePath": "Assets/Images/Flanker/flanker_name.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "diff",
+    "SpritePath": "Assets/Images/common/diff_1.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "flanker_base",
+    "SpritePath": "Assets/Images/Flanker/flanker_base.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "icon_item",
+    "SpritePath": "Assets/Images/Flanker/flanker_image2.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "btn_item",
+    "SpritePath": "Assets/Images/Flanker/flanker_btn_bg.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "word",
+    "SpritePath": "Assets/Images/Flanker/flanker_word2.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "pro_bg",
+    "SpritePath": "Assets/Images/Flanker/flanker_pro_bg.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "pro",
+    "SpritePath": "Assets/Images/Flanker/flanker_pro.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "flanker_right_bg",
+    "SpritePath": "Assets/Images/Flanker/flanker_right_bg.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "flanker_right",
+    "SpritePath": "Assets/Images/Flanker/flanker_right.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "flanker_wrong_bg",
+    "SpritePath": "Assets/Images/Flanker/flanker_wrong_bg.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "flanker_wrong",
+    "SpritePath": "Assets/Images/Flanker/flanker_wrong.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIFlanker",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "Image",
+    "SpritePath": "Assets/Images/flip_brand/flip_brand_bg.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "diff_icon",
+    "SpritePath": "Assets/Images/common/diff_1.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "bag_btn",
+    "SpritePath": "Assets/Images/common/XingNang.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "box_icon",
+    "SpritePath": "Assets/Images/flip_brand/BaoXiang.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "QiuYin_Icon",
+    "SpritePath": "Assets/Images/flip_brand/QiuYin.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/flip_brand/Gai.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "Image",
+    "SpritePath": "Assets/Images/flip_brand/Gai.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "grid_bg",
+    "SpritePath": "Assets/Images/flip_brand/flip_brand_bg.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "gu",
+    "SpritePath": "Assets/Images/common/countdown_icon.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "injured",
+    "SpritePath": "Assets/Images/common/dodge_red.png"
+  },
+  {
+    "UIName": "UIFlipBrand",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIFlipBrandSettle",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIFlipBrandSettle",
+    "ComponentName": "result",
+    "SpritePath": "Assets/Images/common/fail_word.png"
+  },
+  {
+    "UIName": "UIFlipBrandSettle",
+    "ComponentName": "qiuyin",
+    "SpritePath": "Assets/Images/flip_brand/QiuYin_Icon.png"
+  },
+  {
+    "UIName": "UIFlipBrandSettle",
+    "ComponentName": "she",
+    "SpritePath": "Assets/Images/flip_brand/DuShe.png"
+  },
+  {
+    "UIName": "UIFlipBrandSettle",
+    "ComponentName": "baoxiang",
+    "SpritePath": "Assets/Images/flip_brand/BaoXiang.png"
+  },
+  {
+    "UIName": "UIFlipBrandSettle",
+    "ComponentName": "caoyao",
+    "SpritePath": "Assets/Images/flip_brand/CaoYao.png"
+  },
+  {
+    "UIName": "UIFlipBrandSettle",
+    "ComponentName": "haoshi_image",
+    "SpritePath": "Assets/Images/flip_brand/haoshi.png"
+  },
+  {
+    "UIName": "UIFlipBrandSettle",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/finish_word.png"
+  },
+  {
+    "UIName": "UIFlipBrandSettle",
+    "ComponentName": "next_btn",
+    "SpritePath": "Assets/Images/common/next_word.png"
+  },
+  {
+    "UIName": "UIFlipBrandSettle",
+    "ComponentName": "come_back_btn",
+    "SpritePath": "Assets/Images/common/restart_word.png"
+  },
+  {
+    "UIName": "UIGameDescription",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIGameDescription",
+    "ComponentName": "close",
+    "SpritePath": "Assets/Images/common/close_btn2.png"
+  },
+  {
+    "UIName": "UIGameList",
+    "ComponentName": "mask ",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIGameList",
+    "ComponentName": "icon",
+    "SpritePath": "Assets/Images/game_list_icon/game_list_id4.png"
+  },
+  {
+    "UIName": "UIGameList",
+    "ComponentName": "reward_icon",
+    "SpritePath": "Assets/Images/common/gold_small_icon.png"
+  },
+  {
+    "UIName": "UIGameList",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIGoFish",
+    "ComponentName": "go_fish_pro",
+    "SpritePath": "Assets/Images/go_fish/go_fish_pro.png"
+  },
+  {
+    "UIName": "UIGoFish",
+    "ComponentName": "go_fish_pro_btn",
+    "SpritePath": "Assets/Images/go_fish/go_fish_pro_btn.png"
+  },
+  {
+    "UIName": "UIGoFish",
+    "ComponentName": "go_fish_pro_btn (1)",
+    "SpritePath": "Assets/Images/go_fish/go_fish_pro_btn.png"
+  },
+  {
+    "UIName": "UIGoFish",
+    "ComponentName": "tag_bg1",
+    "SpritePath": "Assets/Images/common/tag_bg1.png"
+  },
+  {
+    "UIName": "UIGoFish",
+    "ComponentName": "qiu_num_icon",
+    "SpritePath": "Assets/Images/item_icon/qiuyin_icon.png"
+  },
+  {
+    "UIName": "UIGoFish",
+    "ComponentName": "go_fish_back_btn",
+    "SpritePath": "Assets/Images/common/close_btn3.png"
+  },
+  {
+    "UIName": "UIGoFish",
+    "ComponentName": "go_fish_bag_btn",
+    "SpritePath": "Assets/Images/go_fish/go_fish_bag_btn.png"
+  },
+  {
+    "UIName": "UIGoFish",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "make",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "btn1",
+    "SpritePath": "Assets/Images/guessing_fists/guessing_fists_cardex1.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "btn2",
+    "SpritePath": "Assets/Images/guessing_fists/guessing_fists_cardex2.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "btn3",
+    "SpritePath": "Assets/Images/guessing_fists/guessing_fists_cardex3.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "cards",
+    "SpritePath": "Assets/Images/guessing_fists/guessing_fists_cards.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "result",
+    "SpritePath": "Assets/Images/guessing_fists/guessing_fists_error.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "condition",
+    "SpritePath": "Assets/Images/guessing_fists/guessing_fists_condition1.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "pro_bg",
+    "SpritePath": "Assets/Images/guessing_fists/guessing_fists_pro_bg.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "pro",
+    "SpritePath": "Assets/Images/guessing_fists/guessing_fists_pro.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "guessing_fists1",
+    "SpritePath": "Assets/Images/guessing_fists/guessing_fists1.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "guessing_fists2",
+    "SpritePath": "Assets/Images/guessing_fists/guessing_fists3.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIGuessingFists",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "mask_bg",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "guessing_puzzle1",
+    "SpritePath": "Assets/Images/guessing_puzzle/guessing_puzzle1.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "gemstone_item",
+    "SpritePath": "Assets/Images/item_icon/gemstone_fire_icon.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "guessing_puzzle_chassis",
+    "SpritePath": "Assets/Images/guessing_puzzle/guessing_puzzle_chassis.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "bag_gemstone1",
+    "SpritePath": "Assets/Images/item_icon/gemstone_fire_icon.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "bag_gemstone2",
+    "SpritePath": "Assets/Images/item_icon/gemstone_gold_icon.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "bag_gemstone3",
+    "SpritePath": "Assets/Images/item_icon/gemstone_soil_icon.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "bag_gemstone4",
+    "SpritePath": "Assets/Images/item_icon/gemstone_water_icon.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "bag_gemstone5",
+    "SpritePath": "Assets/Images/item_icon/gemstone_wood_icon.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "guessing_puzzle5",
+    "SpritePath": "Assets/Images/guessing_puzzle/guessing_puzzle5.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "guessing_puzzle5",
+    "SpritePath": "Assets/Images/guessing_puzzle/guessing_puzzle5.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "diff_bg",
+    "SpritePath": "Assets/Images/guessing_puzzle/guessing_puzzle2.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "diff_bg",
+    "SpritePath": "Assets/Images/guessing_puzzle/guessing_puzzle3.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "diff_bg",
+    "SpritePath": "Assets/Images/guessing_puzzle/guessing_puzzle4.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "time_pro_bg",
+    "SpritePath": "Assets/Images/guessing_puzzle/guessing_puzzle_probg.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "time_pro",
+    "SpritePath": "Assets/Images/guessing_puzzle/guessing_puzzle_pro.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIGuessingPuzzle",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIGuide",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIGuide",
+    "ComponentName": "item",
+    "SpritePath": "Assets/Images/guide/guide6.png"
+  },
+  {
+    "UIName": "UIGuide",
+    "ComponentName": "transparent",
+    "SpritePath": "Assets/Images/guide/guide6.png"
+  },
+  {
+    "UIName": "UIGuide",
+    "ComponentName": "drawing_bg",
+    "SpritePath": "Assets/Images/guide/guide3.png"
+  },
+  {
+    "UIName": "UIGuide",
+    "ComponentName": "name",
+    "SpritePath": "Assets/Images/guide_name/guide_name1.png"
+  },
+  {
+    "UIName": "UIGuide",
+    "ComponentName": "type_icon",
+    "SpritePath": "Assets/Images/guide/guide4.png"
+  },
+  {
+    "UIName": "UIGuide",
+    "ComponentName": "draw",
+    "SpritePath": "Assets/Images/guide_name/guide_draw1.png"
+  },
+  {
+    "UIName": "UIGuide",
+    "ComponentName": "guide7",
+    "SpritePath": "Assets/Images/guide/guide7.png"
+  },
+  {
+    "UIName": "UIGuide",
+    "ComponentName": "guide8",
+    "SpritePath": "Assets/Images/guide/guide8.png"
+  },
+  {
+    "UIName": "UIGuide",
+    "ComponentName": "guide9",
+    "SpritePath": "Assets/Images/guide/guide9.png"
+  },
+  {
+    "UIName": "UIGuide",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIHurryWay",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIHurryWay",
+    "ComponentName": "up_btn",
+    "SpritePath": "Assets/Images/hurry_way/hurry_way_btn.png"
+  },
+  {
+    "UIName": "UIHurryWay",
+    "ComponentName": "up_direction",
+    "SpritePath": "Assets/Images/collect_material/collect_material_direction.png"
+  },
+  {
+    "UIName": "UIHurryWay",
+    "ComponentName": "down_btn",
+    "SpritePath": "Assets/Images/hurry_way/hurry_way_btn.png"
+  },
+  {
+    "UIName": "UIHurryWay",
+    "ComponentName": "down_direction",
+    "SpritePath": "Assets/Images/collect_material/collect_material_direction.png"
+  },
+  {
+    "UIName": "UIHurryWay",
+    "ComponentName": "color1",
+    "SpritePath": "Assets/Images/hurry_way/hurry_way_color3.png"
+  },
+  {
+    "UIName": "UIHurryWay",
+    "ComponentName": "color2",
+    "SpritePath": "Assets/Images/hurry_way/hurry_way_color2.png"
+  },
+  {
+    "UIName": "UIHurryWay",
+    "ComponentName": "color3",
+    "SpritePath": "Assets/Images/hurry_way/hurry_way_color1.png"
+  },
+  {
+    "UIName": "UIHurryWay",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIHurryWay",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UILevelUp",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UILogEdit",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UILogEdit",
+    "ComponentName": "paper_bg",
+    "SpritePath": "Assets/Images/log/log_paper.png"
+  },
+  {
+    "UIName": "UILogEdit",
+    "ComponentName": "pattern1",
+    "SpritePath": "Assets/Images/log/log_pattern.png"
+  },
+  {
+    "UIName": "UILogEdit",
+    "ComponentName": "pattern3",
+    "SpritePath": "Assets/Images/log/log_pattern.png"
+  },
+  {
+    "UIName": "UILogEdit",
+    "ComponentName": "pattern4",
+    "SpritePath": "Assets/Images/log/log_pattern.png"
+  },
+  {
+    "UIName": "UILogEdit",
+    "ComponentName": "pattern2",
+    "SpritePath": "Assets/Images/log/log_pattern.png"
+  },
+  {
+    "UIName": "UILogEdit",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn2.png"
+  },
+  {
+    "UIName": "UILogEdit",
+    "ComponentName": "finish_btn",
+    "SpritePath": "Assets/Images/common/finish_word.png"
+  },
+  {
+    "UIName": "UILogEdit",
+    "ComponentName": "new_bie",
+    "SpritePath": "Assets/Images/common/new_bie_hand.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "paper_bg",
+    "SpritePath": "Assets/Images/log/log_paper.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "pattern1",
+    "SpritePath": "Assets/Images/log/log_pattern.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "pattern2",
+    "SpritePath": "Assets/Images/log/log_pattern.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "pattern3",
+    "SpritePath": "Assets/Images/log/log_pattern.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "pattern4",
+    "SpritePath": "Assets/Images/log/log_pattern.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "checkmark",
+    "SpritePath": "Assets/Images/log/log_list_Checkmark.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "red",
+    "SpritePath": "Assets/Images/log/log_list_red.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "select",
+    "SpritePath": "Assets/Images/log/log_select.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "edit_btn",
+    "SpritePath": "Assets/Images/log/log_edit_btn.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn2.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "previous_btn",
+    "SpritePath": "Assets/Images/log/log_arrow.png"
+  },
+  {
+    "UIName": "UILogList",
+    "ComponentName": "next_btn",
+    "SpritePath": "Assets/Images/log/log_arrow.png"
+  },
+  {
+    "UIName": "UILogon",
+    "ComponentName": "mask_1",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UILogon",
+    "ComponentName": "dot1",
+    "SpritePath": "Assets/Images/draw_tally/draw_tally01.png"
+  },
+  {
+    "UIName": "UILogon",
+    "ComponentName": "dot2",
+    "SpritePath": "Assets/Images/draw_tally/draw_tally02.png"
+  },
+  {
+    "UIName": "UILogon",
+    "ComponentName": "dot3",
+    "SpritePath": "Assets/Images/draw_tally/draw_tally03.png"
+  },
+  {
+    "UIName": "UILogon",
+    "ComponentName": "dot4",
+    "SpritePath": "Assets/Images/draw_tally/draw_tally04.png"
+  },
+  {
+    "UIName": "UILogon",
+    "ComponentName": "dot5",
+    "SpritePath": "Assets/Images/draw_tally/draw_tally05.png"
+  },
+  {
+    "UIName": "UILogon",
+    "ComponentName": "dot6",
+    "SpritePath": "Assets/Images/draw_tally/draw_tally06.png"
+  },
+  {
+    "UIName": "UILogon",
+    "ComponentName": "dot7",
+    "SpritePath": "Assets/Images/draw_tally/draw_tally07.png"
+  },
+  {
+    "UIName": "UILogon",
+    "ComponentName": "dot8",
+    "SpritePath": "Assets/Images/draw_tally/draw_tally08.png"
+  },
+  {
+    "UIName": "UILogon",
+    "ComponentName": "dot9",
+    "SpritePath": "Assets/Images/draw_tally/draw_tally09.png"
+  },
+  {
+    "UIName": "UILogon",
+    "ComponentName": "new_bie",
+    "SpritePath": "Assets/Images/common/new_bie_hand.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "bookshelf_btn",
+    "SpritePath": "Assets/Images/log/log_bookshelf_btn.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "record_btn",
+    "SpritePath": "Assets/Images/log/log_record_btn.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/log_back.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "log_label1",
+    "SpritePath": "Assets/Images/common/log_label.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "log_label2",
+    "SpritePath": "Assets/Images/common/log_label.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "log_label3",
+    "SpritePath": "Assets/Images/common/log_label.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "log_label4",
+    "SpritePath": "Assets/Images/common/log_label.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "log_label5",
+    "SpritePath": "Assets/Images/common/log_label.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "new_bie",
+    "SpritePath": "Assets/Images/common/new_bie_hand.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "exp_icon",
+    "SpritePath": "Assets/Images/common/exp_small_icon.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "jinbi_icon",
+    "SpritePath": "Assets/Images/common/gold_small_icon.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "fuwen_icon",
+    "SpritePath": "Assets/Images/common/tally_small_icon.png"
+  },
+  {
+    "UIName": "UIMainLog",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIMap",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIMap",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn2.png"
+  },
+  {
+    "UIName": "UINotice",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UINotice",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn2.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_3.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "pop",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_11.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "close_btn1",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "zhuangshi1",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_7.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "zhuangshi2",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_16.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "new_bie",
+    "SpritePath": "Assets/Images/common/new_bie_hand.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "close_btn2",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "zhuangshi3",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_16.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "close_btn3",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "zhuangshi4",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_16.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "zhuangshi5",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_18.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "NumbeRmemory_19",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_19.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "NumbeRmemory_9",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_1.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "NumbeRmemory_2",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_2.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "NumbeRmemory_8",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_8.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "NumbeRmemory_15",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_15.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "NumbeRmemory_12",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_12.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "pro_bg",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_5.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "pro",
+    "SpritePath": "Assets/Images/numbe_rmemory/NumbeRmemory_6.png"
+  },
+  {
+    "UIName": "UINumbeRmemory",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIOpening_Remarks",
+    "ComponentName": "skip_btn",
+    "SpritePath": "Assets/Images/common/skip_btn.png"
+  },
+  {
+    "UIName": "UIPickingMushrooms",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIPickingMushrooms",
+    "ComponentName": "item_icon",
+    "SpritePath": "Assets/Images/item_icon/mogu_icon.png"
+  },
+  {
+    "UIName": "UIPickingMushrooms",
+    "ComponentName": "diff",
+    "SpritePath": "Assets/Images/common/diff_1.png"
+  },
+  {
+    "UIName": "UIPickingMushrooms",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIPickingMushrooms",
+    "ComponentName": "bag_btn",
+    "SpritePath": "Assets/Images/common/XingNang.png"
+  },
+  {
+    "UIName": "UIPickingMushrooms",
+    "ComponentName": "mask2",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIPickingMushrooms",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIPickingMushroomsSettle",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIPickingMushroomsSettle",
+    "ComponentName": "result",
+    "SpritePath": "Assets/Images/common/get_reward.png"
+  },
+  {
+    "UIName": "UIPickingMushroomsSettle",
+    "ComponentName": "icon",
+    "SpritePath": "Assets/Images/common/exp_small_icon.png"
+  },
+  {
+    "UIName": "UIPickingMushroomsSettle",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/finish_word.png"
+  },
+  {
+    "UIName": "UIPickingMushroomsSettle",
+    "ComponentName": "come_back_btn",
+    "SpritePath": "Assets/Images/common/restart_word.png"
+  },
+  {
+    "UIName": "UIPickingMushroomsSettle",
+    "ComponentName": "next_btn",
+    "SpritePath": "Assets/Images/common/next_word.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "Image",
+    "SpritePath": "Assets/Images/common/man_name_bg.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "Image (1)",
+    "SpritePath": "Assets/Images/common/man_name_bg.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "exp_icon",
+    "SpritePath": "Assets/Images/common/exp_small_icon.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "jinbi_icon",
+    "SpritePath": "Assets/Images/common/gold_small_icon.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "fuwen_icon",
+    "SpritePath": "Assets/Images/common/tally_small_icon.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "setup_btn",
+    "SpritePath": "Assets/Images/common/setup_btn.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "chapter_btn",
+    "SpritePath": "Assets/Images/common/chapter_btn.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "bag_btn",
+    "SpritePath": "Assets/Images/common/bag_btn.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "role_btn",
+    "SpritePath": "Assets/Images/common/role_btn.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "draw_btn",
+    "SpritePath": "Assets/Images/common/draw_btn.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "daily_btn",
+    "SpritePath": "Assets/Images/common/daily_btn.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "logs_btn",
+    "SpritePath": "Assets/Images/common/logs_btn.png"
+  },
+  {
+    "UIName": "UIPlayerStory",
+    "ComponentName": "psychological_btn",
+    "SpritePath": "Assets/Images/common/psychological_btn.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "puzzle_5",
+    "SpritePath": "Assets/Images/puzzle/puzzle_5.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "puzzle_6",
+    "SpritePath": "Assets/Images/puzzle/puzzle_6.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "puzzle_7",
+    "SpritePath": "Assets/Images/puzzle/puzzle_7.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "exp_icon",
+    "SpritePath": "Assets/Images/common/exp_small_icon.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "jinbi_icon",
+    "SpritePath": "Assets/Images/common/gold_small_icon.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "fuwen_icon",
+    "SpritePath": "Assets/Images/common/tally_small_icon.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "image_1",
+    "SpritePath": "Assets/Images/puzzle/puzzle_1.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "icon_1",
+    "SpritePath": "Assets/Images/puzzle/puzzle_2.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "image_2",
+    "SpritePath": "Assets/Images/puzzle/puzzle_1.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "icon_2",
+    "SpritePath": "Assets/Images/puzzle/puzzle_3.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "image_3",
+    "SpritePath": "Assets/Images/puzzle/puzzle_1.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "icon_3",
+    "SpritePath": "Assets/Images/puzzle/puzzle_4.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "closeBtn",
+    "SpritePath": "Assets/Images/common/close_btn2.png"
+  },
+  {
+    "UIName": "UIPuzzle",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "puzzle_5",
+    "SpritePath": "Assets/Images/puzzle2/puzzle2_10.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "puzzle_6",
+    "SpritePath": "Assets/Images/puzzle2/puzzle2_11.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "puzzle_7",
+    "SpritePath": "Assets/Images/puzzle2/puzzle2_9.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "puzzle_8",
+    "SpritePath": "Assets/Images/puzzle2/puzzle2_7.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "puzzle_9",
+    "SpritePath": "Assets/Images/puzzle2/puzzle2_8.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "exp_icon",
+    "SpritePath": "Assets/Images/common/exp_small_icon.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "jinbi_icon",
+    "SpritePath": "Assets/Images/common/gold_small_icon.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "fuwen_icon",
+    "SpritePath": "Assets/Images/common/tally_small_icon.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "image_1",
+    "SpritePath": "Assets/Images/puzzle/puzzle_1.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "icon_1",
+    "SpritePath": "Assets/Images/puzzle2/puzzle2_1.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "image_2",
+    "SpritePath": "Assets/Images/puzzle/puzzle_1.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "icon_2",
+    "SpritePath": "Assets/Images/puzzle2/puzzle2_2.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "image_3",
+    "SpritePath": "Assets/Images/puzzle/puzzle_1.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "icon_3",
+    "SpritePath": "Assets/Images/puzzle2/puzzle2_3.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "image_4",
+    "SpritePath": "Assets/Images/puzzle/puzzle_1.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "icon_4",
+    "SpritePath": "Assets/Images/puzzle2/puzzle2_4.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "image_5",
+    "SpritePath": "Assets/Images/puzzle/puzzle_1.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "icon_5",
+    "SpritePath": "Assets/Images/puzzle2/puzzle2_5.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "closeBtn",
+    "SpritePath": "Assets/Images/common/close_btn2.png"
+  },
+  {
+    "UIName": "UIPuzzle2",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "puzzle_5",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_6.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "image_1",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_11.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "icon_1",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_1.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "puzzle_6",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_7.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "image_2",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_12.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "icon_2",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_2.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "puzzle_7",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_8.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "image_3",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_13.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "icon_3",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_3.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "puzzle_8",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_9.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "image_4",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_14.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "icon_4",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_4.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "puzzle_9",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_10.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "image_5",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_15.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "icon_5",
+    "SpritePath": "Assets/Images/puzzle3/puzzle3_5.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "exp_icon",
+    "SpritePath": "Assets/Images/common/exp_small_icon.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "jinbi_icon",
+    "SpritePath": "Assets/Images/common/gold_small_icon.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "value_bg",
+    "SpritePath": "Assets/Images/common/main_top_item_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "add_btn",
+    "SpritePath": "Assets/Images/common/main_top_item_add.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "fuwen_icon",
+    "SpritePath": "Assets/Images/common/tally_small_icon.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "top_name_bg",
+    "SpritePath": "Assets/Images/common/top_name_bg.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "closeBtn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIPuzzle3",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "yun",
+    "SpritePath": "Assets/Images/recall_way/recall_way_cloud1.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "can_click",
+    "SpritePath": "Assets/Images/recall_way/can_click.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "entry",
+    "SpritePath": "Assets/Images/recall_way/recall_way_entry.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "exit",
+    "SpritePath": "Assets/Images/recall_way/recall_way_export.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "close_btn1",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "entry",
+    "SpritePath": "Assets/Images/recall_way/recall_way_entry.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "exit",
+    "SpritePath": "Assets/Images/recall_way/recall_way_export.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "close_btn2",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "entry",
+    "SpritePath": "Assets/Images/recall_way/recall_way_entry.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "exit",
+    "SpritePath": "Assets/Images/recall_way/recall_way_export.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "close_btn3",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "pro_bg",
+    "SpritePath": "Assets/Images/recall_way/recall_way_pro_bg.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "pro",
+    "SpritePath": "Assets/Images/recall_way/recall_way_pro.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "hp_bg",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp_bg.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "hp_icon",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "hp_bg",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp_bg.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "hp_icon",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "hp_bg",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp_bg.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "hp_icon",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp.png"
+  },
+  {
+    "UIName": "UIRecallWay",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "make",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "bones_root",
+    "SpritePath": "Assets/Images/recall_way/recall_way2_item1.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "yun",
+    "SpritePath": "Assets/Images/recall_way/recall_way_cloud6.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "can_click",
+    "SpritePath": "Assets/Images/recall_way/can_click.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "close_btn1",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "entry",
+    "SpritePath": "Assets/Images/recall_way/recall_way_entry.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "exit",
+    "SpritePath": "Assets/Images/recall_way/recall_way_export.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "close_btn2",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "entry",
+    "SpritePath": "Assets/Images/recall_way/recall_way_entry.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "exit",
+    "SpritePath": "Assets/Images/recall_way/recall_way_export.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "pro_bg",
+    "SpritePath": "Assets/Images/recall_way/recall_way_pro_bg.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "pro",
+    "SpritePath": "Assets/Images/recall_way/recall_way_pro.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "hp_bg",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp_bg.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "hp_icon",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "hp_bg",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp_bg.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "hp_icon",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "hp_bg",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp_bg.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "hp_icon",
+    "SpritePath": "Assets/Images/recall_way/recall_way_hp.png"
+  },
+  {
+    "UIName": "UIRecallWay2",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIRecoveryHp",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIRecoveryHp",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIRecoveryHp",
+    "ComponentName": "go_attack_pro",
+    "SpritePath": "Assets/Images/go_fish/go_fish_pro.png"
+  },
+  {
+    "UIName": "UIRecoveryHp",
+    "ComponentName": "go_attack_pro_btn",
+    "SpritePath": "Assets/Images/recovery_hp/recovery_hp1.png"
+  },
+  {
+    "UIName": "UIRecoveryHp",
+    "ComponentName": "pro_bg1",
+    "SpritePath": "Assets/Images/recovery_hp/recovery_hp4.png"
+  },
+  {
+    "UIName": "UIRecoveryHp",
+    "ComponentName": "pro1",
+    "SpritePath": "Assets/Images/recovery_hp/recovery_hp3.png"
+  },
+  {
+    "UIName": "UIRecoveryHp",
+    "ComponentName": "pro_bg2",
+    "SpritePath": "Assets/Images/recovery_hp/recovery_hp4.png"
+  },
+  {
+    "UIName": "UIRecoveryHp",
+    "ComponentName": "pro2",
+    "SpritePath": "Assets/Images/recovery_hp/recovery_hp6.png"
+  },
+  {
+    "UIName": "UIRecoveryHp",
+    "ComponentName": "xin1",
+    "SpritePath": "Assets/Images/recovery_hp/recovery_hp2.png"
+  },
+  {
+    "UIName": "UIRecoveryHp",
+    "ComponentName": "xin2",
+    "SpritePath": "Assets/Images/recovery_hp/recovery_hp5.png"
+  },
+  {
+    "UIName": "UIRecoveryHp",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "make",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "tab1",
+    "SpritePath": "Assets/Images/info_atlas/info_3.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "tab2",
+    "SpritePath": "Assets/Images/info_atlas/info_2.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "role_info_namebg",
+    "SpritePath": "Assets/Images/role_info/role_info_namebg.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "attribute_image",
+    "SpritePath": "Assets/Images/info_atlas/info_6.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "info_wenzi",
+    "SpritePath": "Assets/Images/info_atlas/info_1.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "upgrade_btn",
+    "SpritePath": "Assets/Images/info_atlas/info_4.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "Image (1)",
+    "SpritePath": "Assets/Images/common/gold_small_icon.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "info_wenzi",
+    "SpritePath": "Assets/Images/info_atlas/info_1.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "upgrade_btn",
+    "SpritePath": "Assets/Images/info_atlas/info_4.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "Image (1)",
+    "SpritePath": "Assets/Images/common/gold_small_icon.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "war_btn",
+    "SpritePath": "Assets/Images/role_info/war_btn.png"
+  },
+  {
+    "UIName": "UIRoleInfo",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "maks",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle12.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "word1",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle17.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "line",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle5.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle12.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "word2",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle18.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "line",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle5.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle12.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "word3",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle15.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "line",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle5.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle12.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "word4",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle16.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "line",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle5.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle12.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "word5",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle24.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "line",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle5.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle12.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "word6",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle4.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "line",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle5.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle12.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "word7",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle23.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "line",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle5.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle1.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "icon1",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle25.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "item_word1",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle13.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle1.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "icon2",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle3.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "item_word2",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle2.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle1.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "icon3",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle20.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "item_word3",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle19.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle1.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "icon4",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle11.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "item_word4",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle10.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle1.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "icon5",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle22.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "item_word5",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle21.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle1.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "icon6",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle7.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "item_word6",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle6.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "bg",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle1.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "icon7",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle9.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "item_word7",
+    "SpritePath": "Assets/Images/seabed_puzzle/seabed_puzzle8.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UISeabedPuzzle",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UISelectRole",
+    "ComponentName": "make",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "setup_btn",
+    "SpritePath": "Assets/Images/common/setup_btn.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "head",
+    "SpritePath": "Assets/Images/setup/setup6.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "quit_btn",
+    "SpritePath": "Assets/Images/setup/setup10.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "setup9",
+    "SpritePath": "Assets/Images/setup/setup9.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "notice_btn",
+    "SpritePath": "Assets/Images/setup/setup1.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "service_btn",
+    "SpritePath": "Assets/Images/setup/setup4.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "setup11",
+    "SpritePath": "Assets/Images/setup/setup11.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "setup12",
+    "SpritePath": "Assets/Images/setup/setup12.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "Background",
+    "SpritePath": "Assets/Images/setup/setup2.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "Fill",
+    "SpritePath": "Assets/Images/setup/setup3.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "Handle",
+    "SpritePath": "Assets/Images/setup/setup7.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "Background",
+    "SpritePath": "Assets/Images/setup/setup2.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "Fill",
+    "SpritePath": "Assets/Images/setup/setup3.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "Handle",
+    "SpritePath": "Assets/Images/setup/setup7.png"
+  },
+  {
+    "UIName": "UISetUp",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UISetUpNotice",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIShootingSun",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UIShootingSun",
+    "ComponentName": "pro_bg",
+    "SpritePath": "Assets/Images/Flanker/flanker_pro_bg.png"
+  },
+  {
+    "UIName": "UIShootingSun",
+    "ComponentName": "pro",
+    "SpritePath": "Assets/Images/Flanker/flanker_pro.png"
+  },
+  {
+    "UIName": "UIShootingSun",
+    "ComponentName": "close_btn",
+    "SpritePath": "Assets/Images/common/close_btn.png"
+  },
+  {
+    "UIName": "UIShootingSun",
+    "ComponentName": "rule_btn",
+    "SpritePath": "Assets/Images/common/rule_btn.png"
+  },
+  {
+    "UIName": "UITipsBoard",
+    "ComponentName": "mask",
+    "SpritePath": "Assets/Images/common/make.png"
+  },
+  {
+    "UIName": "UITipsBoard",
+    "ComponentName": "closeBtn",
+    "SpritePath": "Assets/Images/common/close_btn2.png"
+  },
+  {
+    "UIName": "UITipsBoard",
+    "ComponentName": "icon",
+    "SpritePath": "Assets/Images/common/gold_small_icon.png"
+  }
+]

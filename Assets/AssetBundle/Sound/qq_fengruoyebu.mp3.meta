@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7374b4c9ef72d66459c1887e62b640aa
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 1
+    sampleRateSetting: 2
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 0.5
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: assetbundle/sound/qq_fengruoyebu.assetbundle
+  assetBundleVariant: 

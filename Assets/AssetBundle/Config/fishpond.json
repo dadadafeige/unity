@@ -1,0 +1,22 @@
+﻿[
+  {
+    "id": 1,
+    "words": "唔，我的父母是谁呢，为什么只有师父照顾我，我的<color=#0000FF><u><link={4}>爸爸妈妈</link></u></color>为什么不陪着我，师父每次总说到时候我就知道了。",
+    "bjName": "bj_fishpond",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "fish_wodefumushishei",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 2,
+    "words": "再钓一些鱼吧！",
+    "bjName": "bj_fishpond",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "fish_zaidiaoyixieyuba",
+    "isOptiong": -1,
+    "": ""
+  }
+]

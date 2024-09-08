@@ -1,0 +1,57 @@
+﻿[
+  {
+    "id": 1,
+    "diff": 1,
+    "row": 4,
+    "column": 4,
+    "caoyaoNum": 0,
+    "dusheNum": 0,
+    "qiuyinNum": 1,
+    "baoxiaoNum": 0,
+    "diff_icon": "diff_1"
+  },
+  {
+    "id": 2,
+    "diff": 2,
+    "row": 5,
+    "column": 5,
+    "caoyaoNum": 0,
+    "dusheNum": 0,
+    "qiuyinNum": 2,
+    "baoxiaoNum": 0,
+    "diff_icon": "diff_2"
+  },
+  {
+    "id": 3,
+    "diff": 3,
+    "row": 5,
+    "column": 6,
+    "caoyaoNum": 0,
+    "dusheNum": 1,
+    "qiuyinNum": 2,
+    "baoxiaoNum": 0,
+    "diff_icon": "diff_3"
+  },
+  {
+    "id": 4,
+    "diff": 4,
+    "row": 6,
+    "column": 8,
+    "caoyaoNum": 1,
+    "dusheNum": 1,
+    "qiuyinNum": 5,
+    "baoxiaoNum": 0,
+    "diff_icon": "diff_4"
+  },
+  {
+    "id": 5,
+    "diff": 5,
+    "row": 8,
+    "column": 10,
+    "caoyaoNum": 1,
+    "dusheNum": 1,
+    "qiuyinNum": 5,
+    "baoxiaoNum": 1,
+    "diff_icon": "diff_5"
+  }
+]

@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: hurry_way
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e262e3f693c80bf449e04e0cfa718cdc, type: 3}
+    - {fileID: 2800000, guid: 255a539608275e946b60d9d9ee8f925e, type: 3}
+    - {fileID: 2800000, guid: 8e46d58e9c9203a489c830c4ccc0df42, type: 3}
+    - {fileID: 2800000, guid: 6991451cdff797544ad7509c1b10b936, type: 3}
+    - {fileID: 2800000, guid: 31d2ad110dc9c98458c42767fdf7f8f5, type: 3}
+    - {fileID: 2800000, guid: e0d6cbc99fdafb24293b51789e5d8d2e, type: 3}
+    - {fileID: 2800000, guid: 5ddb8529508d3d0459671f130fa14dad, type: 3}
+    - {fileID: 2800000, guid: ce6a2097ce95b9c43b09c2b5b51bd90a, type: 3}
+    - {fileID: 2800000, guid: 0bcd5847f993aed41b8f9d45935d7a17, type: 3}
+    - {fileID: 2800000, guid: 3340417dc0883954489169ca07cba6f1, type: 3}
+    - {fileID: 2800000, guid: 86ba759191b8e8b4590463aed420f5a8, type: 3}
+    - {fileID: 2800000, guid: 54c9440b929a1324086383a405a4f8b0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 31d2ad110dc9c98458c42767fdf7f8f5: 21300000
+    - 86ba759191b8e8b4590463aed420f5a8: 21300000
+    - 255a539608275e946b60d9d9ee8f925e: 21300000
+    - e262e3f693c80bf449e04e0cfa718cdc: 21300000
+    - 0bcd5847f993aed41b8f9d45935d7a17: 21300000
+    - ce6a2097ce95b9c43b09c2b5b51bd90a: 21300000
+    - 5ddb8529508d3d0459671f130fa14dad: 21300000
+    - e0d6cbc99fdafb24293b51789e5d8d2e: 21300000
+    - 54c9440b929a1324086383a405a4f8b0: 21300000
+    - 6991451cdff797544ad7509c1b10b936: 21300000
+    - 3340417dc0883954489169ca07cba6f1: 21300000
+    - 8e46d58e9c9203a489c830c4ccc0df42: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 31d2ad110dc9c98458c42767fdf7f8f5, type: 3}
+  - {fileID: 21300000, guid: 86ba759191b8e8b4590463aed420f5a8, type: 3}
+  - {fileID: 21300000, guid: 255a539608275e946b60d9d9ee8f925e, type: 3}
+  - {fileID: 21300000, guid: e262e3f693c80bf449e04e0cfa718cdc, type: 3}
+  - {fileID: 21300000, guid: 0bcd5847f993aed41b8f9d45935d7a17, type: 3}
+  - {fileID: 21300000, guid: ce6a2097ce95b9c43b09c2b5b51bd90a, type: 3}
+  - {fileID: 21300000, guid: 5ddb8529508d3d0459671f130fa14dad, type: 3}
+  - {fileID: 21300000, guid: e0d6cbc99fdafb24293b51789e5d8d2e, type: 3}
+  - {fileID: 21300000, guid: 54c9440b929a1324086383a405a4f8b0, type: 3}
+  - {fileID: 21300000, guid: 6991451cdff797544ad7509c1b10b936, type: 3}
+  - {fileID: 21300000, guid: 3340417dc0883954489169ca07cba6f1, type: 3}
+  - {fileID: 21300000, guid: 8e46d58e9c9203a489c830c4ccc0df42, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hurry_way_color4
+  - hurry_way_logo3
+  - hurry_way_color1
+  - hurry_way_btn
+  - hurry_way_logo1
+  - hurry_way_direction
+  - hurry_way_color6
+  - hurry_way_color5
+  - hurry_way_pro_icon
+  - hurry_way_color3
+  - hurry_way_logo2
+  - hurry_way_color2
+  m_RenderDataMap: {}
+  m_Tag: hurry_way
+  m_IsVariant: 0

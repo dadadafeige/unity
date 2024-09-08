@@ -1,0 +1,434 @@
+﻿[
+  {
+    "id": 1,
+    "words": "适逢狐族大节，四处张灯结彩喜气洋洋，夜幕降临时，灯笼的光照亮了整个街区，仿佛将聚居地装点成了一个梦幻的仙境。",
+    "bjName": "bj_denghui",
+    "spineName": "",
+    "link": "",
+    "sound": "qq_1shifeng",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "该死的入侵者！张灯结彩，好不快活！",
+    "bjName": "bj_denghui",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "qq_gaisideruqinzhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "我们进去搞破坏吧！",
+    "bjName": "bj_denghui",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "qq_womenjinqu",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "别冲动，在敌人大后方我们没有后援的",
+    "bjName": "bj_denghui",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "qq_biechongdong",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "我们是带着营救介潭族长的任务来的，而且如果我们肆无忌惮的报复，那跟敌人又有什么区别？现在我们正好乘此机会去打听些情报",
+    "bjName": "bj_denghui",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "qq_womenshidaizhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "那我们分头行动吧，拿着这些符咒，使用灵力激活它，其他人就可以跟随符咒而来了。",
+    "bjName": "bj_denghui",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "qq_nawomenfentou",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "也罢，我先去兵营附近看看",
+    "bjName": "bj_denghui",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "qq_yebawoxianqu",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "幼时我随父亲来过青丘，有几位故友在附近，我去打听一下，他们说不定知道些什么",
+    "bjName": "bj_denghui",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "qq_youshiwpsuifuqin",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "那我就和罗睺羽嘉去市集酒肆转转吧，鱼龙混杂说不定能有所发现",
+    "bjName": "bj_denghui",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "qq_nawojiuheluo",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "看！那边有钓宝物的摊位，我们过去看看",
+    "bjName": "bj_hub",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "qq_kannabianyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "(符咒一闪）",
+    "bjName": "bj_hub",
+    "spineName": "",
+    "link": "",
+    "sound": "qq_fuzhouyishan",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "唉，小麟召唤我们了，说不定是他发现了什么，反正这边感觉也没有什么信息了，我们去看看吧",
+    "bjName": "bj_hub",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "qq_aixiaolinzhaohuan",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "等……等下，小二！再来五杯酒，带走！",
+    "bjName": "bj_hub",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "qq_dengdengxia",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "罗大人真是海量呢，真不知道当年是不是喝醉了被人偷袭才落得如今这个下场",
+    "bjName": "bj_hub",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "qq_luodarenzhenshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "你个鸟人！别逼本大爷跟你们翻脸！",
+    "bjName": "bj_hub",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "qq_nigeniaoren",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "走啦走啦",
+    "bjName": "bj_hub",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "qq_zoulazoula",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "只见风若小麟二人剑拔弩张，相向而立",
+    "bjName": "bj_denghui",
+    "spineName": "",
+    "link": "",
+    "sound": "qq_zhijianfengruo",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "这个反复小人，原来早已经和狐族勾搭在一起了！",
+    "bjName": "bj_denghui",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "qq_1zhege",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "风若你怎么如此无理取闹！不由分说就要伤害我的朋友，都说了情况不是你想的那样",
+    "bjName": "bj_denghui",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "qq_fengruonizenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "小麟，没关系，任谁族人遭受屠杀都很难冷静。这位介潭族的姑娘，入侵你们的并不是我们",
+    "bjName": "bj_denghui",
+    "spineName": "baiqian,？？？,2",
+    "link": "",
+    "sound": "qq_xiaolinmeiguanxi",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "不是你们？不是你们还能是谁？你可别说有什么秘法能够伪装成你们狐族的样子！",
+    "bjName": "bj_denghui",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "qq_bushinimenbushinimen",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "风若姑娘，我是狐族公主白浅，我可以向你保证我的父亲并没有派遣任何军队去入侵介潭一族，这是一起极为严重的事件，现在我邀请你一起去见我的父亲",
+    "bjName": "bj_denghui",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "qq_fengruoguniangwoshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "我怎么知道不是你的诡计？",
+    "bjName": "bj_denghui",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "qq_wozenmezhidao",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "我相信我的朋友",
+    "bjName": "bj_denghui",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "qq_woxiangxinwode",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "大家先冷静！风若，你的族人惨遭屠杀，我很理解你的愤怒和难过，我也很难过，但我们需要先冷静下来了解这件事的全貌。小麟，能问问你和白浅是怎么认识的么？",
+    "bjName": "bj_denghui",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "qq_xiaolinnengwenwen",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "长话短说就是在我幼时，父亲带我拜访狐族，在那时我和白浅觉得投缘，并且一直保持联系到现在，在之前我说的寻找旧人就是指的白浅姑娘",
+    "bjName": "bj_denghui",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "qq_changhuaduanshuo",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "这样啊……风若你去野外随时准备联系介潭族内，我们跟小麟一起去看看吧，如果有什么不对劲的地方我会用符咒联系你，辛苦啦",
+    "bjName": "bj_denghui",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "qq_1zheyanga",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "可是，也罢，放心，一旦你们有难，我介潭一族拼上全部也要跟他们拼了。",
+    "bjName": "bj_denghui",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "qq_keshiyebafangxin",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "我们走吧，一路上小麟可以跟我们讲讲都发生了什么",
+    "bjName": "bj_denghui",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "qq_womenzouba",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "(不久前...)",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "",
+    "link": "",
+    "sound": "qq_bujiuqian",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "用之前的方式联系白浅吧，希望不要和她站在对立面",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "qq_yongzhiqiandefangshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "这边！小麟！怎么突然有空大驾光临啦，是不是想我了？",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "qq_zhebianxiaolin",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "我来这里是有要紧事，你认真回答我，狐族有没有入侵介潭一族？",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "qq_wolaizhelishiyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "没有啊，发生什么了？",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "qq_meiyouafasheng",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "真的？你没骗我？",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "qq_zhendenimeipian",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "你不相信我！你看这集会的样子哪有半点战争的气氛，高层能伪装，你不能保证每一个公民都能伪装吧。到底发生什么了？",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "qq_1nibuxiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "我们一行人刚从介潭一族那边过来，那边遭受了狐族的入侵，他们似乎还具备一种影响人心灵的力量",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "qq_womenyixingren",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "我先把同伴们都叫过来吧（激发符咒）",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "qq_woxianbatongban",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "小麟！我在这里",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "qq_xiaolinwozai",
+    "isOptiong": -1
+  },
+  {
+    "id": 40,
+    "words": "（拔出武器）你是谁！你对小麟做了什么？他怎么了？",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "qq_nishisheinidui",
+    "isOptiong": -1
+  },
+  {
+    "id": 41,
+    "words": "风若等等！她不是敌人",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "qq_fengruodengdeng",
+    "isOptiong": -1
+  },
+  {
+    "id": 42,
+    "words": "这位姑娘，小麟可是特意来找我的呢，我们可是老相识了，你说呢？",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "qq_zheweiguniang",
+    "isOptiong": -1
+  },
+  {
+    "id": 43,
+    "words": "！？小麟，你！你竟然，你究竟有何居心！我的族人被屠杀，你却跟敌人勾勾搭搭！",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "qq_xiaolinninijingran",
+    "isOptiong": -1
+  },
+  {
+    "id": 44,
+    "words": "(回忆结束)",
+    "bjName": "bj_denghui_huiyi",
+    "spineName": "",
+    "link": "",
+    "sound": "",
+    "isOptiong": -1
+  },
+  {
+    "id": 45,
+    "words": "然后你就赶来了，就是这样",
+    "bjName": "bj_denghui",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "qq_ranhounijiuganlai",
+    "isOptiong": -1
+  },
+  {
+    "id": 46,
+    "words": "那位姑娘好大的气性，吓死我了",
+    "bjName": "bj_denghui",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "qq_naweiguniang",
+    "isOptiong": -1
+  },
+  {
+    "id": 47,
+    "words": "风若也不容易，也不能怪她",
+    "bjName": "bj_denghui",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "qq_fengruoyebu",
+    "isOptiong": -1
+  },
+  {
+    "id": 48,
+    "words": "都少说两句吧，等到了地方情况自然会清楚了",
+    "bjName": "bj_denghui",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "qq_doushaoshuoliangju",
+    "isOptiong": -1
+  }
+]

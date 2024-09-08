@@ -1,0 +1,578 @@
+﻿[
+  {
+    "id": 1,
+    "words": "来到塔下，时近黄昏，守塔人提着一盏破旧的灯笼前来迎接。守塔人六十来岁，一副疲惫的面容。",
+    "bjName": "bj_tower",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_laidaota",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "城主身体欠佳，不便相陪，后面的路由我来为你指引，请随我来。",
+    "bjName": "bj_tower",
+    "spineName": "keeper,守塔人,2",
+    "link": "",
+    "sound": "mibaoge_shoutaren",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "俩人一前一后登上石阶，缓缓踏进塔门。步入塔门的一刹那，明显感受到了一股强劲灵力迎头压袭而来。",
+    "bjName": "bj_inside1",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_liarenyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "这塔内，果然有问题。这一层会不会有什么东西，但是周围太暗了，似乎弥漫着鬼气……",
+    "bjName": "bj_inside1",
+    "spineName": "main,主角内心,1",
+    "link": "",
+    "sound": "mibaoge_zhetanei",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "#主角#使用驱鬼符，驱散鬼气，看清前路。",
+    "bjName": "bj_inside1",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_nishiyong",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "守塔人胆战心惊地在侧旁带路照亮。两人顺着石阶缓步走上一层层塔楼。还未完全走上二楼石阶，便听到上一层传来一个明显的声响。",
+    "bjName": "bj_inside1",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_shoutarendan",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "啊！什么东西？！真的有鬼！有鬼！",
+    "bjName": "bj_inside1",
+    "spineName": "keeper,守塔人,2",
+    "link": "",
+    "sound": "mibaoge_ashenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "守塔人边喊叫边慌乱逃走，只剩下#主角#一人站在黑黢黢的楼梯之上。#主角#站定几秒，屏住呼吸仔细听着。罗睺和羽嘉见旁边无人便现身了。",
+    "bjName": "bj_inside1",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_shoutarenbian",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "刚才是什么声音？",
+    "bjName": "bj_inside1",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "mibaoge_gangcaishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "我们……上去看看。",
+    "bjName": "bj_inside1",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mibaoge_womenshang",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "三人缓步走上二楼的石阶。",
+    "bjName": "bj_inside1",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_sanrenhuan",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "突然#主角#发现了已经魔化的塔灵，展开了战斗。",
+    "bjName": "bj_inside1",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_turanni",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "大家赢了猜拳，获得了第一枚镜子碎片。",
+    "bjName": "bj_inside1",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_dajiayin",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "奇怪！这东西一定不是平白无故出现在这里的，还是先收起来吧，说不定后面有什么用处。",
+    "bjName": "bj_inside1",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mibaoge_qiguaizhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "#主角#一行往三楼走去，一踏上三楼，感受到一股阴郁的强大灵力。",
+    "bjName": "bj_inside2",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_yixinwang",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "定睛一看，这一层貌似是个藏书阁，塔阁内是一排排书架，架子上摆满了书卷之类的东西。",
+    "bjName": "bj_inside2",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_dinjinyikan",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "这里有这么多的书卷，说不定可以发现什么对我们有帮助的信息，我们找找看吧。",
+    "bjName": "bj_inside2",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "mibaoge_zheliyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "卷轴中记载着宫城中的一些历史。#主角#阅读卷轴，发现了一些以前不知道的关于这宫城的秘密。",
+    "bjName": "bj_inside2",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_juanzhouzhong",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "……原来，多年前发生了这样的事，天兆厄运啊。",
+    "bjName": "bj_inside2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mibaoge_yuanlaiduo",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "原来他也曾不轻信这预兆而将我留在这宫城之中一段时间，结果这座城果然发生了洪水和瘟疫，民不聊生。一城之主，看来也是有<color=#0000FF><u><link={46}>自己的苦衷</link></u></color>。",
+    "bjName": "bj_inside2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mibaoge_yuanlaitaye",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "我们继续吧，还有很多层呢。",
+    "bjName": "bj_inside2",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mibaoge_womenji",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "#主角#叹了口气，朝着罗睺、羽嘉点了点头，将卷轴放回原处，便一起继续顺着石阶一步步往上迈。",
+    "bjName": "bj_inside2",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_nitanle",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "一行人步上四层，再次遭遇到魔化塔灵。",
+    "bjName": "bj_inside2",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_yixinrenbu",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "大家成功走出了迷宫，获得了第二枚镜子碎片。",
+    "bjName": "bj_inside2",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_dajiachen",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "游戏胜利后掉落第二枚镜子碎片，#主角#拾起收入囊中，一行人继续登塔。来到五层，又遇魔化塔灵。",
+    "bjName": "bj_inside2",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_youxisheng",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "大家赢了猜拳，获得了第三枚镜子碎片。",
+    "bjName": "bj_inside2",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_dajiayinle",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "游戏胜利后掉落第三枚镜子碎片，#主角#拾起收入囊中，一行人继续登塔。",
+    "bjName": "bj_inside2",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_youxisli",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "一登上塔楼六层，便感受到一股较之前更为强大的灵力袭来。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_yidengshang",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "这一层有着很多的置物架，架子上摆着一些古旧珍宝，这邪门灵力便盘旋在那四周，无法靠近。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_zheyiceng",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "灵力逐渐幻化出形态，乃是守护这六层的塔灵。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_linglizhu",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "嚯！这里有很多宝贝呢，看起来价值连城。",
+    "bjName": "bj_inside3",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mibaoge_huozheli",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "这些宝贝里会有什么我们需要的线索么？",
+    "bjName": "bj_inside3",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "mibaoge_zhexibaobie",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "大家顺着置物架浏览欣赏着各种奇珍异宝，直到最后一个置物架，这个架子上存放的东西看起来有些不同。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_dajiashun",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "这个架子上的宝贝有点儿奇怪啊，与其说是宝贝，不如说是旧杂物。",
+    "bjName": "bj_inside3",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mibaoge_zhegejia",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "……这些物品……怎么感觉有些眼熟。",
+    "bjName": "bj_inside3",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mibaoge_zhexiewu",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "#主角#仔细端详着这一件件旧物，仿佛心中某个隐秘的角落被一块小石头激起了层层涟漪。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_nizixi",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "突然，#主角#发现了放在架子最上层最中心最显眼位置的一盏莲花造型的灯笼。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_turannifa",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "这是！",
+    "bjName": "bj_inside3",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mibaoge_zheshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "随着口中小声惊叫一声，遥远的儿时记忆正在被唤起。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_suizhekou",
+    "isOptiong": -1
+  },
+  {
+    "id": 40,
+    "words": "咦？这个破灯笼怎么被供在这么重要的位置。",
+    "bjName": "bj_inside3",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mibaoge_yizhege",
+    "isOptiong": -1
+  },
+  {
+    "id": 41,
+    "words": "不仔细看以为是新的呢，凑近仔细一看，这应该是件旧物，看起来似乎是经常被精心擦拭保养啊。",
+    "bjName": "bj_inside3",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "mibaoge_buzixikan",
+    "isOptiong": -1
+  },
+  {
+    "id": 42,
+    "words": "这是……我小时候最喜欢的那盏莲花灯。为什么呢……",
+    "bjName": "bj_inside3",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mibaoge_zheshiwoxiao",
+    "isOptiong": -1
+  },
+  {
+    "id": 43,
+    "words": "什么？这是你小时候的玩具啊！可它为什么会被收在这里呢？奇怪！",
+    "bjName": "bj_inside3",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mibaoge_smzheshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 44,
+    "words": "#主角#陷入回忆与沉思，内心既想要追寻到一个答案，又担心害怕，怕那不是自己所期望的。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_nixianru",
+    "isOptiong": -1
+  },
+  {
+    "id": 45,
+    "words": "父亲对我，到底有没有<color=#0000FF><u><link={47}>舐犊之情</link></u></color>呢？如果没有，那为什么要珍藏着这个灯笼呢？",
+    "bjName": "bj_inside3",
+    "spineName": "main,主角内心,1",
+    "link": "",
+    "sound": "mibaoge_fuqindui",
+    "isOptiong": -1
+  },
+  {
+    "id": 46,
+    "words": "嘿，我们不能停在这里，上面还有几层呢，我能感受到，我们离那股巨大的魔气越来越近了，一定就在塔顶的什么地方，我们要继续！",
+    "bjName": "bj_inside3",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mibaoge_heiwomen",
+    "isOptiong": -1
+  },
+  {
+    "id": 47,
+    "words": "好。",
+    "bjName": "bj_inside3",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mibaoge_hao",
+    "isOptiong": -1
+  },
+  {
+    "id": 48,
+    "words": "#主角#思绪被唤回，答了一声，便将手中的灯笼收在身上，随罗睺、羽嘉继续往上层走去。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_sixubei",
+    "isOptiong": -1
+  },
+  {
+    "id": 49,
+    "words": "大家登上七层，再遇魔化塔灵。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_dajd",
+    "isOptiong": -1
+  },
+  {
+    "id": 50,
+    "words": "大家成功走出了迷宫，获得了第四枚镜子碎片。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_djcg",
+    "isOptiong": -1
+  },
+  {
+    "id": 51,
+    "words": "游戏胜利后掉落第四枚镜子碎片，#主角#拾起收入囊中，一行人继续登塔。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_yxslh",
+    "isOptiong": -1
+  },
+  {
+    "id": 52,
+    "words": "通过七层后，一行人又一鼓作气来到八层，再次遇到魔化塔灵。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_tonguoqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 53,
+    "words": "大家赢了猜拳，获得了第五枚镜子碎片。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_djiayin",
+    "isOptiong": -1
+  },
+  {
+    "id": 54,
+    "words": "游戏胜利后掉落第五枚镜子碎片，#主角#拾起收入囊中，一行人继续登塔。",
+    "bjName": "bj_inside3",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_youxsl",
+    "isOptiong": -1
+  },
+  {
+    "id": 55,
+    "words": "大家登上楼梯，继续登塔，还未登上第九层，在台阶上就感受到一股压迫感极强的巨大灵力扑面而来。",
+    "bjName": "bj_inside4",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_dajdeng",
+    "isOptiong": -1
+  },
+  {
+    "id": 56,
+    "words": "几人纷纷闭起眼睛抬起手臂抵挡，一步一步艰难地迈上一节节台阶。",
+    "bjName": "bj_inside4",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_jirenf",
+    "isOptiong": -1
+  },
+  {
+    "id": 57,
+    "words": "完全走上九层时，刚才的灵压反而平复了许多，这一层的各面墙上整齐地陈列着一排排灵位。",
+    "bjName": "bj_inside4",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_wanquanz",
+    "isOptiong": -1
+  },
+  {
+    "id": 58,
+    "words": "这里安放的大概是历代城主之位。",
+    "bjName": "bj_inside4",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "mibaoge_zlanfang",
+    "isOptiong": -1
+  },
+  {
+    "id": 59,
+    "words": "突然，之前收集的镜子碎片像被什么力量召唤一样，开始震颤和闪光。",
+    "bjName": "bj_inside4",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_trzq",
+    "isOptiong": -1
+  },
+  {
+    "id": 60,
+    "words": "拼合好的镜子微光闪烁，#主角#感到自己由手开始、整个身体都被镜中一股强大的力量所吸引，仿佛要将自己就拖拽进去。",
+    "bjName": "bj_inside4",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_pinhehao",
+    "isOptiong": -1
+  },
+  {
+    "id": 61,
+    "words": "啊！",
+    "bjName": "bj_inside4",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mibaoge_a",
+    "isOptiong": -1
+  },
+  {
+    "id": 62,
+    "words": "不好！",
+    "bjName": "bj_inside4",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mibaoge_buhao",
+    "isOptiong": -1
+  },
+  {
+    "id": 63,
+    "words": "怎么回事！",
+    "bjName": "bj_inside4",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "mibaoge_zmhs",
+    "isOptiong": -1
+  },
+  {
+    "id": 64,
+    "words": "罗睺和羽嘉也发现不妙，赶忙扑上前伸手去拉住#主角#，但已来不及，三个人一起被吸进了镜中。",
+    "bjName": "bj_inside4",
+    "spineName": "",
+    "link": "",
+    "sound": "mibaoge_lhyj",
+    "isOptiong": -1
+  }
+]

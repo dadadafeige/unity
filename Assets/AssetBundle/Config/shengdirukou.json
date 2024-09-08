@@ -1,0 +1,389 @@
+﻿[
+  {
+    "id": 1,
+    "words": "这……这里是我族圣地！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_zhezhelishiwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "你们来看这里！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "rk_nimenlaikan",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "“难临族心悸，圣地问灵机。风起任东西，圣器解厄归。”",
+    "bjName": "bj_shengdirukou",
+    "spineName": ",石碑,1",
+    "link": "",
+    "sound": "rk_nanlinzuxin",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "这是……难道圣地里有让我们度过此劫的方法！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_zheshinandao",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "但是我肯定做不到的，会有突发情况，<color=#0000FF><u><link={22}>超出控制</link></u></color>，就像请族长出关这么简单的小事也会出意外，我肯定没办法通过考验获得圣器的力量。",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_1danshiwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "看来我们应当进圣地中看看了，不过在这之前……风若姑娘，你先前说族内发生了怪事，现在能展开说说么？",
+    "bjName": "bj_shengdirukou",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "rk_1kanlai",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "可是我们还要去获得圣器的力量，没时间了！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_keshiwomenhaiyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "按照姑娘你这个状态，我觉得我们也很难成功。加之我们受雇就是来解决这个问题的，我们应该还是先把事情了解清楚。",
+    "bjName": "bj_shengdirukou",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "rk_1anzhaogu",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "没用的，介潭没救了，我一定会失败的，我应付不了这些突发情况，放弃吧。",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_1meiyongde",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "风若！介潭一族的傲骨哪里去了？你们一族主修体术，从小就通过各种方式打熬身体，那么艰难的训练都挺过来了，你的那股韧劲呢？",
+    "bjName": "bj_shengdirukou",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "rk_1jietanyizu",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "一个星期前，我的同胞们就开始出现各种问题，像是觉得自己没法打赢比武就直接退赛的，担心自己举起刀就会伤害他人于是自废武功的。",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_1yigexingqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "出现这件事情后多久狐族就开始进攻了？",
+    "bjName": "bj_shengdirukou",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "rk_chuxianzhejian",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "一两天后吧，难道说？",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_1yiliangtianhou",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "对！这恐怕是狐族的阴谋！他们肯定得到了什么新的力量，才有胆子突袭",
+    "bjName": "bj_shengdirukou",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "rk_duizhekongpa",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "这样的话，这样的话我之前的反常举动也是受到了狐族诡计的影响！我要振作起来，我要振作起来！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_1zheyangdehua",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "是的，风若你一定可以的！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "rk_shidefengruo",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "就是就是，我做了很多备用计划的，加上一点点的随机应变，我们一定可以做到的",
+    "bjName": "bj_shengdirukou",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "rk_jiushijiushiwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "这才对嘛！任他魑魅魍魉，一击破之！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "luohou,罗睺,1",
+    "link": "",
+    "sound": "rk_zhecaiduimaren",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "嗯，谢谢你们！我们赶紧去取得圣器吧，我会尽力做到的！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_enxiexienimen",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "一行人走到满是青苔的石碑面前，其上镌刻着“幽影迷踪”，它旁边瘴气缭绕间隐约可见残缺的传送阵法。",
+    "bjName": "bj_shengdirukou",
+    "spineName": "",
+    "link": "",
+    "sound": "rk_1zoudaoman",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "看来前方就是我们的目的地了，加油风若，我们上！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "rk_kanlaiqianfang",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "嗯！（走上前启动阵法）",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_en (1)",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "传送至圣地深处需要用我族信物来打开，但是漫长的时间似乎侵蚀了阵法，得想办法修复阵法",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_1chuansong",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "刚好我们之前破坏阵法获得了一些五行材料，我们快些修复了试试吧。",
+    "bjName": "bj_shengdirukou",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "rk_ganghaowomen",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "成功了！风若，我们进去吧！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "rk_1chenggongle",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "嗯...真的成功了么？",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_1enzhende",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "就在一行人准备踏入阵法时，风若突然止步不前，抱着头蹲下，面色难看，情绪隐现崩溃征兆。",
+    "bjName": "bj_shengdirukou",
+    "spineName": "",
+    "link": "",
+    "sound": "rk_1jiuzaiyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "不……不，我做不到，我一定做不到的，我一定会搞砸这些的",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_bubuwozuobudao",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "你这女人真是拖累，不是告诉你了要振作起来么！不要想那些东西就好了啊，那都是狐族的阴谋！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "luohou,罗睺,1",
+    "link": "",
+    "sound": "rk_nizhenvrenzhen",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "少说点风凉话，哪有那么容易。",
+    "bjName": "bj_shengdirukou",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "rk_shaoshuodian",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "羽嘉说的对，这狐族的诡计效果强大，不是转换一下<color=#0000FF><u><link={23}>思维方式</link></u></color>就能解决的事情，我们得想办法让风若摆脱这些困扰",
+    "bjName": "bj_shengdirukou",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "rk_yujiashuodedui",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "现在该怎么办呢，我没主意了师父……（此时，腰间法宝一闪，#主角#陷入回忆中）",
+    "bjName": "bj_shengdirukou",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "rk_xianzaigaizenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "乖徒儿怎么不动了，叉鱼叉累了？累了就来歇会。",
+    "bjName": "bj_fishpond2",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "rk_guaituerzenmebu",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "师父，我怕我出手之后把鱼都吓走了，最后捞得一场空。",
+    "bjName": "bj_fishpond2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "rk_shifuwopawo",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "哦，那总是在那里想东想西最后不也是一场空么？<color=#0000FF><u><link={24}>想起来全是问题，做起来全是答案</link></u></color>。",
+    "bjName": "bj_fishpond2",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "rk_onazongshizai",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "（师父，谢谢您的教诲，我知道该怎么做了）",
+    "bjName": "bj_shengdirukou",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "rk_1shifuxie",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "（一把拉起跪坐在地上依旧彷徨的风若）我们走！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "rk_1womenzou",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "！？#主角#你干嘛！我不行的，一定会搞砸的！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "rk_1niganma",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "哈哈，干就完了，早就应该这样了，浪费那么长的时间",
+    "bjName": "bj_shengdirukou",
+    "spineName": "luohou,罗睺,1",
+    "link": "",
+    "sound": "rk_hahaganjiuwanle",
+    "isOptiong": -1
+  },
+  {
+    "id": 40,
+    "words": "不对劲，他怎么会突然这么有主见，肯定有什么原因",
+    "bjName": "bj_shengdirukou",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "rk_buduijinta",
+    "isOptiong": -1
+  },
+  {
+    "id": 41,
+    "words": "也只能相信他了",
+    "bjName": "bj_shengdirukou",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "rk_yezhinengxiangxin",
+    "isOptiong": -1
+  },
+  {
+    "id": 42,
+    "words": "磨磨唧唧的，罗大人先去寻宝咯！最后进来的是笨蛋！",
+    "bjName": "bj_shengdirukou",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "rk_momojijide",
+    "isOptiong": -1
+  },
+  {
+    "id": 45,
+    "words": "一行人进入了介潭圣地",
+    "bjName": "bj_shengdirukou",
+    "spineName": "",
+    "link": "",
+    "sound": "rk_yixingrenjinrule",
+    "isOptiong": -1
+  }
+]

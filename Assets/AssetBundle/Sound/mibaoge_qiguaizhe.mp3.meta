@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e33eb0f6367448448a8f4c4b308a3c76
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 1
+    sampleRateSetting: 2
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 0.5
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: assetbundle/sound/mibaoge_qiguaizhe.assetbundle
+  assetBundleVariant: 

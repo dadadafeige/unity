@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: PuGongYing_Data
+  m_EditorClassIdentifier: 
+  dataName: PuGongYing
+  dragonBonesJSON: {fileID: 4900000, guid: 77387e9382fe45340b42acc1d5e0f3fd, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 7c2cacd9ef19af443b293077482ff2bf, type: 3}
+    texture: {fileID: 2800000, guid: 07cf6c8cd6bdf5c46bcea3ffd090e8a3, type: 3}
+    material: {fileID: 2100000, guid: 0c931913f93fbf543aec59b6e17d8503, type: 2}
+    uiMaterial: {fileID: 2100000, guid: c4bb50fbf66a9c74d8d0bd84f9d65b2e, type: 2}

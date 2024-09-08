@@ -1,0 +1,362 @@
+﻿[
+  {
+    "id": 1,
+    "words": "再次睁开眼时，已处于幻境之中，周围已不是什么战场，而是一片昏暗萧瑟的荒原，这里也没有什么军队兵将，只剩下三人#主角#、罗睺、羽嘉。",
+    "bjName": "bj_wasteland",
+    "spineName": "",
+    "link": "",
+    "sound": "waste_zaicizhengkai",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "你受伤了！怎么样？还起得来么？相柳可是大巫，法力太强大了，我们根本不是他的对手……",
+    "bjName": "bj_wasteland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "waste_1nishoushang",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "是啊，太不自量力了，我根本不是他的对手。<color=#0000FF><u><link={30}>我真是差劲</link></u></color>，什么都做不好。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_shiataibuzi",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "以前在村子里时就那么没用，出山后一路上都是在大家的帮助下才能走到现在。这次本来是来帮助小麟的，可是却拖累他被擒。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_1yiqianzai",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "以前救不了师父，现在也救不了小麟……我真是一个废物！",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_yiqianjiubuliao",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "清醒一点！你说你自己很没用、是个废物？你有用或是没用都是你对自己的<color=#0000FF><u><link={31}>主观评价</link></u></color>。每个人对同一个问题可能都会有不同的判断或评价。",
+    "bjName": "bj_wasteland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "waste_1qingxing",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "你认为一个人没用的标准是什么呢？一个人有什么样的表现就算是没用的呢？",
+    "bjName": "bj_wasteland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "waste_nirenwei",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "很穷，籍籍无名，总是失败，或者……没法保护自己想保护的人……就是没用。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_1henqiong",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "你刚刚说的这几条，一个人需要全都满足呢，还是只要满足其中一条就能说明他没有用呢？",
+    "bjName": "bj_wasteland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "waste_niganggang",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "满足一条就够了。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_manzuyitiao",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "那么你身边有没有很穷的朋友呢？",
+    "bjName": "bj_wasteland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "waste_namenishenbian",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "有的，比如我们村里的阿牛。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_youdebiru",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "阿牛是谁？好吧，那这个阿牛，他是个没用的人吗？",
+    "bjName": "bj_wasteland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "waste_aniushishei",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "不是的，阿牛在养殖农务方面很厉害，他种的庄稼、蔬菜、药材的品质是一等一的好，他还是个善良又热心助人的人，才不是没用的人。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_bushideaniu",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "这么看来，“只要很穷就是一个没有用的人”这种判断不成立啊。那如果是你说的那几条标准都满足了又算不算没用的人呢？",
+    "bjName": "bj_wasteland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "waste_1zhemekan",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "这几条标准都满足的人，仔细想想，好像也是有的。但我不觉得他们无用，因为他们还有别的优势或长处。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_1zhejitiao",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "可是……这次战斗会失败、小麟会被抓住，都要怪我……是我与敌人单人战斗失败，<color=#0000FF><u><link={32}>都怪我</link></u></color>拖了后腿，法力也不够，没有能力救他。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_keshizheci",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "这件事情的发生真的全都是因为你吗？我们现在来想一想，影响一场战斗结果的原因都有哪些呢？",
+    "bjName": "bj_wasteland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "waste_zhejianshiqingde",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "我想想……战斗结果的影响因素嘛，应该有武器装备、法力、军队人数规模、将帅、军队士气以及民众支持等等。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_woxiangxiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "如果各种因素对战斗的影响总和是100%，你认为这些原因对于战斗的重要性程度占比各是多少呢？",
+    "bjName": "bj_wasteland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "waste_1ruguo",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "呃……我认为军队的战斗武力、法力、规模是最重要的，大概占50%吧；军队将领的能力和策略也很重要，大概30%吧。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_1eworen",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "而军队士气和民众的支持，我认为可能各占10%左右。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_erjundui",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "那么，在这些因素中，最直接与你有关的是哪个因素呢？实际上你又占了多大的比例呢？",
+    "bjName": "bj_wasteland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "waste_namezaizhexie",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "我现在应该算是东海军队的一份子，东海大军少说也有数万，军队总数中，我应该只占了非常小的比例，甚至不到1%。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_1woxianzai",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "这表示你在战败这件事上只起到一小部分作用，而不是决定性因素，对吧？更何况现在我们只是占了下风，战斗还没结束呢！并没有失败哦！",
+    "bjName": "bj_wasteland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "waste_1zhebiaoshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "……可是，这依然不能说明我是个有用的人。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_keshizheyiran",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "那你觉得什么样的人才算有用的人呢？",
+    "bjName": "bj_wasteland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "waste_nanijuede",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "（思索片刻）嗯……有钱有名，能够帮助别人。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_1enyouqian",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "一个有用的人需要同时满足这三条标准吗？你认识的人中，又有多少人符合所有这些标准呢？",
+    "bjName": "bj_wasteland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "waste_1yigeyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "我觉得需要同时满足这三个标准，而这样的人……我身边可能有两三个吧。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_1wojuede",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "只有两三个？其余人呢？其余那些不完全符合的人就不是有用的人？",
+    "bjName": "bj_wasteland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "waste_1zhiyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "这样说好像也不太对。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_zheyangshuo",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "那么，你自己又符合这三条标准中的几条呢？",
+    "bjName": "bj_wasteland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "waste_nameni",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "我会画符，能帮到别人，其他的就……",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_1wohui",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "可是，你在介潭圣地和青丘时不是帮助过风若和白浅吗？",
+    "bjName": "bj_wasteland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "waste_1keshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "对于有用的标准呢，通过我们刚才的讨论，发现多数人都达不到，你和其他大部分人一样符合其中的一部分标准。",
+    "bjName": "bj_wasteland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "waste_1duiyu",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "综合起来，现在你觉得自己是没用的、有用的，还是其他情况呢？",
+    "bjName": "bj_wasteland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "waste_zongheqilai",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "看来，我不算是个没用的人，还是有些用的吧。",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_kanlaiwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "现在是不是感觉好些了？战斗还没结束呢！",
+    "bjName": "bj_wasteland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "waste_xianzaishibu",
+    "isOptiong": -1
+  },
+  {
+    "id": 40,
+    "words": "对，还没结束，我不能放弃！我还是有一些用处的，或许可以再试试！",
+    "bjName": "bj_wasteland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "waste_duihaimei",
+    "isOptiong": -1
+  }
+]

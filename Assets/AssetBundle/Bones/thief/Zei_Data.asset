@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: Zei_Data
+  m_EditorClassIdentifier: 
+  dataName: Zei
+  dragonBonesJSON: {fileID: 4900000, guid: 64ac072b06b552848b2ef6c92bad00d2, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 78d3fdd3d20f1bf43a2bd3729c9eb816, type: 3}
+    texture: {fileID: 2800000, guid: bea325c07cb1b78438755ce31020a05c, type: 3}
+    material: {fileID: 2100000, guid: e26163f93954acc4a98141ad9cc7001e, type: 2}
+    uiMaterial: {fileID: 2100000, guid: ff025c1f9019e414faaa307c6459b1a1, type: 2}

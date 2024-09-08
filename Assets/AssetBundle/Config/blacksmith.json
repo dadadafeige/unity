@@ -1,0 +1,155 @@
+﻿[
+  {
+    "id": 1,
+    "words": "王叔！有没有什么好玩的啊？",
+    "bjName": "bj_blacksmith",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "blk_wangshuyoumeiyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "哦，小小啊。说起玩具我倒是有个小东西可以给你，但是王大叔这两天肩膀有些疼，正准备去找你师父呢，你能帮我问你师父要点符来么？",
+    "bjName": "bj_blacksmith",
+    "spineName": "smith,王铁匠,2",
+    "link": "",
+    "sound": "blk_oxiaoxiaoa",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "肩膀痛？王叔你受伤了么？",
+    "bjName": "bj_blacksmith",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "blk_jianbangtong",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "没有啊小小，就是抡锤子抡多了，上次你师父给我给了张符说是疏通气血的，贴上就好了，你大娘和我都惊叹不已呢！",
+    "bjName": "bj_blacksmith",
+    "spineName": "smith,王铁匠,2",
+    "link": "",
+    "sound": "blk_meiyouaxiaoxiao",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "疏通气血？那肯定是活血符了，正好我身上还带着符纸，省的浪费时间了。",
+    "bjName": "bj_blacksmith",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "blk_shutongqixue",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "王叔我直接给你画一个吧，我师父都教给我了！",
+    "bjName": "bj_blacksmith",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "blk_wangshuwozhijie",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "小小这么厉害了么，你确定你能行么，要不然还是找你师父来吧？",
+    "bjName": "bj_blacksmith",
+    "spineName": "smith,王铁匠,2",
+    "link": "",
+    "sound": "blk_xiaoxiaozheme",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "王叔你<color=#0000FF><u><link={2}>看不起人</link></u></color>！一张小小的活血符而已，我现在的真气量可以连续画至少三张呢！",
+    "bjName": "bj_blacksmith",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "blk_wangshunikanbuqiren",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "好……好吧，既然是老神医的徒儿一定可以的吧。",
+    "bjName": "bj_blacksmith",
+    "spineName": "smith,王铁匠,2",
+    "link": "",
+    "sound": "blk_haohaobajiran",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "小小，不行咱还是找一下老神医吧。我实在疼得不行了。",
+    "bjName": "bj_blacksmith",
+    "spineName": "smith,王铁匠,2",
+    "link": "",
+    "sound": "blk_xiaoxiaobuxing",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "啊……就是这个感觉，真是<color=#0000FF><u><link={3}>名师手下出高徒</link></u></color>啊！",
+    "bjName": "bj_blacksmith",
+    "spineName": "smith,王铁匠,2",
+    "link": "",
+    "sound": "blk_ajiushizhege",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "多谢小神医啦，这是我前段时间闲来无事打的钓鱼竿，你快拿去玩吧。",
+    "bjName": "bj_blacksmith",
+    "spineName": "smith,王铁匠,2",
+    "link": "",
+    "sound": "blk_duoxiexiaoshenyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "对了，没有鱼饵可不能行，先去老李头那里要点鱼饵吧！",
+    "bjName": "bj_blacksmith",
+    "spineName": "smith,王铁匠,2",
+    "link": "",
+    "sound": "blk_duilemeiyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "好耶！",
+    "bjName": "bj_blacksmith",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "blk_haoye",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "（突然闯进）爸爸，爸爸！带我出去玩！你说好今天要陪我玩的！",
+    "bjName": "bj_blacksmith",
+    "spineName": "son_smith,铁匠儿子,2",
+    "link": "",
+    "sound": "blk_1baba",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "……（小声）那王叔，我就先走了。",
+    "bjName": "bj_blacksmith",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "blk_nawangshuwojiu",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "小小来了呀！多亏了你的活血符，肩膀现在不疼了。",
+    "bjName": "bj_blacksmith",
+    "spineName": "smith,王铁匠,1",
+    "link": "",
+    "sound": "blk_xiaoxiaolaileya",
+    "isOptiong": -1
+  }
+]

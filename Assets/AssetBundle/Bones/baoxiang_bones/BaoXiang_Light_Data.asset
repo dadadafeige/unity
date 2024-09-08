@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: BaoXiang_Light_Data
+  m_EditorClassIdentifier: 
+  dataName: BaoXiang_Light
+  dragonBonesJSON: {fileID: 4900000, guid: 4557b0f9d016ff84e94fc283dc7a96dc, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 333654a8bb60176488997fc1611036bc, type: 3}
+    texture: {fileID: 2800000, guid: 8b05f071e859dbf47acbb517a622580f, type: 3}
+    material: {fileID: 2100000, guid: f85c60b112f9cd84d8e2f07e239dc275, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 037cf37faf6edae4d8e510a2cf32b9ff, type: 2}

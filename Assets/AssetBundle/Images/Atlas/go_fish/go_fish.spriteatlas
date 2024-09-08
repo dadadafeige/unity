@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: go_fish
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 001a995353b281347a51c915ec0f0d8b, type: 3}
+    - {fileID: 2800000, guid: d05e298af33533842939757f0232394b, type: 3}
+    - {fileID: 2800000, guid: 1bd643d2f7ad9334c8531c855aa49aba, type: 3}
+    - {fileID: 2800000, guid: 1a0118b968822eb4488084782640cb76, type: 3}
+    - {fileID: 2800000, guid: 3e9d1e92d88e3f944a5552be1cf4b4be, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 3e9d1e92d88e3f944a5552be1cf4b4be: 21300000
+    - 1bd643d2f7ad9334c8531c855aa49aba: 21300000
+    - 001a995353b281347a51c915ec0f0d8b: 21300000
+    - 1a0118b968822eb4488084782640cb76: 21300000
+    - d05e298af33533842939757f0232394b: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3e9d1e92d88e3f944a5552be1cf4b4be, type: 3}
+  - {fileID: 21300000, guid: 1bd643d2f7ad9334c8531c855aa49aba, type: 3}
+  - {fileID: 21300000, guid: 001a995353b281347a51c915ec0f0d8b, type: 3}
+  - {fileID: 21300000, guid: 1a0118b968822eb4488084782640cb76, type: 3}
+  - {fileID: 21300000, guid: d05e298af33533842939757f0232394b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - go_fish_qiuxin
+  - go_fish_pro
+  - go_fish_back_btn
+  - go_fish_pro_btn
+  - go_fish_bag_btn
+  m_RenderDataMap: {}
+  m_Tag: go_fish
+  m_IsVariant: 0

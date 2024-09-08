@@ -1,0 +1,776 @@
+﻿[
+  {
+    "id": 1,
+    "words": "（众人来到一处地方，随着狐族族长念出的一系列法决，显现出一道古朴的大门，上面画着众多蒲公英种子）",
+    "bjName": "bj_shengdidamen",
+    "spineName": "",
+    "link": "",
+    "sound": "sddm_zhongrenlaidao",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "这里就是我狐族世代守护的传承之地了，我也没有什么能帮得上的……小浅，拿着这信物，你就跟着贤侄他们去尽力获取传承吧",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "sddm_zhelijiushi",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "遵命父亲，我会好好听话的。",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_zunmingfuqin",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "！？咦？我族圣器给我传来了讯息，在这门后有一种亲切的感觉",
+    "bjName": "bj_shengdidamen",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "sddm_wozushegnqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "难不成狐族传承也是金龟玉碟的一部分？！太好了！",
+    "bjName": "bj_shengdidamen",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "sddm_1nanbucheng",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "没想到还有意外之喜，那我们更得进去了。我们走吧！",
+    "bjName": "bj_shengdidamen",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "sddm_1meixiangdao",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "好的",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_haode",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "等下！白浅，不用谁的话都要听啦！",
+    "bjName": "bj_shengdidamen",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "sddm_dengxiabaiqian",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "可是如果不听从他人的话，他人就会讨厌我，然后就会产生各种灾难……",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_keshiruguo",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "我们好像也没有什么能准备的，先进去看看情况吧。",
+    "bjName": "bj_shengdidamen",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_womenhaoxiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "好漂亮",
+    "bjName": "bj_pugongying",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "sddm_haopiaoliang",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "这石碑上好像写着什么东西！“金龟玉碟碎，缘起四海间。需有纯血者，引众至终径。”",
+    "bjName": "bj_pugongying",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "sddm_zheshibeishang",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "果然跟金龟玉碟有关！只是剩下的意思……什么叫纯血呢？",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_guorangenjingui",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "既然是狐族传承，应该就是狐族王族血脉吧，只是白浅现在……",
+    "bjName": "bj_pugongying",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "sddm_jiranshihuzu",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "不对劲！这里的蒲公英能对我们造成伤害！所幸伤害并不强劲，运气功法能够抵挡。",
+    "bjName": "bj_pugongying",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "sddm_1buduijin (1)",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "不行了！蒲公英的攻击越来越强了！依旧看不到任何尽头，我们先退回去想想办法吧！",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_buxinglepugongying",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "金龟玉碟碎，缘起四海间。需有纯血者，引众至终径。",
+    "bjName": "bj_pugongying",
+    "spineName": "",
+    "link": "",
+    "sound": "sddm_jinguiyudie",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "看这个意思是非白浅不行了，白浅，你来带领我们往前试试吧",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_kanzhegeyisi",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "好的",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_haode (1)",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "不对劲！蒲公英的攻击强度突然就提升了，不知道怎么回事。快退！",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_1buduijin",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "她一开口，攻击就变强了",
+    "bjName": "bj_pugongying",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "sddm_1tayikaikou",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "恐怕此事还是跟那句古语有关，这个带领不光是走在前面的意思，而是要真真切切地领头，成为头领！",
+    "bjName": "bj_pugongying",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "sddm_kongpacishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "可是她现在的状态……",
+    "bjName": "bj_pugongying",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "sddm_keshitaxianzai",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "白浅，你不要光听别人的话好不好，转换一下思维方式就好了！",
+    "bjName": "bj_pugongying",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "sddm_baiqiannibuyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "不行，我做不到",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "sddm_buxingwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "你就试试好不好",
+    "bjName": "bj_pugongying",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "sddm_nijiushishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "刚才不都已经试过了，我做不到，我做不到！",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "sddm_gangcaibudou",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "刚才不正是因为你太听从大家的话才引起失败的么",
+    "bjName": "bj_pugongying",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "sddm_gangcaibuzheng",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "根本不是！这只是传承之地没有获得传承罢了，如果不听从他人的话，会有更加糟糕的事情发生，为什么你们都不理解我！",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "sddm_genbenbushi",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "白浅!我从小跟着师父修行，但是当时练习两个月了，一点进展都没有，世界上绝大多数人都是普通人，觉得自己很有可能没有天赋",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_baiqianwocongxiao",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "但是师父说我有天赋，从小到大，师父说的事情都是对的，有不少修炼者都是好几个月才入门",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_danshishifushuo",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "而你没有听从伯伯的话，导致狐族经历内乱；但是即使听从伯伯的话，依旧会爆发内乱，所以你觉得相信自己真的就比不上听从他人吗！",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_ernimeiyouting",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "白浅，你说只有听别人的话才行对么，不然就会出现非常严重的后果。那你有多相信这一点呢",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_1nishuo",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "完全相信，百分之百",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_wanquanxiangxin",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "那我们来玩个游戏吧！",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_nawomenlai",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "我承认确实有一些证据不支持我的这个想法，但我还是觉得要听别人的话",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_wochengren",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "如果让你打分，你打百分之多少呢",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_ruguorangnidafen",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "百分之七十吧",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_baifenzhi",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "同样面对他人的要求，除了接受，你还能想到哪些应对方式呢？",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_tongyangmiandui",
+    "isOptiong": -1
+  },
+  {
+    "id": 40,
+    "words": "拒绝，但是一旦拒绝，别人一定会不满意，从而产生祸患。",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_jujuedanshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 41,
+    "words": "拒绝一定会产生不满意么？",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_jujueyidinghui",
+    "isOptiong": -1
+  },
+  {
+    "id": 42,
+    "words": "好像也不一定，只要方式得当",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_haoxiangye",
+    "isOptiong": -1
+  },
+  {
+    "id": 43,
+    "words": "对，方式得当，所以我们个人其实是有能力做出得体的拒绝，做出自己的选择的对么",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_duifangshidedang",
+    "isOptiong": -1
+  },
+  {
+    "id": 44,
+    "words": "也许吧……",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_yexuba",
+    "isOptiong": -1
+  },
+  {
+    "id": 45,
+    "words": "现在你有多相信不听别人的话就会产生严重的后果？",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_xianzainiyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 46,
+    "words": "百分之四十吧",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_baifenzhisi",
+    "isOptiong": -1
+  },
+  {
+    "id": 47,
+    "words": "那我们继续去试试好么，看看如果不听他人的话，带领我们这个团队向前，会发生什么？",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_nawomenjixu",
+    "isOptiong": -1
+  },
+  {
+    "id": 48,
+    "words": "我试试吧",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_woshishiba",
+    "isOptiong": -1
+  },
+  {
+    "id": 49,
+    "words": "（再次向前，攻击减弱）",
+    "bjName": "bj_pugongying",
+    "spineName": "",
+    "link": "",
+    "sound": "sddm_zaicixiangqian",
+    "isOptiong": -1
+  },
+  {
+    "id": 50,
+    "words": "生效了！白浅你可以的！",
+    "bjName": "bj_pugongying",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "sddm_shengxiaolebaiqian",
+    "isOptiong": -1
+  },
+  {
+    "id": 51,
+    "words": "好",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_hao",
+    "isOptiong": -1
+  },
+  {
+    "id": 52,
+    "words": "（过了一阵）",
+    "bjName": "bj_pugongying",
+    "spineName": "",
+    "link": "",
+    "sound": "sddm_guoleyizhen",
+    "isOptiong": -1
+  },
+  {
+    "id": 53,
+    "words": "前面该往哪里走？",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_qianmiangaiwang",
+    "isOptiong": -1
+  },
+  {
+    "id": 54,
+    "words": "攻击加强了！",
+    "bjName": "bj_pugongying",
+    "spineName": "luohou,罗睺,1",
+    "link": "",
+    "sound": "sddm_gongjijiaqiangle",
+    "isOptiong": -1
+  },
+  {
+    "id": 55,
+    "words": "听从你自己的内心白浅！你已经很棒了，就像刚才一样就行！",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_1tingcong",
+    "isOptiong": -1
+  },
+  {
+    "id": 56,
+    "words": "（到达终点）",
+    "bjName": "bj_pugongying",
+    "spineName": "",
+    "link": "",
+    "sound": "sddm_daodazhongdian",
+    "isOptiong": -1
+  },
+  {
+    "id": 57,
+    "words": "蒲公英变少了，我们是不是成功了？",
+    "bjName": "bj_pugongying",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "sddm_pugongyingbian",
+    "isOptiong": -1
+  },
+  {
+    "id": 58,
+    "words": "白浅，经过刚才的尝试，你发现了什么？",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_baiqianjingguo",
+    "isOptiong": -1
+  },
+  {
+    "id": 59,
+    "words": "当我想要听别人的话的时候，攻击就会变强，当我打算自己做主的时候，攻击就减弱了",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_dangwoxiangyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 60,
+    "words": "没错！你看这次经历也可以作为我们的一个证据对么？不听他人的话不一定会产生恶果。具体情况还是要具体分析",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sddm_meicuonikanzheci",
+    "isOptiong": -1
+  },
+  {
+    "id": 61,
+    "words": "嗯，谢谢你。",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "sddm_enxiexieni",
+    "isOptiong": -1
+  },
+  {
+    "id": 62,
+    "words": "传承之物是什么呢？我们现在似乎已经到达了深处，但周围没有任何东西啊？",
+    "bjName": "bj_pugongying",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "sddm_chuanchengzhiwu",
+    "isOptiong": -1
+  },
+  {
+    "id": 63,
+    "words": "（只见这时，四周的蒲公英向白浅汇聚而来，慢慢凝聚成了一个蒲公英的样子，蒲公英融入白浅身体）",
+    "bjName": "bj_pugongying",
+    "spineName": "",
+    "link": "",
+    "sound": "sddm_zhijianzheshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 64,
+    "words": "师父，我还是不明白……",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,学生,1",
+    "link": "",
+    "sound": "sddm_shifuwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 65,
+    "words": "你啊你！看！都是你不听我的话，现在修习进度也这么缓慢！要是你早听我的话，早就成为年青一代第一人了！",
+    "bjName": "bj_classroom",
+    "spineName": "mainshifu_qianshi,师父,2",
+    "link": "",
+    "sound": "sddm_nianikan",
+    "isOptiong": -1
+  },
+  {
+    "id": 66,
+    "words": "前段时间赢了一场比试，便耀武扬威的，不听为师的话，早晚会吃亏的！",
+    "bjName": "bj_classroom",
+    "spineName": "mainshifu_qianshi,师父,2",
+    "link": "",
+    "sound": "sddm_qianduanshijian",
+    "isOptiong": -1
+  },
+  {
+    "id": 67,
+    "words": "对不起师父，我应该听你的话……",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,学生,1",
+    "link": "",
+    "sound": "sddm_duibuqishifu (1)",
+    "isOptiong": -1
+  },
+  {
+    "id": 68,
+    "words": "白浅！你醒了！",
+    "bjName": "bj_pugongying",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "sddm_baiqianni",
+    "isOptiong": -1
+  },
+  {
+    "id": 69,
+    "words": "看，我说了吧，没事的。关心则乱啊！这明显跟我当初一样，白浅怎么样，是不是多出来一段记忆，成为了碎片的主人？",
+    "bjName": "bj_pugongying",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "sddm_kanwoshuoleba",
+    "isOptiong": -1
+  },
+  {
+    "id": 70,
+    "words": "似乎是这样的……",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "sddm_sihushizheyangde",
+    "isOptiong": -1
+  },
+  {
+    "id": 71,
+    "words": "那就没错了，既然这样的话，#主角#他有点事找你。",
+    "bjName": "bj_pugongying",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "sddm_najiumeicuole",
+    "isOptiong": -1
+  },
+  {
+    "id": 72,
+    "words": "额……是这样的，我需要集齐金龟玉碟的五个碎片，来救我的师父。现在已经发现了两块碎片，一块是介潭族的圣器，一块是狐族的传承。所以……",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "sddm_eshizheyangde",
+    "isOptiong": -1
+  },
+  {
+    "id": 73,
+    "words": "这样啊，我明白了，没关系肯定可以的，出去我就跟父亲商量，本来没有你们我也不可能得到传承。",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "sddm_zheyangawo",
+    "isOptiong": -1
+  },
+  {
+    "id": 74,
+    "words": "提前谢谢你了，白浅",
+    "bjName": "bj_pugongying",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "sddm_tiqianxiexienile",
+    "isOptiong": -1
+  },
+  {
+    "id": 75,
+    "words": "是我该谢谢你，帮我摆脱诡计的困扰，还帮我们这一脉战胜大长老一脉。我们先出去吧，父亲该着急了",
+    "bjName": "bj_pugongying",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "sddm_shiwogaixiexie",
+    "isOptiong": -1
+  },
+  {
+    "id": 76,
+    "words": "父亲！我好啦",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "sddm_fuqinwohao",
+    "isOptiong": -1
+  },
+  {
+    "id": 77,
+    "words": "太好了！天佑我狐族！",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "sddm_taihaole (1)",
+    "isOptiong": -1
+  },
+  {
+    "id": 78,
+    "words": "多亏了#主角#他们，没有他们我做不到的",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "sddm_duokuiletamen",
+    "isOptiong": -1
+  },
+  {
+    "id": 79,
+    "words": "多谢少侠了！",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "sddm_duoxieshaoxia",
+    "isOptiong": -1
+  },
+  {
+    "id": 80,
+    "words": "既然如此，那将族内传承赠于他也是应该的对吧？没有他们这些都无法成功，换句话说这本来就是人家的东西啊！",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "sddm_1jiranru",
+    "isOptiong": -1
+  },
+  {
+    "id": 81,
+    "words": "女大不由父啊。少侠，助你一臂之力也不是不行，但是有一个条件。",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "sddm_nvdabuyoufu",
+    "isOptiong": -1
+  },
+  {
+    "id": 82,
+    "words": "如今妖族和天庭对我族虎视眈眈，怕是未来就会以大将军之死为借口对我族发难。所以想请少侠牵头，促成我族和介潭一族的盟约。",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "sddm_rujinyaozuhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 83,
+    "words": "这有点困难吧！前不久狐族方才入侵介潭，这叫人家如何接受",
+    "bjName": "bj_shengdidamen",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "sddm_zheyoudiankunnan",
+    "isOptiong": -1
+  },
+  {
+    "id": 84,
+    "words": "正是如此，才请少侠牵头。我了解到少侠在介潭族中颇有声望。介潭族长其实也有意结盟，只是迫于民意，所以希望少侠能够出面解开误会。",
+    "bjName": "bj_shengdidamen",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "sddm_zhengshiruci",
+    "isOptiong": -1
+  },
+  {
+    "id": 85,
+    "words": "好吧。",
+    "bjName": "bj_shengdidamen",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "sddm_haoba",
+    "isOptiong": -1
+  },
+  {
+    "id": 86,
+    "words": "待此间事了，我们就快出发去我家吧！",
+    "bjName": "bj_shengdidamen",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "sddm_daicijianshiliao",
+    "isOptiong": -1
+  }
+]

@@ -1,0 +1,281 @@
+﻿[
+  {
+    "id": 1,
+    "words": "你们有没有听到什么声音？",
+    "bjName": "bj_zhanchang",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "zc_nimenyoumei",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "没有啊，只是这天气……未免也太热了吧，热得我的鳞片都要掉了。我要是一条鱼，现在已经可以端上餐桌了",
+    "bjName": "bj_zhanchang",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "zc_meiyoua",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "我谢谢你，你怎么知道我饿了。",
+    "bjName": "bj_zhanchang",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "zc_woxiexieni",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "小心（一块巨石从天而降，#主角#带着一行人躲到了石头后面）",
+    "bjName": "bj_zhanchang",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "zc_xiaoxin",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "这到底是怎么回事。",
+    "bjName": "bj_zhanchang",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "zc_zhedaodishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "不如让我去探查一下",
+    "bjName": "bj_zhanchang",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "zc_bururangwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "算了，苗疆一族擅长巫蛊之术，到处卧虎藏龙，单独行动不安全，我们一起走吧。",
+    "bjName": "bj_zhanchang",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "zc_suanlemiaojiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "你们看……（大家迅速躲到一个巨石后面）",
+    "bjName": "bj_zhanchang",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "zc_nimenkan",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "尔等妖孽，速速放我强良祖巫。",
+    "bjName": "bj_zhanchang",
+    "spineName": "wuzudaibiao,巫族代表,1",
+    "link": "",
+    "sound": "zc_erdengyaonie",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "你我争霸，凭什么要我轻易放人。",
+    "bjName": "bj_zhanchang",
+    "spineName": "yaozudaibiao,妖族代表,2",
+    "link": "",
+    "sound": "zc_niwozhengba",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "当初东皇老儿一统三界，我等本就不服，而如今东皇老儿手下，尔等虾兵蟹将，也敢来犯？",
+    "bjName": "bj_zhanchang",
+    "spineName": "wuzudaibiao,巫族代表,1",
+    "link": "",
+    "sound": "zc_dangchudong",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "尔等巫族小儿，统治你们是看得起你们，若不是你们野心太大，怎会有如此境地？还不速速受死。",
+    "bjName": "bj_zhanchang",
+    "spineName": "yaozudaibiao,妖族代表,2",
+    "link": "",
+    "sound": "zc_erdengwuzu",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "那不如就比试比试，我等早已视死如归，杀身成仁，誓死不休！",
+    "bjName": "bj_zhanchang",
+    "spineName": "wuzudaibiao,巫族代表,1",
+    "link": "",
+    "sound": "zc_naburujiu",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "他们在说什么？感觉好深奥啊，我们还是绕着走吧。",
+    "bjName": "bj_zhanchang",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "zc_tamenzai",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "这怎么躲得过去啊",
+    "bjName": "bj_zhanchang",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "zc_zhezenmeduo",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "只要藏得好，天王老子也发现不了我",
+    "bjName": "bj_zhanchang",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "zc_zhiyaocangde",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "刚刚听他们的意思，似乎强良有危险啊。",
+    "bjName": "bj_zhanchang",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "zc_ganggangtingtamen",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "强良那么厉害都被俘了，这妖族确实厉害。",
+    "bjName": "bj_zhanchang",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "zc_qiangliangname",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "尔等小人，竟放出金乌，胜之不武！",
+    "bjName": "bj_zhanchang",
+    "spineName": "wuzudaibiao,巫族代表,2",
+    "link": "",
+    "sound": "zc_erdengxiaoren",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "可胜即可，待我将这天地焚尽，自有重新焕发生机之日，换得天地太平，一切都是值得的。",
+    "bjName": "bj_zhanchang",
+    "spineName": "yaozudaibiao,妖族代表,1",
+    "link": "",
+    "sound": "zc_keshengjike",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "不好，这样下去，我们都会化成灰烬的。",
+    "bjName": "bj_zhanchang",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "zc_buhaozheyang",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "天地裂变，#主角#团队开始感到痛苦，大家纷纷尝试用各自的法术抵御，但妖族放出的金乌似乎进入癫狂状态，大家已经无计可施。",
+    "bjName": "bj_zhanchang",
+    "spineName": "",
+    "link": "",
+    "sound": "",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "……一段咒语……",
+    "bjName": "bj_zhanchang",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "傻瓜，你这样<color=#0000FF><u><link={35}>祭出内丹</link></u></color>，你会有危险的。",
+    "bjName": "bj_zhanchang",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "zc_shaguanizhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "先不管那么多了，快跟我离开这里。",
+    "bjName": "bj_zhanchang",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "zc_xianbuguanna",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "你们是谁？",
+    "bjName": "bj_zhanchang",
+    "spineName": "kuafu,夸父,2",
+    "link": "",
+    "sound": "zc_nimenshishui",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "我们是途径这里的行者，来寻找九穗禾的。",
+    "bjName": "bj_zhanchang",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "zc_womenshitu",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "找九穗禾干什么？",
+    "bjName": "bj_zhanchang",
+    "spineName": "kuafu,夸父,2",
+    "link": "",
+    "sound": "zc_zhaojiusuihe",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "我说拯救世界你信吗？能不能先帮我们离开这里？我们的朋友受了重伤。",
+    "bjName": "bj_zhanchang",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "zc_woshuozhengjiu",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "你朋友是妖族的？你是个人？……算了，救人一命胜造七级浮屠，跟我来吧。",
+    "bjName": "bj_zhanchang",
+    "spineName": "kuafu,夸父,2",
+    "link": "",
+    "sound": "zc_nipengyoushi",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "#主角#一行人在夸父的帮助下逃到巫族藏仙洞，小麟身受重伤，有魔化迹象",
+    "bjName": "bj_zhanchang",
+    "spineName": "",
+    "link": "",
+    "sound": "",
+    "isOptiong": -1
+  }
+]

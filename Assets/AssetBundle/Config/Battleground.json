@@ -1,0 +1,695 @@
+﻿[
+  {
+    "id": 1,
+    "words": "战场上，地面铺满了尘埃和残骸，破碎的建筑和兵器散落在各处。",
+    "bjName": "bj_battleground1",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_zhanchang",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "厄朱！我们居然在这里遇见了。",
+    "bjName": "bj_battleground1",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_ezhu",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "罗睺，我等你多时了！",
+    "bjName": "bj_battleground1",
+    "spineName": "ezhu,厄朱,2",
+    "link": "",
+    "sound": "bt_wodengni",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "呵，等你罗爷爷干嘛",
+    "bjName": "bj_battleground1",
+    "spineName": "luohouX,罗睺,1",
+    "link": "",
+    "sound": "bt_dengni",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "为了将你打败（眼神凶狠）",
+    "bjName": "bj_battleground1",
+    "spineName": "ezhu,厄朱,2",
+    "link": "",
+    "sound": "bt_weilejiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "哼！那就看你们的实力了，你们不要出手，让我来解决掉他（不屑地说）",
+    "bjName": "bj_battleground1",
+    "spineName": "luohouX,罗睺,1",
+    "link": "",
+    "sound": "bt_hengna",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "厄朱和全胜的罗睺展开激烈的战斗，厄朱使出“魔焰吞噬”技能，对罗睺造成伤害，并削弱他的体力和恢复能力。",
+    "bjName": "bj_battleground1",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_ezhuhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "罗睺也想使出全力反击，但是感觉身体被禁锢住了。",
+    "bjName": "bj_battleground1",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_yexiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "你太卑鄙了，耍阴招",
+    "bjName": "bj_battleground1",
+    "spineName": "luohouX,罗睺,1",
+    "link": "",
+    "sound": "bt_nitaibei",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "罗睺，尝尝我魔焰的威力吧，这可是专为你准备的，好好享用吧（加大发力）",
+    "bjName": "bj_battleground1",
+    "spineName": "ezhu,厄朱,2",
+    "link": "",
+    "sound": "bt_changchang",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "不好，我们去帮忙（#主角#、小麟、羽嘉冲上去）",
+    "bjName": "bj_battleground1",
+    "spineName": "yujia_b,羽嘉,1",
+    "link": "",
+    "sound": "bt_buhao",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "羽嘉使出“凤鸣九天”技能，发出威猛的凤鸣，干扰厄朱；小麟施展“神龙撼地”技能，使大地震颤，削弱厄朱的防御和攻击力。",
+    "bjName": "bj_battleground1",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_fengming",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "不妙，他的“魔焰吞噬”技能好像是专攻罗睺的，我们对他的影响不会减弱对罗睺的伤害。",
+    "bjName": "bj_battleground1",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "bj_bumiao",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "这可如何是好，谁来帮帮罗睺啊！",
+    "bjName": "bj_battleground1",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_zheke",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "这时，风若和白浅带着族人赶到。",
+    "bjName": "bj_battleground1",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_zheshi (1)",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "看来战况很激烈，我们来帮忙，让我们一起守护三界和平！",
+    "bjName": "bj_battleground1",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "bt_kanlaizhan",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "小麟，你没事吧？",
+    "bjName": "bj_battleground1",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "bt_nimeishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "白浅，小心，不要靠近！",
+    "bjName": "bj_battleground1",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "bt_baiqian",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "风若、白浅和族人们迅速融入战斗，与#主角#们并肩作战。战斗进行得如火如荼，厄朱快要将罗睺击败时",
+    "bjName": "bj_battleground1",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_ruhuo",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "还是不行，怎么办（焦虑）",
+    "bjName": "bj_battleground2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_haishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "这时百晓生出场,百晓生身穿黑色的长袍，冷漠而无情的眼神中闪烁着冷光。他手中持有一柄闪烁着寒光的武器，散发出可怕的杀气。",
+    "bjName": "bj_battleground2",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_zheshibai",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "百晓生，你怎么会在这里？（看着百晓生眼神不对，心中起疑）",
+    "bjName": "bj_battleground2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_baixiaosheng",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "（立马转为笑脸）#主角#，我来帮你了啊。",
+    "bjName": "bj_battleground2",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "bt_wolai",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "太好了，快，帮帮罗睺，他快不行了！（打消疑虑）",
+    "bjName": "bj_battleground2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_taihaole",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "#主角#，不要听他的话！我没事的。",
+    "bjName": "bj_battleground2",
+    "spineName": "luohouX,罗睺,2",
+    "link": "",
+    "sound": "bt_buyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "你真想救他，那你需要付出一点代价愿意吗？",
+    "bjName": "bj_battleground2",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "bt_nizhenxiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "（猛点头）我愿意，只要能救他！",
+    "bjName": "bj_battleground2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_woyuanyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "你需要用你的精血，才能救他，之前他曾附身在你身上，你身上有罗睺的精血。",
+    "bjName": "bj_battleground2",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "bt_nixuyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "#主角#，要小心百晓生！他的阴谋不可小觑！（罗睺力竭，但仍然努力提醒主角）",
+    "bjName": "bj_battleground2",
+    "spineName": "luohouX,罗睺,2",
+    "link": "",
+    "sound": "bt_yaoxiaoxin",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "（有点着急）快点，再晚就来不及了，还有别忘了，我们之间的约定，不管我提出什么你都要答应。（眼神冷酷）",
+    "bjName": "bj_battleground2",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "bt_kuaidian",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "来吧",
+    "bjName": "bj_battleground2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_laiba",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "百晓生帮助#主角#开始采集精血。一番操作之后，将精血输送给罗睺，罗睺恢复能力，在战斗过程中，厄朱逐渐落败。",
+    "bjName": "bj_battleground2",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_bangzhuta",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "这不可能！为什么我打不过你，百晓生？",
+    "bjName": "bj_battleground1",
+    "spineName": "ezhu,厄朱,1",
+    "link": "",
+    "sound": "bt_zhebuke",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "厄朱，你不知道你的真正身份吧。你只是我用罗睺的精血在生生大阵中创造出来的分身而已。",
+    "bjName": "bj_battleground1",
+    "spineName": "baixiaosheng_b,百晓生,2",
+    "link": "",
+    "sound": "bt_nibuzhidao",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "这是怎么回事？百晓生，你到底在搞什么鬼？",
+    "bjName": "bj_battleground1",
+    "spineName": "luohouX,罗睺,1",
+    "link": "",
+    "sound": "bt_zheshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "我一直在追求三界的力量，而你，罗睺，以及你的分身厄朱，都是我成圣的一部分。现在，我要吞噬你们。",
+    "bjName": "bj_battleground1",
+    "spineName": "baixiaosheng_b,百晓生,2",
+    "link": "",
+    "sound": "bt_woyizhizai",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "你骗我！",
+    "bjName": "bj_battleground1",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_nipianwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "我们一起上，把百晓生打败！",
+    "bjName": "bj_battleground1",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "bt_womenyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "所有人冲向百晓生，与百晓生激烈混战，但都不敌百晓生",
+    "bjName": "bj_battleground3",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_suoyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 40,
+    "words": "我们这样打不过的，得想想办法",
+    "bjName": "bj_battleground3",
+    "spineName": "yujia_b,羽嘉,1",
+    "link": "",
+    "sound": "bt_womenzhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 41,
+    "words": "说得对，我想想",
+    "bjName": "bj_battleground3",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "bt_shuode",
+    "isOptiong": -1
+  },
+  {
+    "id": 42,
+    "words": "赶紧想想办法啊，他就要吃了罗睺和厄朱！",
+    "bjName": "bj_battleground3",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_ganjin",
+    "isOptiong": -1
+  },
+  {
+    "id": 43,
+    "words": "你再说一遍",
+    "bjName": "bj_battleground3",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "bt_nizai",
+    "isOptiong": -1
+  },
+  {
+    "id": 44,
+    "words": "他要吃了罗睺和厄朱！",
+    "bjName": "bj_battleground3",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_tayao",
+    "isOptiong": -1
+  },
+  {
+    "id": 45,
+    "words": "我知道了，厄朱是用罗睺的精血在生生大阵中创造出来的分身，所以他们本就是一体的，他们可以合体！",
+    "bjName": "bj_battleground3",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "bt_wozhidao",
+    "isOptiong": -1
+  },
+  {
+    "id": 46,
+    "words": "为什么一切发展成这样，我不要（想逃走）",
+    "bjName": "bj_battleground3",
+    "spineName": "ezhu,厄朱,1",
+    "link": "",
+    "sound": "bt_weishenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 47,
+    "words": "使出“定身符”将厄朱定住",
+    "bjName": "bj_battleground3",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_shichu",
+    "isOptiong": -1
+  },
+  {
+    "id": 48,
+    "words": "你们掩护我，我要开始了",
+    "bjName": "bj_battleground3",
+    "spineName": "luohouX,罗睺,2",
+    "link": "",
+    "sound": "bt_nimen",
+    "isOptiong": -1
+  },
+  {
+    "id": 49,
+    "words": "#主角#坚定地点头",
+    "bjName": "bj_battleground3",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_tajianding",
+    "isOptiong": -1
+  },
+  {
+    "id": 50,
+    "words": "罗睺和厄朱二人合体，形成一道耀眼光芒，罗睺的身体逐渐发生变化。肌肉变得更加饱满有力，皮肤透出一层淡金色光芒。",
+    "bjName": "bj_battleground4",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_yaoyanguang",
+    "isOptiong": -1
+  },
+  {
+    "id": 51,
+    "words": "光芒终于达到巅峰，一道耀眼的光柱从罗睺身上射出，照亮整个战场。光芒渐渐消散，罗睺和厄朱的能量完全融为一体。",
+    "bjName": "bj_battleground4",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_guangmang",
+    "isOptiong": -1
+  },
+  {
+    "id": 52,
+    "words": "（脸上露出思索的表情，手摸着头）我有一种熟悉的感觉，这个金龟玉碟仿佛与我有着某种联系。",
+    "bjName": "bj_battleground4",
+    "spineName": "luohouXX,罗睺,2",
+    "link": "",
+    "sound": "bt_woyouyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 53,
+    "words": "怎么一回事？",
+    "bjName": "bj_battleground4",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "bt_zenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 54,
+    "words": "金龟玉碟…这真是个熟悉的名字。",
+    "bjName": "bj_battleground4",
+    "spineName": "luohouXX,罗睺,2",
+    "link": "",
+    "sound": "bt_jinguiyu",
+    "isOptiong": -1
+  },
+  {
+    "id": 55,
+    "words": "发生了什么事？",
+    "bjName": "bj_battleground4",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_fasheng",
+    "isOptiong": -1
+  },
+  {
+    "id": 56,
+    "words": "我脑子里突然涌现了一段记忆，啊啊啊，头要炸了……",
+    "bjName": "bj_battleground4",
+    "spineName": "luohouXX,罗睺,2",
+    "link": "",
+    "sound": "bt_wonaozi",
+    "isOptiong": -1
+  },
+  {
+    "id": 57,
+    "words": "怎么了，罗睺，想起来什么了，是关于我们的吗？",
+    "bjName": "bj_battleground4",
+    "spineName": "yujia_b,羽嘉,1",
+    "link": "",
+    "sound": "bt_zenmele",
+    "isOptiong": -1
+  },
+  {
+    "id": 58,
+    "words": "（皱眉）我不确定，我引爆了五个邪念，还分出了五道善念……就是我们，我们！",
+    "bjName": "bj_battleground4",
+    "spineName": "luohouXX,罗睺,2",
+    "link": "",
+    "sound": "bt_wobuque",
+    "isOptiong": -1
+  },
+  {
+    "id": 59,
+    "words": "你在说什么？",
+    "bjName": "bj_battleground4",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "bt_nizai (1)",
+    "isOptiong": -1
+  },
+  {
+    "id": 60,
+    "words": "大家先别着急，给罗睺点时间。",
+    "bjName": "bj_battleground4",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "bt_dajiaxian",
+    "isOptiong": -1
+  },
+  {
+    "id": 61,
+    "words": "原来如此，果然，我想起来了，我全都知道了！（大家围着罗睺）",
+    "bjName": "bj_battleground4",
+    "spineName": "luohouXX,罗睺,2",
+    "link": "",
+    "sound": "bt_yuanlairu",
+    "isOptiong": -1
+  },
+  {
+    "id": 62,
+    "words": "原来是这样，金龟玉碟原来是这样来的，我们现在使用金龟玉碟打败百晓生吧！",
+    "bjName": "bj_battleground4",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_yuanlai",
+    "isOptiong": -1
+  },
+  {
+    "id": 63,
+    "words": "好，我来帮你",
+    "bjName": "bj_battleground4",
+    "spineName": "luohouXX,罗睺,2",
+    "link": "",
+    "sound": "bt_haowo",
+    "isOptiong": -1
+  },
+  {
+    "id": 64,
+    "words": "首先，你需要与金龟玉碟建立联系。只有通过与它的共鸣，你才能够真正掌握它的力量。",
+    "bjName": "bj_battleground4",
+    "spineName": "luohouXX,罗睺,2",
+    "link": "",
+    "sound": "bt_shouxian",
+    "isOptiong": -1
+  },
+  {
+    "id": 65,
+    "words": "集中注意力，将心灵与金龟玉碟连接起来，感受它的存在。（罗睺将金龟玉碟放在#主角#手上）",
+    "bjName": "bj_battleground4",
+    "spineName": "luohouXX,罗睺,2",
+    "link": "",
+    "sound": "bt_jizhong",
+    "isOptiong": -1
+  },
+  {
+    "id": 66,
+    "words": "建立了联系，金龟玉碟会借助你的意志和能量，释放出其特有的能力。",
+    "bjName": "bj_battleground4",
+    "spineName": "luohouXX,罗睺,2",
+    "link": "",
+    "sound": "bt_jianli",
+    "isOptiong": -1
+  },
+  {
+    "id": 67,
+    "words": "听起来很不可思议，我应该如何调用它的力量？",
+    "bjName": "bj_battleground4",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_tingqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 68,
+    "words": "你可以用意念控制金龟玉碟的能量融入你的技能和攻击中。它会赋予你更高的速度、强大的防御或者毁灭性的攻击力。",
+    "bjName": "bj_battleground4",
+    "spineName": "luohouXX,罗睺,2",
+    "link": "",
+    "sound": "bt_nikeyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 69,
+    "words": "这真是太棒了！我迫不及待想要体验一下金龟玉碟的力量。",
+    "bjName": "bj_battleground4",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_zhenshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 70,
+    "words": "去吧，现在的你无人能及，相信自己。",
+    "bjName": "bj_battleground4",
+    "spineName": "luohouXX,罗睺,2",
+    "link": "",
+    "sound": "bt_quba",
+    "isOptiong": -1
+  },
+  {
+    "id": 71,
+    "words": "（他深吸一口气，脸上洋溢着坚定而决然的微笑，目光坚定）百晓生，我准备好与你展开最终的决斗，放马过来！",
+    "bjName": "bj_battleground3",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_wozhunbei",
+    "isOptiong": -1
+  },
+  {
+    "id": 72,
+    "words": "我的计划被你们破坏了，你们以为我会放过你们吗？今天不是你死就是我亡！",
+    "bjName": "bj_battleground3",
+    "spineName": "baixiaosheng_b,百晓生,2",
+    "link": "",
+    "sound": "bt_wodejihua",
+    "isOptiong": -1
+  },
+  {
+    "id": 73,
+    "words": "#主角#集中全力画出终极符咒，发起最后一击，拳头化作流光，凝聚出一道炽热的火焰拳。",
+    "bjName": "bj_battleground3",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_tajizhong",
+    "isOptiong": -1
+  },
+  {
+    "id": 74,
+    "words": "火焰拳与百晓生的黑暗能量相撞，瞬间引起爆炸般的能量冲击。巨大的冲击波向四周扩散，将周围地面炸出深坑。",
+    "bjName": "bj_battleground3",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_huoyan",
+    "isOptiong": -1
+  },
+  {
+    "id": 75,
+    "words": "当烟尘散去，#主角#站在原地，胸膛上的火焰逐渐减弱，他屹立不倒，脸上洋溢着胜利的微笑。",
+    "bjName": "bj_battleground5",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_dangyanchen",
+    "isOptiong": -1
+  },
+  {
+    "id": 76,
+    "words": "百晓生倒在地上，被击败的他目光无神，最终崩溃为无数黑暗的碎片。",
+    "bjName": "bj_battleground5",
+    "spineName": "",
+    "link": "",
+    "sound": "bt_daozai",
+    "isOptiong": -1
+  },
+  {
+    "id": 77,
+    "words": "大家放心吧，作为神符师，我将继续守护三界的和平，为正义而战。",
+    "bjName": "bj_battleground5",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bt_dajia",
+    "isOptiong": -1
+  }
+]

@@ -1,0 +1,245 @@
+﻿[
+  {
+    "id": 1,
+    "words": "小心！",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "gt_xiaoxin",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "哎呀（一个趔趄）小麟你干嘛！莫非风若还会传染？",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "gt_aiyaxiaolinni",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "仔细听！有打斗的声音，小心一点！",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "gt_zixitingyoudadou",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "什么！狐族怎么会发现这里！族长一定不能有事，如果赶不到正面战场支援，我们一定会输的！难道介潭一族的命运已经注定么？",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "gt_1shenmehu",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "（无语地看一眼，小声）又来了",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "gt_youlaile",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "小麟我们快点过去看看吧",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "gt_xiaolinwomen",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "快看！有三个人影在打斗！",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "gt_kuaikanyousangerenying",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "是族长和狐族的恶人们！我们快去帮他！",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "gt_shizuzhanghe",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "（一把拉住）你疯了！贸然上前干什么，上去拖后腿么！",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "gt_nifenglemaoran",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "放开我！我要去帮族长！你是不是跟他们一伙的，想要害死族长然后奴役我们一族么！",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "gt_fangkaiwowoyaoqu",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "你冷静点风若！仔细看你们族长还占据上风呢！你在族中的地位也不低，你贸然行事他还得保护你！",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "gt_nilengjingdianfengruo",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "对不起，对不起...我就是有些控制不住自己，我实在太害怕了",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "gt_1duibuqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "现在不是说这些的时候，看！远处好像有几个狐族的法师在布置阵法，虽然不知道是什么情况，但我们可以去搞些破坏！",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "gt_xianzaibushishuo",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "狐族？也罢……",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "gt_huzuyeba",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "成功了！这些用于布置阵法的五行材料也可以收好，未来说不定用得上。现在就看介潭族长的发挥了。",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "gt_1chenggong",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "族长一定不会输的，我们一定会赢的，介潭不会变成奴族的……",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "gt_1zuzhang",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "只见介潭族长身上黑气一闪，原本流畅的动作陡然一滞，被狐族大能打中，吐出一口鲜血",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "",
+    "link": "",
+    "sound": "gt_zhijianjietan",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "不！族长大人，快站起来！您不能输啊！",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "gt_buzuzhangdaren",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "哪来的魔气……快！我们快走！",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "gt_1nalaide",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "我们已尽人事，等介潭族长完全落败，想走都走不了了，你看他身上分明是有伤！",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "gt_1womenyijin",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "不，不可能，不会这样的，难道介潭一族真的要沦为奴隶了么？",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "gt_1bubukeneng",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "小若你已经做得很好了，快走，介潭的未来就交给你了",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "jietanzuzhang,介潭族长,2",
+    "link": "",
+    "sound": "gt_xiaoruoniyijing",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "介潭族长的气息猛然爆发",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "",
+    "link": "",
+    "sound": "gt_jietanzuzhangde",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "发生了什么？我什么也看不到了！",
+    "bjName": "bj_holylight",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "gt_fashengleshenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "好像是传送！",
+    "bjName": "bj_holylight",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "gt_haoxiangshichuansong",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "族长大人！",
+    "bjName": "bj_holylight",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "gt_zuzhangdaren",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "再去收集一些五行材料用于开门吧！",
+    "bjName": "bj_buzhou_fight_yuan",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "gt_zaiqushoujiyixie",
+    "isOptiong": -1
+  }
+]

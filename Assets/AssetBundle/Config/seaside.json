@@ -1,0 +1,227 @@
+﻿[
+  {
+    "id": 1,
+    "words": "一行人边往东海走边交谈，渐渐走到了东海之滨。",
+    "bjName": "bj_seaside",
+    "spineName": "",
+    "link": "",
+    "sound": "ssd_yixingrenbian",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "小麟，东海的魔气到底是怎么一回事？怎么发展起来的？",
+    "bjName": "bj_seaside",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "ssd_xiaolindonghai",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "一开始是经常到浅海巡逻的虾兵蟹将先被魔气侵染，之后感染者越来越多，前些时日，连我大哥都中了招。",
+    "bjName": "bj_seaside",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "ssd_yikaishishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "大哥他一直是<color=#0000FF><u><link={26}>我的榜样</link></u></color>，文韬武略，无论武学或是术法都出类拔萃，以后总有一天会继承父王之位，成为东海之主。但如今却……",
+    "bjName": "bj_seaside",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "ssd_dagetayizhi",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "小麟，别担心，我们一起想办法，问题一定会解决的！",
+    "bjName": "bj_seaside",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "ssd_biedanxinwomen",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "嗯，我一定要让我大哥好起来！",
+    "bjName": "bj_seaside",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "ssd_enwoyiding",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "说着，大家已经来到了东海边。",
+    "bjName": "bj_seaside",
+    "spineName": "",
+    "link": "",
+    "sound": "ssd_shuozhedajia",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "既然到了东海，那我还是该尽一尽地主之谊，先带你们好好转一转，玩一玩。",
+    "bjName": "bj_seaside",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "ssd_jirandaole",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "小麟带着一行人来到了东海的养殖区。",
+    "bjName": "bj_seaside",
+    "spineName": "",
+    "link": "",
+    "sound": "ssd_xiaolindaizhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "看！我们东海物产丰富，这里有可以钓鱼钓虾、捉蟹捉龟、拾螺拾贝的地方，要不要先来体验一下？",
+    "bjName": "bj_seaside",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "ssd_kanwomendonghai",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "好啊，以前在家乡我可是钓鱼的好手，看我的！",
+    "bjName": "bj_seaside",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "ssd_haoayiqian",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "技术不错啊！",
+    "bjName": "bj_seaside",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "ssd_jishubucuoa",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "要不要试试难度更大的挑战？",
+    "bjName": "bj_seaside",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "ssd_1yaobuyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "好啊！",
+    "bjName": "bj_seaside",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "ssd_haoa",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "太厉害了！",
+    "bjName": "bj_seaside",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "ssd_tailihaila",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "看！前面就快到龙宫了，我们先去见我的父亲吧。",
+    "bjName": "bj_seaside",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "ssd_kanqianmian",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "一瞬间，又一次像被抽离出来，闪回结束，主角回过神来，发现自己仍在东海，手中捧着那枚日葵图样的碎片。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "ssd_yishunjian",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "奇怪的记忆片段又出现了，这到底是怎么一回事呢？",
+    "bjName": "bj_fight",
+    "spineName": "main,主角内心,1",
+    "link": "",
+    "sound": "ssd_qiguaidejiyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "此时#主角#一抬头，发现面前的龙王还在看着他。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "ssd_cishitayi",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "既然果真有碎片，那我东海愿将其赠予少侠，希望在关键之时可助少侠一臂之力，等使用完再守信将其归还我东海即可。",
+    "bjName": "bj_fight",
+    "spineName": "dragonking,龙王,2",
+    "link": "",
+    "sound": "ssd_jiranguozhen",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "多谢龙王！东海战事已平，我还有必须要去做的事，也该再次出发了。",
+    "bjName": "bj_fight",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "ssd_duoxielongwang",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "我陪你一起去！父王，孩儿希望再出行历练一番。",
+    "bjName": "bj_fight",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "ssd_1wopeini",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "也好，吾儿此次出行受益匪浅，父王很欣慰。那你们一路保重！",
+    "bjName": "bj_fight",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "ssd_1yehao",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "后会有期！",
+    "bjName": "bj_fight",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "ssd_houhuiyouqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "一行人再次踏上了寻找碎片之旅。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "ssd_yixingrenzaici",
+    "isOptiong": -1
+  }
+]

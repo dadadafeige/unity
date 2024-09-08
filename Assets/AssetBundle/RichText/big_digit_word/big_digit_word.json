@@ -1,0 +1,92 @@
+{"frames": {
+
+"big_word_1.png":
+{
+	"frame": {"x":259,"y":110,"w":73,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":73,"h":116},
+	"sourceSize": {"w":93,"h":120}
+},
+"big_word_10.png":
+{
+	"frame": {"x":89,"y":2,"w":89,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":13,"w":89,"h":102},
+	"sourceSize": {"w":93,"h":120}
+},
+"big_word_2.png":
+{
+	"frame": {"x":180,"y":110,"w":77,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":77,"h":116},
+	"sourceSize": {"w":93,"h":120}
+},
+"big_word_3.png":
+{
+	"frame": {"x":97,"y":110,"w":81,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":81,"h":116},
+	"sourceSize": {"w":93,"h":120}
+},
+"big_word_4.png":
+{
+	"frame": {"x":334,"y":110,"w":83,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":83,"h":118},
+	"sourceSize": {"w":93,"h":120}
+},
+"big_word_5.png":
+{
+	"frame": {"x":2,"y":110,"w":93,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":93,"h":112},
+	"sourceSize": {"w":93,"h":120}
+},
+"big_word_6.png":
+{
+	"frame": {"x":180,"y":2,"w":79,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":9,"w":79,"h":104},
+	"sourceSize": {"w":93,"h":120}
+},
+"big_word_7.png":
+{
+	"frame": {"x":261,"y":2,"w":83,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":8,"w":83,"h":106},
+	"sourceSize": {"w":93,"h":120}
+},
+"big_word_8.png":
+{
+	"frame": {"x":346,"y":2,"w":79,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":9,"w":79,"h":106},
+	"sourceSize": {"w":93,"h":120}
+},
+"big_word_9.png":
+{
+	"frame": {"x":2,"y":2,"w":85,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":15,"w":85,"h":100},
+	"sourceSize": {"w":93,"h":120}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "aaa.png",
+	"format": "RGBA8888",
+	"size": {"w":427,"h":230},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:252013c1db463b8c373807ef483ba13d$"
+}
+}

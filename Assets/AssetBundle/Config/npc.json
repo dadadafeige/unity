@@ -1,0 +1,207 @@
+﻿[
+  {
+    "id": 1,
+    "name": "师父",
+    "spineName": "master"
+  },
+  {
+    "id": 2,
+    "name": "王铁匠",
+    "spineName": "blacksmith"
+  },
+  {
+    "id": 3,
+    "name": "李屠户",
+    "spineName": "butcher"
+  },
+  {
+    "id": 4,
+    "name": "王大娘",
+    "spineName": "aunt_wang"
+  },
+  {
+    "id": 5,
+    "name": "樊裁缝",
+    "spineName": "tailor"
+  },
+  {
+    "id": 6,
+    "name": "羽嘉",
+    "spineName": "yujia"
+  },
+  {
+    "id": 7,
+    "name": "罗睺",
+    "spineName": "luohou"
+  },
+  {
+    "id": 8,
+    "name": "小偷",
+    "spineName": "thief"
+  },
+  {
+    "id": 9,
+    "name": "路人",
+    "spineName": "npc1"
+  },
+  {
+    "id": 10,
+    "name": "小鳞",
+    "spineName": "xiaolin"
+  },
+  {
+    "id": 11,
+    "name": "拍卖师",
+    "spineName": "auctioneer"
+  },
+  {
+    "id": 12,
+    "name": "路人甲",
+    "spineName": "npc2"
+  },
+  {
+    "id": 13,
+    "name": "路人乙",
+    "spineName": "npc3"
+  },
+  {
+    "id": 14,
+    "name": "门卫",
+    "spineName": "doorman"
+  },
+  {
+    "id": 15,
+    "name": "百晓生",
+    "spineName": "baixiaosheng1"
+  },
+  {
+    "id": 16,
+    "name": "龙王",
+    "spineName": "dragonking"
+  },
+  {
+    "id": 17,
+    "name": "相柳",
+    "spineName": "xiangliu"
+  },
+  {
+    "id": 18,
+    "name": "???",
+    "spineName": "baixiaosheng"
+  },
+  {
+    "id": 19,
+    "name": "孩子甲",
+    "spineName": "child1"
+  },
+  {
+    "id": 20,
+    "name": "孩子乙",
+    "spineName": "child2"
+  },
+  {
+    "id": 22,
+    "name": "夸父",
+    "spineName": "kuafu"
+  },
+  {
+    "id": 23,
+    "name": "巫族代表",
+    "spineName": "wuzudaibiao"
+  },
+  {
+    "id": 24,
+    "name": "妖族代表",
+    "spineName": "yaozudaibiao"
+  },
+  {
+    "id": 25,
+    "name": "大羿",
+    "spineName": "dayi"
+  },
+  {
+    "id": 26,
+    "name": "侍者",
+    "spineName": "servant"
+  },
+  {
+    "id": 27,
+    "name": "城主",
+    "spineName": "castellan"
+  },
+  {
+    "id": 28,
+    "name": "守塔人",
+    "spineName": "keeper"
+  },
+  {
+    "id": 29,
+    "name": "主角母亲",
+    "spineName": "mother"
+  },
+  {
+    "id": 33,
+    "name": "乌云",
+    "spineName": "darkcloud"
+  },
+  {
+    "id": 35,
+    "name": "厄朱",
+    "spineName": "ezhu"
+  },
+  {
+    "id": 36,
+    "name": "风若",
+    "spineName": "fengruo"
+  },
+  {
+    "id": 37,
+    "name": "白浅",
+    "spineName": "baiqian"
+  },
+  {
+    "id": 38,
+    "name": "百晓生",
+    "spineName": "baixiaosheng2"
+  },
+  {
+    "id": 39,
+    "name": "书童",
+    "spineName": "boy"
+  },
+  {
+    "id": 40,
+    "name": "妖族统领",
+    "spineName": "commander1"
+  },
+  {
+    "id": 41,
+    "name": "小兵",
+    "spineName": "xiaobing"
+  },
+  {
+    "id": 42,
+    "name": "巫族前锋",
+    "spineName": "commander2"
+  },
+  {
+    "id": 43,
+    "name": "巫族长老",
+    "spineName": "oldman"
+  },
+  {
+    "id": 44,
+    "name": "巫族人",
+    "spineName": "wuzuren"
+  },
+  {
+    "id": 45,
+    "name": "使者",
+    "spineName": "herald"
+  },
+  {
+    "id": 46,
+    "name": "成熟羽嘉",
+    "spineName": "yujia_b"
+  }
+]

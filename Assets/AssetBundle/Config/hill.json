@@ -1,0 +1,353 @@
+﻿[
+  {
+    "id": 1,
+    "words": "应该就是这个山洞了，快进去看看，可不能放任它伤害大伙。",
+    "bjName": "bj_out_of_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_yinggaijiushi",
+    "isOptiong": ""
+  },
+  {
+    "id": 2,
+    "words": "好像源头就是这里了，那边好像有什么东西",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_haoxiangyuantou",
+    "isOptiong": ""
+  },
+  {
+    "id": 3,
+    "words": "哈哈！天不亡我，在这要命关头送给我这么一个优质的肉身，罗睺，乖乖认输吧！",
+    "bjName": "ezhu_come",
+    "spineName": "heiluohou,厄朱,1",
+    "link": "",
+    "sound": "hill_hahatianbu",
+    "isOptiong": ""
+  },
+  {
+    "id": 4,
+    "words": "该死，怎么会在这个时候！枉我放他进来，偏偏是特殊体质！厄朱，别以为你就赢了！",
+    "bjName": "ezhu_come",
+    "spineName": "bailuohou,罗睺,1",
+    "link": "",
+    "sound": "hill_gaisizenmehui",
+    "isOptiong": ""
+  },
+  {
+    "id": 5,
+    "words": "无力地辩驳！成为我的养料吧罗睺。在此之前，小子，快快将你自己献给本魔！",
+    "bjName": "ezhu_come",
+    "spineName": "heiluohou,厄朱,1",
+    "link": "",
+    "sound": "hill_wulidebianbo",
+    "isOptiong": ""
+  },
+  {
+    "id": 6,
+    "words": "头好痛！",
+    "bjName": "ezhu_come",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_touhaotong",
+    "isOptiong": ""
+  },
+  {
+    "id": 7,
+    "words": "哈哈！小子，我会好好谢谢你的。能把你的肉身献给本魔，是你的荣幸！",
+    "bjName": "ezhu_come",
+    "spineName": "heiluohou,厄朱,1",
+    "link": "",
+    "sound": "hill_hahaxiaozi",
+    "isOptiong": ""
+  },
+  {
+    "id": 8,
+    "words": "#主角#身体冒出一道金光，渐渐显现出一只凤凰的形状",
+    "bjName": "ezhu_come",
+    "spineName": "",
+    "link": "",
+    "sound": "hill_1tashenti",
+    "isOptiong": ""
+  },
+  {
+    "id": 9,
+    "words": "还是提前苏醒了么……虚弱成这样，也没办法了……我这转世身还真是让人不省心。想动他，先过我这关！",
+    "bjName": "ezhu_come",
+    "spineName": "yujia_b,羽嘉,1",
+    "link": "",
+    "sound": "hill_haishitiqian",
+    "isOptiong": ""
+  },
+  {
+    "id": 10,
+    "words": "你……哈哈哈不过是另一份养料罢了，若你全盛，我还忌惮三分。现在……也成为本魔王的养料吧！",
+    "bjName": "ezhu_come",
+    "spineName": "heiluohou,厄朱,1",
+    "link": "",
+    "sound": "hill_nihahaha",
+    "isOptiong": ""
+  },
+  {
+    "id": 11,
+    "words": "厄朱向羽嘉发动攻击",
+    "bjName": "ezhu_come",
+    "spineName": "",
+    "link": "",
+    "sound": "hill_1ezhuxiang",
+    "isOptiong": ""
+  },
+  {
+    "id": 12,
+    "words": "呃……还是失败了……",
+    "bjName": "ezhu_come",
+    "spineName": "yujia_b,羽嘉,2",
+    "link": "",
+    "sound": "hill_ehaishishibai",
+    "isOptiong": ""
+  },
+  {
+    "id": 13,
+    "words": "师父感受到了不详气息立马赶来山洞",
+    "bjName": "bj_cave",
+    "spineName": "",
+    "link": "",
+    "sound": "hill_1shifuganshou",
+    "isOptiong": ""
+  },
+  {
+    "id": 14,
+    "words": "何方妖孽敢动我的乖徒儿？！吃我一符！",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_hefangyaonie",
+    "isOptiong": ""
+  },
+  {
+    "id": 15,
+    "words": "啊啊啊……",
+    "bjName": "bj_cave",
+    "spineName": "heiluohou,厄朱,1",
+    "link": "",
+    "sound": "hill_1aaa",
+    "isOptiong": ""
+  },
+  {
+    "id": 16,
+    "words": "（#主角#缓缓醒来）……我死了么？",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_wosilema",
+    "isOptiong": ""
+  },
+  {
+    "id": 17,
+    "words": "我的体内是是……契约之力？这是什么情况？",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_wodetineishi",
+    "isOptiong": ""
+  },
+  {
+    "id": 18,
+    "words": "（看到倒地的师父）师父！你怎么了！<color=#0000FF><u><link={7}>你别吓我</link></u></color>，你醒醒！",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_shifunizenmele",
+    "isOptiong": ""
+  },
+  {
+    "id": 19,
+    "words": "小小啊……，师父受了伤，但应该不碍事……",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_xiaoxiaoashifu",
+    "isOptiong": ""
+  },
+  {
+    "id": 20,
+    "words": "师父您就别逞能了，都虚弱成这个样子了。",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_shifuninjiubie",
+    "isOptiong": ""
+  },
+  {
+    "id": 21,
+    "words": "没事，为师只是被对方的临死反扑打中，需要用……咳咳……毕生功力去压制魔气。",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_meishiweishi",
+    "isOptiong": ""
+  },
+  {
+    "id": 22,
+    "words": "那……那师父岂不是再也不能……没关系，我会照顾你的。",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_nanashifu",
+    "isOptiong": ""
+  },
+  {
+    "id": 23,
+    "words": "没事小小，为师还没成废人，你还年轻，要多去外面走走。",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_meishixiaoxiao",
+    "isOptiong": ""
+  },
+  {
+    "id": 24,
+    "words": "不！师父，我怎么可能现在离你而去！",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_bushifuwozenme",
+    "isOptiong": ""
+  },
+  {
+    "id": 25,
+    "words": "你郑叔叔过两天就会来村里了，到时候你就跟他出去到城里落脚，然后就开始历练一下自我吧。",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_nizhengshushu",
+    "isOptiong": ""
+  },
+  {
+    "id": 26,
+    "words": "本来为师也打算在这个年龄将你送出去体悟一下红尘百事的，为师的本领也都已经教给你了。",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_benlaiweishi",
+    "isOptiong": ""
+  },
+  {
+    "id": 27,
+    "words": "待会儿回去你把书架上的那本通天箓拿走，你就是我神符门的第九任掌门了。",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_daihuierhuiqu",
+    "isOptiong": ""
+  },
+  {
+    "id": 28,
+    "words": "不，不行！师父，我不要离开你。",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_bubuxingshifu",
+    "isOptiong": ""
+  },
+  {
+    "id": 29,
+    "words": "唉，乖徒儿……徒儿#主角#听令！我以神符门第八任掌门命你外出寻找传说中的金龟玉碟！",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_aiguaituertuer",
+    "isOptiong": ""
+  },
+  {
+    "id": 30,
+    "words": "如若能寻找到那传说中的法器，则我一身道伤可除！",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_ruruonengxundao",
+    "isOptiong": ""
+  },
+  {
+    "id": 31,
+    "words": "师父……是，徒儿领命！",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_shifushituer",
+    "isOptiong": ""
+  },
+  {
+    "id": 32,
+    "words": "小小啊，你也不用太过难过，为师只是不能动用力量，但我们修行之人本就体魄强健，待为师修养两天就好。",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_xiaoxiaoaniyebuyong",
+    "isOptiong": ""
+  },
+  {
+    "id": 33,
+    "words": "你也不用太过揪心于那虚无缥缈的金龟玉碟，为师还能活许多许多年呢，还是以自身历练为主。",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_niyebuyongtaiguo",
+    "isOptiong": ""
+  },
+  {
+    "id": 34,
+    "words": "师父，呜呜……",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_shifuwuwu",
+    "isOptiong": ""
+  },
+  {
+    "id": 35,
+    "words": "徒儿，打起精神来，你应该注意到你体内多出的契约之力，他们会成为你最大的助力，谨记他们不是你的仆人，而是你最好的伙伴。",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_tuerdaqijingshenlai",
+    "isOptiong": ""
+  },
+  {
+    "id": 36,
+    "words": "你本是凤凰转世和羽嘉一体双魂，刚才我引动了你体内的凤凰之力才击败厄朱，而罗睺跟厄朱一体双魂，他们都是你未来巨大的助力。",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_nibenshifenghuang",
+    "isOptiong": ""
+  },
+  {
+    "id": 37,
+    "words": "他们也受了伤，失去了原本的能力，你可以先把他们收入魂魄中让他们恢复，在之后的相处过程中，你会慢慢明白该怎么做的。",
+    "bjName": "bj_cave",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hill_tamenyeshouleshang",
+    "isOptiong": ""
+  },
+  {
+    "id": 38,
+    "words": "是，徒儿记下了，我们先回去吧师父。",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_shituerjixiale",
+    "isOptiong": ""
+  },
+  {
+    "id": 40,
+    "words": "山洞里的魔物已经收服了，不会再伤害大家啦！",
+    "bjName": "bj_out_of_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hill_shandonglidemowu",
+    "isOptiong": ""
+  }
+]

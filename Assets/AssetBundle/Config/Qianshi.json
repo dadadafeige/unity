@@ -1,0 +1,512 @@
+﻿[
+  {
+    "id": 1,
+    "words": "妖族的人又来了！为师去巩固一下结界，在此之前你要抵挡住他们的攻击。",
+    "bjName": "bj_qianshi1",
+    "spineName": "mainshifu_qianshi,百晓生,2",
+    "link": "",
+    "sound": "qs_yaozuderen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 2,
+    "words": "师父放心，徒儿不会让妖族得逞的。",
+    "bjName": "bj_qianshi1",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_fangxin (1)",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 3,
+    "words": "（发动警报，巫族战士被紧急召集起来）妖族又来挑衅我们了，我们必须保护巫族的结界！",
+    "bjName": "bj_qianshi1",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_youlaitiao",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 4,
+    "words": "大家冲向结界处与妖族战斗",
+    "bjName": "bj_qianshi1",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_dajia",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 5,
+    "words": "太危险了，书童你怎么在这，快去那个山洞躲起来！",
+    "bjName": "bj_qianshi1",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_taiweixian",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 6,
+    "words": "我，我害怕",
+    "bjName": "bj_qianshi1",
+    "spineName": "boy,书童,2",
+    "link": "",
+    "sound": "qs_wowohai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 7,
+    "words": "那你跟着我吧",
+    "bjName": "bj_qianshi1",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_nanigen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 8,
+    "words": "不好，结界好像有个裂纹了，他们要冲进来了！",
+    "bjName": "bj_qianshi1",
+    "spineName": "commander2,巫族前锋,2",
+    "link": "",
+    "sound": "qs_buhao",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 9,
+    "words": "让最前面的士兵撤退，看我的！",
+    "bjName": "bj_qianshi1",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_rangzui",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 10,
+    "words": "#主角#高举巫术法杖，开始施展巫术，击退妖族数里。妖族首领突然使用偷袭暗器，飞向巫族，眼看就要射中书童",
+    "bjName": "bj_qianshi1",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_tagaoju",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 11,
+    "words": "#主角#转向进攻帮助书童挡下一击，但#主角#内力受损，嘴角流血，书童也被妖族的法力击倒",
+    "bjName": "bj_qianshi1",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_zhuanxiang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 12,
+    "words": "咱们先撤退吧！百晓生先生就快加强结界了。",
+    "bjName": "bj_qianshi1",
+    "spineName": "commander2,巫族前锋,2",
+    "link": "",
+    "sound": "qs_zanmenxian",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 13,
+    "words": "不行，我不能让妖族伤害我族分毫！",
+    "bjName": "bj_qianshi1",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_buxing",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 14,
+    "words": "#主角#紧紧握住法杖，重新释放出他最强大的技能，将妖族的攻击挡在结界之外",
+    "bjName": "bj_qianshi1",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_tajinjin",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 15,
+    "words": "但妖族的攻击也很强。#主角#身体颤抖着，他的力量快要消耗殆尽。最终，妖族无法逾越巫族的结界，撤退",
+    "bjName": "bj_qianshi1",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_yaozu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 16,
+    "words": "#主角#在救了书童后，把他带到了小山洞疗伤，书童苏醒",
+    "bjName": "bj_cave2",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_tazai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 17,
+    "words": "你是说百晓生先生有阴谋，他竟然打算吞噬我的力量成圣？",
+    "bjName": "bj_cave2",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_nishishuo",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 18,
+    "words": "我也是被百晓生派来监视您的，他一直在暗中操纵您，甚至教给您的法术也都是经过他改动过的禁术。",
+    "bjName": "bj_cave2",
+    "spineName": "boy,书童,2",
+    "link": "",
+    "sound": "qs_woyeshi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 19,
+    "words": "（震惊）这怎么可能？他是我最信任和尊敬的老师，他一直在教导我巫族的智慧和力量，他是为了让我成为圣人，保护巫族的未来！",
+    "bjName": "bj_cave2",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_zhezenme",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 20,
+    "words": "这是百晓生的阴谋，他想利用您的力量来实现自己的野心，掌控整个巫族，最终统治三界，甚至可能会伤害您！",
+    "bjName": "bj_cave2",
+    "spineName": "boy,书童,2",
+    "link": "",
+    "sound": "qs_yinmou",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 21,
+    "words": "我感激您的救命之恩，我实在不忍心你再被他欺骗，所以才决定告诉您真相。",
+    "bjName": "bj_cave2",
+    "spineName": "boy,书童,2",
+    "link": "",
+    "sound": "qs_woganji",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 22,
+    "words": "不，我不信……师父是那么的仁慈和智慧。你有什么证据，我怎么相信你？",
+    "bjName": "bj_cave2",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_wobuxin",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 23,
+    "words": "（沉思片刻）我无意中发现他教给您的法术顺序是颠倒的，您试一试反过来就知道我所言非假。",
+    "bjName": "bj_cave2",
+    "spineName": "boy,书童,2",
+    "link": "",
+    "sound": "qs_wuyizhong",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 24,
+    "words": "#主角#尝试重新使用技能，发出不同的能量",
+    "bjName": "bj_cave2",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_tachangshi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 25,
+    "words": "（神情凝重）百晓生！怎么会是他啊……我从来没有怀疑过他的……",
+    "bjName": "bj_cave2",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_huiyiguo",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 26,
+    "words": "巫妖之战，历经多年，我们终于迎来了决战时刻！",
+    "bjName": "bj_qianshi2",
+    "spineName": "oldman,巫族长老,2",
+    "link": "",
+    "sound": "qs_wuyaozhi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 27,
+    "words": "#主角#，由你统领，百晓生辅佐。",
+    "bjName": "bj_qianshi2",
+    "spineName": "oldman,巫族长老,2",
+    "link": "",
+    "sound": "qs_youni",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 28,
+    "words": "遵命，定不负众望！",
+    "bjName": "bj_qianshi2",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_zunming",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 29,
+    "words": "属下遵命。",
+    "bjName": "bj_qianshi2",
+    "spineName": "mainshifu_qianshi,百晓生,2",
+    "link": "",
+    "sound": "qs_shuxia",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 30,
+    "words": "来到战场",
+    "bjName": "bj_qianshi3",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_laidao",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 31,
+    "words": "巫族的族人们，这是我们与妖族的最后决战！为了我们的家园和自由，我们要奋勇战斗，决不退缩！",
+    "bjName": "bj_qianshi3",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_zurenmen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 32,
+    "words": "我们决不退缩！决不退缩！",
+    "bjName": "bj_qianshi3",
+    "spineName": "commander2,巫族前锋,2",
+    "link": "",
+    "sound": "qs_womenjue",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 33,
+    "words": "投入战争，妖族的军队展示出强大的力量，巫族战士们奋勇抵抗，但陷入了困境，巫族战士有点疲惫",
+    "bjName": "bj_qianshi3",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_touru",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 34,
+    "words": "师父，现在如何是好？",
+    "bjName": "bj_qianshi3",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_ruheshi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 35,
+    "words": "妖族的力量比我们预想的要强大，妖族首领诡计多端，也许我们可以诱使他出来前线，然后取他首级。",
+    "bjName": "bj_qianshi3",
+    "spineName": "mainshifu_qianshi,百晓生,2",
+    "link": "",
+    "sound": "qs_liliangbi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 36,
+    "words": "我们可以集中火力攻击妖族的左翼，制造一个看似薄弱的防线，引诱他前来指挥。",
+    "bjName": "bj_qianshi3",
+    "spineName": "commander2,巫族前锋,2",
+    "link": "",
+    "sound": "qs_jizhong",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 37,
+    "words": "您说得对，可行！（百晓生也点头）",
+    "bjName": "bj_qianshi3",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_shuode",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 38,
+    "words": "计策实施，妖族首领被诱出，准备与#主角#决战",
+    "bjName": "bj_qianshi3",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_jice",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 39,
+    "words": "果然不出我所料，你们是想引诱我出手，不过你们还是太嫩了！",
+    "bjName": "bj_qianshi3",
+    "spineName": "commander1,妖族统领,2",
+    "link": "",
+    "sound": "qs_guoranbu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 40,
+    "words": "记住这一刻，是你败亡之时！",
+    "bjName": "bj_qianshi3",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_baiwang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 41,
+    "words": "#主角#与妖族首领展开激烈的一对一决战，他们各自施展法术，交错攻防，#主角#几个回合后不敌",
+    "bjName": "bj_qianshi3",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_tayu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 42,
+    "words": "#主角#，用我教你的那一招!",
+    "bjName": "bj_qianshi3",
+    "spineName": "mainshifu_qianshi,百晓生,2",
+    "link": "",
+    "sound": "qs_yongwo",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 43,
+    "words": "#主角#用禁术引爆自己五个邪念发出毁灭性的一击，不仅击败了妖族首领及其手下，连同百晓生也没能幸免，同时#主角#也奄奄一息",
+    "bjName": "bj_qianshi4",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_jinshu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 44,
+    "words": "（喘息着，望着倒在地上的百晓生）百晓生，没想到吧，我已经知道你的阴谋了！",
+    "bjName": "bj_qianshi4",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_meixiangdao",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 45,
+    "words": "我竟然没有料到，你会用我教给你的禁术引爆那五个邪念。我，我，噗（吐血）我还会再回来的！",
+    "bjName": "bj_qianshi4",
+    "spineName": "mainshifu_qianshi,百晓生,2",
+    "link": "",
+    "sound": "qs_wojingran",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 46,
+    "words": "您成功了，成功阻止了百晓生，还阻止了巫妖大战！",
+    "bjName": "bj_qianshi4",
+    "spineName": "boy,书童,2",
+    "link": "",
+    "sound": "qs_ninchenggong",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 47,
+    "words": "可是这场战斗还远未结束。为了防止邪念分身带来的祸患，我已分出五道善念，将它们封印在金龟玉碟的五个碎片中。",
+    "bjName": "bj_qianshi4",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_keshi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 48,
+    "words": "现在五个碎片已经散落在世界各地，我们不能让那五个碎片落入邪恶之手，否则将是一场灾难。",
+    "bjName": "bj_qianshi4",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_xiee",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 49,
+    "words": "你身上的责任重大，我希望你能守护五个碎片。",
+    "bjName": "bj_qianshi4",
+    "spineName": "main_qianshiX,主角,1",
+    "link": "",
+    "sound": "qs_zeren",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 50,
+    "words": "放心，我会确保五个碎片不会落入任何邪恶的势力之手。",
+    "bjName": "bj_qianshi4",
+    "spineName": "boy,书童,2",
+    "link": "",
+    "sound": "qs_fangxin",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 51,
+    "words": "书童暗下决心守护在轮回的#主角#身边，让#主角#最终拿到五个碎片",
+    "bjName": "bj_qianshi4",
+    "spineName": "",
+    "link": "",
+    "sound": "qs_shutong",
+    "isOptiong": -1,
+    "": ""
+  }
+]

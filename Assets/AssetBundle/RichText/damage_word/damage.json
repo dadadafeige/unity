@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "0.png",
+	"frame": {"x":110,"y":87,"w":51,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":51,"h":83},
+	"sourceSize": {"w":57,"h":85}
+},
+{
+	"filename": "1.png",
+	"frame": {"x":2,"y":89,"w":49,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":49,"h":85},
+	"sourceSize": {"w":57,"h":85}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":59,"y":174,"w":55,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":55,"h":73},
+	"sourceSize": {"w":57,"h":85}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":2,"y":176,"w":55,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":55,"h":75},
+	"sourceSize": {"w":57,"h":85}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":116,"y":2,"w":57,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":57,"h":81},
+	"sourceSize": {"w":57,"h":85}
+},
+{
+	"filename": "5.png",
+	"frame": {"x":53,"y":89,"w":55,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":55,"h":83},
+	"sourceSize": {"w":57,"h":85}
+},
+{
+	"filename": "6.png",
+	"frame": {"x":116,"y":172,"w":57,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":57,"h":81},
+	"sourceSize": {"w":57,"h":85}
+},
+{
+	"filename": "7.png",
+	"frame": {"x":163,"y":85,"w":53,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":53,"h":81},
+	"sourceSize": {"w":57,"h":85}
+},
+{
+	"filename": "8.png",
+	"frame": {"x":2,"y":2,"w":57,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":85},
+	"sourceSize": {"w":57,"h":85}
+},
+{
+	"filename": "9.png",
+	"frame": {"x":61,"y":2,"w":53,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":53,"h":83},
+	"sourceSize": {"w":57,"h":85}
+},
+{
+	"filename": "sub.png",
+	"frame": {"x":218,"y":2,"w":41,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":33,"w":41,"h":19},
+	"sourceSize": {"w":57,"h":85}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "damage.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dabe753091f7a7dddf023b9fadba7335$"
+}
+}

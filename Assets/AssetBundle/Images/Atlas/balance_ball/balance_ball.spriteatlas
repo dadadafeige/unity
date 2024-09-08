@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: balance_ball
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8c1bdabd39ba8ad4797936cf5c74df2d, type: 3}
+    - {fileID: 2800000, guid: 4a0a876117866b44888c5b3d341a10af, type: 3}
+    - {fileID: 2800000, guid: 5bd4c9a95c81d36418cd7095430e97d5, type: 3}
+    - {fileID: 2800000, guid: e50d31378a21ea04baccbc78593959f7, type: 3}
+    - {fileID: 2800000, guid: ab3c322cf30465842a8a61b016e21139, type: 3}
+    - {fileID: 2800000, guid: 8803b03cbdcf58e47a2490465d9c5759, type: 3}
+    - {fileID: 2800000, guid: 48704c3b8ac15d440bb27407f3afad49, type: 3}
+    - {fileID: 2800000, guid: 3825847e76a9a2145af6f69fb4f291f6, type: 3}
+    - {fileID: 2800000, guid: 6cb06e866bcdaf1438ff2f39355cef17, type: 3}
+    - {fileID: 2800000, guid: 2e0a3fcb502e49b47b4a436b0c375968, type: 3}
+    - {fileID: 2800000, guid: 656963f504ffc6042aa61098f9ce77bb, type: 3}
+    - {fileID: 2800000, guid: 58b4bde13f414694bb798f6d9d0222ef, type: 3}
+    - {fileID: 2800000, guid: 07e69e21b9b674548b89244f34bdb7db, type: 3}
+    - {fileID: 2800000, guid: 71027bbd3f1654f498fc7bdf8902590d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 07e69e21b9b674548b89244f34bdb7db: 21300000
+    - 4a0a876117866b44888c5b3d341a10af: 21300000
+    - 58b4bde13f414694bb798f6d9d0222ef: 21300000
+    - 656963f504ffc6042aa61098f9ce77bb: 21300000
+    - 6cb06e866bcdaf1438ff2f39355cef17: 21300000
+    - e50d31378a21ea04baccbc78593959f7: 21300000
+    - 5bd4c9a95c81d36418cd7095430e97d5: 21300000
+    - 48704c3b8ac15d440bb27407f3afad49: 21300000
+    - 2e0a3fcb502e49b47b4a436b0c375968: 21300000
+    - ab3c322cf30465842a8a61b016e21139: 21300000
+    - 8803b03cbdcf58e47a2490465d9c5759: 21300000
+    - 8c1bdabd39ba8ad4797936cf5c74df2d: 21300000
+    - 71027bbd3f1654f498fc7bdf8902590d: 21300000
+    - 3825847e76a9a2145af6f69fb4f291f6: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 07e69e21b9b674548b89244f34bdb7db, type: 3}
+  - {fileID: 21300000, guid: 4a0a876117866b44888c5b3d341a10af, type: 3}
+  - {fileID: 21300000, guid: 58b4bde13f414694bb798f6d9d0222ef, type: 3}
+  - {fileID: 21300000, guid: 656963f504ffc6042aa61098f9ce77bb, type: 3}
+  - {fileID: 21300000, guid: 6cb06e866bcdaf1438ff2f39355cef17, type: 3}
+  - {fileID: 21300000, guid: e50d31378a21ea04baccbc78593959f7, type: 3}
+  - {fileID: 21300000, guid: 5bd4c9a95c81d36418cd7095430e97d5, type: 3}
+  - {fileID: 21300000, guid: 48704c3b8ac15d440bb27407f3afad49, type: 3}
+  - {fileID: 21300000, guid: 2e0a3fcb502e49b47b4a436b0c375968, type: 3}
+  - {fileID: 21300000, guid: ab3c322cf30465842a8a61b016e21139, type: 3}
+  - {fileID: 21300000, guid: 8803b03cbdcf58e47a2490465d9c5759, type: 3}
+  - {fileID: 21300000, guid: 8c1bdabd39ba8ad4797936cf5c74df2d, type: 3}
+  - {fileID: 21300000, guid: 71027bbd3f1654f498fc7bdf8902590d, type: 3}
+  - {fileID: 21300000, guid: 3825847e76a9a2145af6f69fb4f291f6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - balance_ball_item2
+  - balance_ball2
+  - balance_ball_item1
+  - balance_ball11
+  - balance_ball9
+  - balance_ball4
+  - balance_ball3
+  - balance_ball7
+  - balance_ball10
+  - balance_ball5
+  - balance_ball6
+  - balance_ball1
+  - balance_ball_item3
+  - balance_ball8
+  m_RenderDataMap: {}
+  m_Tag: balance_ball
+  m_IsVariant: 0

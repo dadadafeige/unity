@@ -1,0 +1,785 @@
+﻿[
+  {
+    "id": 1,
+    "words": "你们是谁？",
+    "bjName": "bj_yueliangshan",
+    "spineName": "dayi,大羿,2",
+    "link": "",
+    "sound": "tt_nimenshishui",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "我们是来请您出山的，山下的情形很焦灼，强良祖巫被俘，烈焰焚天，您的子民正在水深火热中。夸父去追日了，到现在杳无音信，生死未卜。",
+    "bjName": "bj_yueliangshan",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_womenshilai",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "竟有此事！妖族岂可轻信，夸父以为他那一面之缘算得了什么，想当初强良就曾卜卦预见到这场妖巫之战不会轻易休战，未来几百年，甚至更长的时间跨度，我们都将生活在妖族的谎言中。",
+    "bjName": "bj_yueliangshan",
+    "spineName": "dayi,大羿,2",
+    "link": "",
+    "sound": "tt_jingyoucishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "那现在怎么办？",
+    "bjName": "bj_yueliangshan",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_naxianzaizenmeban",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "既有预言，那我深藏这深山之中便不是为了苟且，而是修炼。目前我的轩辕箭已经大成，足够对付十只金乌。这些孽畜仗着自己是东皇太一的儿子到处为非作歹，我早已见之不惯。现在正是对付他们的好时候。",
+    "bjName": "bj_yueliangshan",
+    "spineName": "dayi,大羿,2",
+    "link": "",
+    "sound": "tt_jiyouyuyan",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "那让我们出发吧！",
+    "bjName": "bj_yueliangshan",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_narangwomenchu",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "金乌衔九穗禾，因金乌的身体极其炎热，没有任何植物可以靠近，虽说金乌认为“凡物不配与天人相提并论”，但也经常因生活无聊，没有生机而感到困扰。直到从上古神鸟丹雀手中抢到了九穗禾。九穗禾遇火不化，为神宫增添了不少生机。",
+    "bjName": "bj_zhanchang2",
+    "spineName": "",
+    "link": "",
+    "sound": "tt_jinwuxianjiusuihe",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "快用你的万毒之体接住这股能量",
+    "bjName": "bj_zhanchang2",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "tt_kuaiyongnide",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "你以凡人之躯练成了万毒之体，对身体损耗太大，此乃燃命之力，若没有九穗禾的神力相冲，很难化解，没几年活头了。",
+    "bjName": "bj_zhanchang2",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "tt_niyifanrenzhiqu",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "什么？",
+    "bjName": "bj_zhanchang2",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_shenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "所以你快去吧，这一路走过来，你已经获得了无上神力，接住一个小小九穗禾不在话下。",
+    "bjName": "bj_zhanchang2",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "tt_suoyinikuaiquba",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "好吧，那我试试吧。",
+    "bjName": "bj_zhanchang2",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_haobanawo",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "#主角#接触到九穗禾的瞬间，突然感到眩晕，脑中不断闪现着一些莫名的场景",
+    "bjName": "bj_zhanchang2",
+    "spineName": "",
+    "link": "",
+    "sound": "tt_jiechudaojiusuihe",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "此时，一股炙热的能量喷涌而出，包裹住#主角#，而火焰中的九穗禾悄然融化，一枚鸾鸟形状的玉扣在其中若隐若现。",
+    "bjName": "bj_zhanchang2",
+    "spineName": "",
+    "link": "",
+    "sound": "tt_cishiyiguzhire",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "啊！好痛！又来！！！什么情况？",
+    "bjName": "bj_zhanchang2",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_ahaotongyoulai",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "在场景中#主角#化身成了一个小孩，在深山中学习运作灵力的方法。",
+    "bjName": "bj_zhanchang2",
+    "spineName": "",
+    "link": "",
+    "sound": "tt_zaichangjingzhong",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "今天我们的主题是如何最大化自身的攻击力，在战斗中，力量至上，只有将我们自身的灵力倾注到你的攻击手段上，或者注入到你的法器中，才有可能取胜，这也就意味着灵力越强的人，攻击性也就越强，攻击性越强的人，胜算也就越大。",
+    "bjName": "bj_classroom",
+    "spineName": "mainshifu_qianshi,师父,1",
+    "link": "",
+    "sound": "tt_jintianwomendezhuti",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "你呀你！平时不精于练功，没有大出息！今天中午的饭就不要吃了！",
+    "bjName": "bj_classroom",
+    "spineName": "mainshifu_qianshi,师父,1",
+    "link": "",
+    "sound": "tt_niyanipingshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "师父，我很努力啊！",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,主角,2",
+    "link": "",
+    "sound": "tt_shifuwohennuli",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "还<color=#0000FF><u><link={41}>狡辩</link></u></color>！罚杖刑十二！",
+    "bjName": "bj_classroom",
+    "spineName": "mainshifu_qianshi,师父,1",
+    "link": "",
+    "sound": "tt_haijiaobianfa",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "（哭泣）一定是我不够好，师父才只喜欢师兄们，不喜欢我！",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,主角,2",
+    "link": "",
+    "sound": "tt_yidingshiwobugouhao",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "看来我需要更加加倍努力了！",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,主角,2",
+    "link": "",
+    "sound": "tt_kanlaiwoxuyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "哇，太棒啦！我感觉一种很强的力量在我身体里，太棒了!我又进步啦！师父！师父！（#主角#奔跑着去寻找师父）我成了！我突破啦！",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,主角,2",
+    "link": "",
+    "sound": "tt_wataibangle",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "（冷眼看着他）刚取得这么一点功力就骄傲！真是太不稳重了！今天的饭就不要吃了！",
+    "bjName": "bj_classroom",
+    "spineName": "mainshifu_qianshi,师父,1",
+    "link": "",
+    "sound": "tt_gangqudezhemeyidian",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "师父，为何师兄们只取得一点进步就会被奖励，能得到您的欣赏，而我无论怎么努力，都会被罚呢？这太不公平了！",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,主角,2",
+    "link": "",
+    "sound": "tt_shifuweiheshixiongmen",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "没有什么公平不公平，你天生贱命，若不如此你恐为祸苍生！这座道观，我是老大，我说了算，回去禁闭一个月！",
+    "bjName": "bj_classroom",
+    "spineName": "mainshifu_qianshi,师父,1",
+    "link": "",
+    "sound": "tt_meiyoushenmegongping",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "为什么？无论我怎么努力，师父都不喜欢我，都会惩罚我，是我不配得到他的欣赏吗？是<color=#0000FF><u><link={42}>我的问题</link></u></color>吗？",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,主角,2",
+    "link": "",
+    "sound": "tt_weishenmewulunwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "没想到我真的可以（看向大羿），但是刚刚头好疼，感觉看到了一个故事，经历了一个生命，不知道为什么。",
+    "bjName": "bj_zhanchang2",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_meixiangdaowozhende",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "你当然可以，这一路走来，若没有你冒死闯山，便没有我出山，更没有这昆仑大地免遭涂炭。至于这个故事，我也不清楚是什么，谜底只有你靠自己的力量慢慢解开了。",
+    "bjName": "bj_zhanchang2",
+    "spineName": "dayi,大羿,1",
+    "link": "",
+    "sound": "tt_nidangrankeyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "所以我是值得的吗？",
+    "bjName": "bj_zhanchang2",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_suoyiwoshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "当然啦！",
+    "bjName": "bj_zhanchang2",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "tt_dangranla",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "强良在哪？",
+    "bjName": "bj_zhanchang2",
+    "spineName": "dayi,大羿,1",
+    "link": "",
+    "sound": "tt_qiangliangzaina",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "据说被困在主城，我们去救他吧。走！",
+    "bjName": "bj_zhanchang2",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_jushuobeikun",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "这里的阵法很奇怪，好像与强良的本源连接了，我们不能轻举妄动。该怎么办？",
+    "bjName": "bj_zhenfa",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_zhelidezhenfa",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "还能怎么办，这种阵法需要上古神器昆仑镜，你先对付旁边的小妖，我去调查一下昆仑镜的下落。",
+    "bjName": "bj_zhenfa",
+    "spineName": "dayi,大羿,1",
+    "link": "",
+    "sound": "tt_hainengzenmeban",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "我知道了，昆仑镜相传是西王母的法宝，但这西王母却是万妖之母。",
+    "bjName": "bj_zhenfa",
+    "spineName": "dayi,大羿,1",
+    "link": "",
+    "sound": "tt_wozhidaolekun",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "有没有其他办法能救强良？",
+    "bjName": "bj_zhenfa",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_youmeiyouqita",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "没办法，相传昆仑镜拥有沟通天人两界，破开时间空间间隙的神力，我们只有借助这个神力才能剥离强良和法阵之间的羁绊。",
+    "bjName": "bj_zhenfa",
+    "spineName": "dayi,大羿,1",
+    "link": "",
+    "sound": "tt_meibanfaxiangchuan",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "西王母不仅厉害，而且凶残。据说她有长生不老的法宝，当年徐福带三千童男三千童女出海，就是献给西王母，使其炼制长生不老药",
+    "bjName": "bj_zhenfa",
+    "spineName": "dayi,大羿,1",
+    "link": "",
+    "sound": "tt_xiwangmubujin",
+    "isOptiong": -1
+  },
+  {
+    "id": 40,
+    "words": "那我们怎么办？总不能去做西王母的下酒菜吧",
+    "bjName": "bj_zhenfa",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_nawomenzenmeban",
+    "isOptiong": -1
+  },
+  {
+    "id": 41,
+    "words": "硬拼不成，只能智取。",
+    "bjName": "bj_zhenfa",
+    "spineName": "dayi,大羿,1",
+    "link": "",
+    "sound": "tt_yingpinbucheng",
+    "isOptiong": -1
+  },
+  {
+    "id": 42,
+    "words": "这话看来说早了，天庭的守卫来势汹汹不太好惹呢",
+    "bjName": "bj_zhenfa",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_zhehuakanlaishuozaole",
+    "isOptiong": -1
+  },
+  {
+    "id": 43,
+    "words": "汝等小儿，为何伤我天庭守卫？",
+    "bjName": "bj_tianting",
+    "spineName": "xiwangmu,西王母,1",
+    "link": "",
+    "sound": "tt_rudengxiaoer",
+    "isOptiong": -1
+  },
+  {
+    "id": 44,
+    "words": "我等有一神物奉上，奈何守卫不给通传，才出此下策。",
+    "bjName": "bj_tianting",
+    "spineName": "dayi,大羿,2",
+    "link": "",
+    "sound": "tt_wodengyouyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 45,
+    "words": "哦？是何宝物？",
+    "bjName": "bj_tianting",
+    "spineName": "xiwangmu,西王母,1",
+    "link": "",
+    "sound": "tt_shihebaowu",
+    "isOptiong": -1
+  },
+  {
+    "id": 46,
+    "words": "王母请看，我在东海求到一颗灵丹，据说食用之后不仅长生不老，而且还能容光焕发，永葆青春。",
+    "bjName": "bj_tianting",
+    "spineName": "dayi,大羿,2",
+    "link": "",
+    "sound": "tt_wangmuqingkan",
+    "isOptiong": -1
+  },
+  {
+    "id": 47,
+    "words": "我已是长生之躯，不再需要此等宝物。你还是留着自己用吧。",
+    "bjName": "bj_tianting",
+    "spineName": "xiwangmu,西王母,1",
+    "link": "",
+    "sound": "tt_woyishichangsheng",
+    "isOptiong": -1
+  },
+  {
+    "id": 48,
+    "words": "王母且慢，长生不假，但此药丸不仅可以长生，更是美容养颜的不二选择。哪个女人不希望自己更美一些呢？",
+    "bjName": "bj_tianting",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_wangmuqieman",
+    "isOptiong": -1
+  },
+  {
+    "id": 49,
+    "words": "这位小友倒是机灵。",
+    "bjName": "bj_tianting",
+    "spineName": "xiwangmu,西王母,1",
+    "link": "",
+    "sound": "tt_zheweixiaoyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 50,
+    "words": "西王母将灵丹接过，在手中打量了一番，然后吃了下去。",
+    "bjName": "bj_tianting",
+    "spineName": "",
+    "link": "",
+    "sound": "tt_xiwangmujiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 51,
+    "words": "尔等竟然毒害于我！！……你们为何要毒害我？",
+    "bjName": "bj_tianting",
+    "spineName": "xiwangmu,西王母,1",
+    "link": "",
+    "sound": "tt_erdengjingran",
+    "isOptiong": -1
+  },
+  {
+    "id": 52,
+    "words": "还不快快交出昆仑镜，我等需要借用，去救强良祖巫，及我族因妖巫之战被困的族人。",
+    "bjName": "bj_tianting",
+    "spineName": "dayi,大羿,2",
+    "link": "",
+    "sound": "tt_haibukuaikuai",
+    "isOptiong": -1
+  },
+  {
+    "id": 53,
+    "words": "我自知敌不过你，又担心涉及妖族利益，你不愿相助，只好出此下策，放心！待你交出宝物，我等必予你解药。",
+    "bjName": "bj_tianting",
+    "spineName": "dayi,大羿,2",
+    "link": "",
+    "sound": "tt_wozizhidibuguoni",
+    "isOptiong": -1
+  },
+  {
+    "id": 54,
+    "words": "愚蠢的巫族，你以为一颗小小的掺了雄黄的药丸，我会辨别不出来？别忘了，长生不老可是我的专业。",
+    "bjName": "bj_tianting",
+    "spineName": "xiwangmu,西王母,1",
+    "link": "",
+    "sound": "tt_yuchundewuzu",
+    "isOptiong": -1
+  },
+  {
+    "id": 55,
+    "words": "原来你从始至终都没有服用。",
+    "bjName": "bj_tianting",
+    "spineName": "dayi,大羿,2",
+    "link": "",
+    "sound": "tt_yuanlainicongshizhi",
+    "isOptiong": -1
+  },
+  {
+    "id": 56,
+    "words": "废话，我又没病，为什么要吃药。",
+    "bjName": "bj_tianting",
+    "spineName": "xiwangmu,西王母,1",
+    "link": "",
+    "sound": "tt_feihuawoyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 57,
+    "words": "但，其实你们有所不知，我是天庭的反战派，没有做好攻略，就敢上山，我佩服你们的勇气，这样，我给你们一个机会，我只出一分力，你们能战胜我，我就帮助你们。",
+    "bjName": "bj_tianting",
+    "spineName": "xiwangmu,西王母,1",
+    "link": "",
+    "sound": "tt_danqishinimen",
+    "isOptiong": -1
+  },
+  {
+    "id": 58,
+    "words": "一言为定。",
+    "bjName": "bj_tianting",
+    "spineName": "dayi,大羿,2",
+    "link": "",
+    "sound": "tt_yiyanweiding",
+    "isOptiong": -1
+  },
+  {
+    "id": 59,
+    "words": "可以，大羿，我很欣赏你，听说你射杀了九只金乌，做得好，我们虽然同族，但我早就看不惯这几只小崽子们的做法，也曾向其父劝告过，但谁知其父鲁莽，未能听进我的劝诫。可见，<color=#0000FF><u><link={43}>子必随父</link></u></color>。",
+    "bjName": "bj_tianting",
+    "spineName": "xiwangmu,西王母,1",
+    "link": "",
+    "sound": "tt_keyidayiwohen",
+    "isOptiong": -1
+  },
+  {
+    "id": 60,
+    "words": "谢王母赞赏。",
+    "bjName": "bj_tianting",
+    "spineName": "dayi,大羿,2",
+    "link": "",
+    "sound": "tt_xiewangmuzan",
+    "isOptiong": -1
+  },
+  {
+    "id": 61,
+    "words": "给你，拿去吧。这是昆仑镜，可以帮你们解暂时之危，如你愿意，我会赐你长生之躯，与我共同推进妖巫两族的和平。",
+    "bjName": "bj_tianting",
+    "spineName": "xiwangmu,西王母,1",
+    "link": "",
+    "sound": "tt_geininaquba",
+    "isOptiong": -1
+  },
+  {
+    "id": 62,
+    "words": "她这是想妖巫亲善呀。",
+    "bjName": "bj_tianting",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "tt_tazheshixiangyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 63,
+    "words": "这其实也是我的夙愿。",
+    "bjName": "bj_tianting",
+    "spineName": "dayi,大羿,1",
+    "link": "",
+    "sound": "tt_zheqishiyeshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 64,
+    "words": "此法阵，需要三人从三面，共同运功，攻击阵眼，再用昆仑镜从第四面突围，记住了吗？",
+    "bjName": "bj_zhenfa",
+    "spineName": "dayi,大羿,1",
+    "link": "",
+    "sound": "tt_cifazhenxuyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 65,
+    "words": "没问题。",
+    "bjName": "bj_zhenfa",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "tt_meiwentifengruo",
+    "isOptiong": -1
+  },
+  {
+    "id": 66,
+    "words": "我也可以。我们需要先走近阵法，破解阵法前面的谜题",
+    "bjName": "bj_zhenfa",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_woyekeyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 67,
+    "words": "强良，你没事吧？",
+    "bjName": "bj_zhenfanei",
+    "spineName": "dayi,大羿,1",
+    "link": "",
+    "sound": "tt_qiangliangnimeishiba",
+    "isOptiong": -1
+  },
+  {
+    "id": 68,
+    "words": "我就知道你会来救我",
+    "bjName": "bj_zhenfanei",
+    "spineName": "qiangliang,强良祖巫,2",
+    "link": "",
+    "sound": "tt_wojiuzhidaonihui",
+    "isOptiong": -1
+  },
+  {
+    "id": 69,
+    "words": "这个强良不是法力无边，掌管着一方气运吗？咋看起来智商不太高呢?",
+    "bjName": "bj_zhenfanei",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_zhegeqiangliang",
+    "isOptiong": -1
+  },
+  {
+    "id": 70,
+    "words": "哦，我竟没发现大羿带了朋友来。。。",
+    "bjName": "bj_zhenfanei",
+    "spineName": "qiangliang,强良祖巫,2",
+    "link": "",
+    "sound": "tt_owojingmeifaxian",
+    "isOptiong": -1
+  },
+  {
+    "id": 71,
+    "words": "等一下，让我算算你是谁",
+    "bjName": "bj_zhenfanei",
+    "spineName": "qiangliang,强良祖巫,2",
+    "link": "",
+    "sound": "tt_dengyixiarangwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 72,
+    "words": "原来是你啊。。",
+    "bjName": "bj_zhenfanei",
+    "spineName": "qiangliang,强良祖巫,2",
+    "link": "",
+    "sound": "tt_yuanlaishinia",
+    "isOptiong": -1
+  },
+  {
+    "id": 73,
+    "words": "我？",
+    "bjName": "bj_zhenfanei",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_wo",
+    "isOptiong": -1
+  },
+  {
+    "id": 74,
+    "words": "感谢出手相救，你的朋友受伤了吧。",
+    "bjName": "bj_zhenfanei",
+    "spineName": "qiangliang,强良祖巫,2",
+    "link": "",
+    "sound": "tt_yuanlaishinia",
+    "isOptiong": -1
+  },
+  {
+    "id": 75,
+    "words": "这么准吗！",
+    "bjName": "bj_zhenfanei",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_zhemezhunma",
+    "isOptiong": -1
+  },
+  {
+    "id": 76,
+    "words": "给！这是魔蛊虫解药，你的朋友之所以伤的这么重，是因为我方在受到妖族攻击时，自行释放了魔蛊虫，抵御了一阵子，空气中目前还有毒气，你的朋友祭出内丹，势必会被魔蛊虫寄生，再加上被魔气侵扰，不死也得退层皮。",
+    "bjName": "bj_zhenfanei",
+    "spineName": "qiangliang,强良祖巫,2",
+    "link": "",
+    "sound": "tt_geizheshimoguchong",
+    "isOptiong": -1
+  },
+  {
+    "id": 77,
+    "words": "感谢祖巫！",
+    "bjName": "bj_zhenfanei",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_ganxiezuwu",
+    "isOptiong": -1
+  },
+  {
+    "id": 78,
+    "words": "如今小麟的伤势已经恢复一些了，我等又要重新上路了。",
+    "bjName": "bj_zhenfanei",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_rujinxiaolinde",
+    "isOptiong": -1
+  },
+  {
+    "id": 79,
+    "words": "且慢！你们此行若是去找碎片下落，我还知道一处。",
+    "bjName": "bj_zhenfanei",
+    "spineName": "qiangliang,强良祖巫,2",
+    "link": "",
+    "sound": "tt_qiemannimencixing",
+    "isOptiong": -1
+  },
+  {
+    "id": 80,
+    "words": "在哪？",
+    "bjName": "bj_zhenfanei",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_zaina",
+    "isOptiong": -1
+  },
+  {
+    "id": 81,
+    "words": "在城主手中，但我知道你和城主有一段渊源，不知你是否愿意前往？",
+    "bjName": "bj_zhenfanei",
+    "spineName": "qiangliang,强良祖巫,2",
+    "link": "",
+    "sound": "tt_zaichengzhushouzhong",
+    "isOptiong": -1
+  },
+  {
+    "id": 82,
+    "words": "难怪我踏入这里之后就觉得怪怪的，离主城越近这种感受越明显，祖巫，请问我和城主有何渊源呢？",
+    "bjName": "bj_zhenfanei",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_nanguaiwotaru",
+    "isOptiong": -1
+  },
+  {
+    "id": 83,
+    "words": "你既已有感觉，何必明说。那必然是血浓于水的关系。",
+    "bjName": "bj_zhenfanei",
+    "spineName": "qiangliang,强良祖巫,2",
+    "link": "",
+    "sound": "tt_nijiyiyouganjue",
+    "isOptiong": -1
+  },
+  {
+    "id": 84,
+    "words": "那我想，不是亲人，就是仇人。我也不知道，如果他是我的亲人，他会接受我吗？他是否会以我为荣呢？这次战斗，我虽然也出了力，但更多还是大羿前辈的功劳。我太普通了，普通到不敢站到亲友的面前。",
+    "bjName": "bj_zhenfanei",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_nawoxiangbushiqinren",
+    "isOptiong": -1
+  },
+  {
+    "id": 85,
+    "words": "你在胡说什么，这次如果没有你，小麟怎么可能被救活，大羿怎么可能出山，没有你，我们怎么摧毁法阵？",
+    "bjName": "bj_zhenfanei",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "tt_nizaihushuoshenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 86,
+    "words": "没错，孩子，谦虚是个美德，过度谦虚就不好了。如今你已有我族万毒之体，又拿到了九穗禾，接收了上古神力，去吧！前面的路在等着你。",
+    "bjName": "bj_zhenfanei",
+    "spineName": "qiangliang,强良祖巫,2",
+    "link": "",
+    "sound": "tt_meicuohaiziqianxu",
+    "isOptiong": -1
+  },
+  {
+    "id": 87,
+    "words": "好！我愿意一试！！",
+    "bjName": "bj_zhenfanei",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "tt_haowoyuanyiyi",
+    "isOptiong": -1
+  }
+]

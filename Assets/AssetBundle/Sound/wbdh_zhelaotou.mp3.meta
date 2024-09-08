@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 39225c1157bf0f0499c9da85d4d6cf9c
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 1
+    sampleRateSetting: 2
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 0.5
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: assetbundle/sound/wbdh_zhelaotou.assetbundle
+  assetBundleVariant: 

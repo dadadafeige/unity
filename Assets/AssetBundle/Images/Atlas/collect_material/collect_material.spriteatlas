@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: collect_material
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5f3422aa4860f1645b758d98153870ca, type: 3}
+    - {fileID: 2800000, guid: d6cf6a9b7aa140944a43875ca164fa38, type: 3}
+    - {fileID: 2800000, guid: 9a782856d3588ac41a4793fc445da3bf, type: 3}
+    - {fileID: 2800000, guid: ec2dbe3efba8833418cd59e1c1b1bac3, type: 3}
+    - {fileID: 2800000, guid: f4b6f1a67faa0484d8e1bfa56d75965c, type: 3}
+    - {fileID: 2800000, guid: 031d07b08360208499e9ae93eae45255, type: 3}
+    - {fileID: 2800000, guid: ea0e08440873fd24ba6299cc849cc226, type: 3}
+    - {fileID: 2800000, guid: 02adfe5778592b94599830809c3ceb3f, type: 3}
+    - {fileID: 2800000, guid: 22aedb9be6b5fbd4690b891ba963eb3d, type: 3}
+    - {fileID: 2800000, guid: 2a712c6e5679e254e9a6c8f4e32a89ba, type: 3}
+    - {fileID: 2800000, guid: 433ca850d3d706d4384031d98e6bd856, type: 3}
+    - {fileID: 2800000, guid: f33f3781a5517fc4a8b9a8a7a720f5a9, type: 3}
+    - {fileID: 2800000, guid: c98594f277c3c0e4b833cf7f9010c259, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 433ca850d3d706d4384031d98e6bd856: 21300000
+    - 031d07b08360208499e9ae93eae45255: 21300000
+    - f33f3781a5517fc4a8b9a8a7a720f5a9: 21300000
+    - c98594f277c3c0e4b833cf7f9010c259: 21300000
+    - ea0e08440873fd24ba6299cc849cc226: 21300000
+    - 9a782856d3588ac41a4793fc445da3bf: 21300000
+    - f4b6f1a67faa0484d8e1bfa56d75965c: 21300000
+    - 02adfe5778592b94599830809c3ceb3f: 21300000
+    - 5f3422aa4860f1645b758d98153870ca: 21300000
+    - d6cf6a9b7aa140944a43875ca164fa38: 21300000
+    - 22aedb9be6b5fbd4690b891ba963eb3d: 21300000
+    - ec2dbe3efba8833418cd59e1c1b1bac3: 21300000
+    - 2a712c6e5679e254e9a6c8f4e32a89ba: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 433ca850d3d706d4384031d98e6bd856, type: 3}
+  - {fileID: 21300000, guid: 031d07b08360208499e9ae93eae45255, type: 3}
+  - {fileID: 21300000, guid: f33f3781a5517fc4a8b9a8a7a720f5a9, type: 3}
+  - {fileID: 21300000, guid: c98594f277c3c0e4b833cf7f9010c259, type: 3}
+  - {fileID: 21300000, guid: ea0e08440873fd24ba6299cc849cc226, type: 3}
+  - {fileID: 21300000, guid: 9a782856d3588ac41a4793fc445da3bf, type: 3}
+  - {fileID: 21300000, guid: f4b6f1a67faa0484d8e1bfa56d75965c, type: 3}
+  - {fileID: 21300000, guid: 02adfe5778592b94599830809c3ceb3f, type: 3}
+  - {fileID: 21300000, guid: 5f3422aa4860f1645b758d98153870ca, type: 3}
+  - {fileID: 21300000, guid: d6cf6a9b7aa140944a43875ca164fa38, type: 3}
+  - {fileID: 21300000, guid: 22aedb9be6b5fbd4690b891ba963eb3d, type: 3}
+  - {fileID: 21300000, guid: ec2dbe3efba8833418cd59e1c1b1bac3, type: 3}
+  - {fileID: 21300000, guid: 2a712c6e5679e254e9a6c8f4e32a89ba, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - collect_material_plate
+  - collect_material_barricade6
+  - collect_material_player
+  - collect_material_word
+  - collect_material_direction
+  - collect_material_barricade3
+  - collect_material_barricade5
+  - collect_material_enemy1
+  - collect_material_barricade1
+  - collect_material_barricade2
+  - collect_material_enemy2
+  - collect_material_barricade4
+  - collect_material_enemy3
+  m_RenderDataMap: {}
+  m_Tag: collect_material
+  m_IsVariant: 0

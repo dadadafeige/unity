@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: BlackSmith_Data
+  m_EditorClassIdentifier: 
+  dataName: BlackSmith
+  dragonBonesJSON: {fileID: 4900000, guid: 728ae85dd81bd5f429c842eb2cbb24e3, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: a5bf51c470f93ac41aa595b8db2bd8e5, type: 3}
+    texture: {fileID: 2800000, guid: 96e55e7ef619cea4abd27a9ab8cc3473, type: 3}
+    material: {fileID: 2100000, guid: 1f24a58590183ff49a9097260e1d1169, type: 2}
+    uiMaterial: {fileID: 2100000, guid: e6113e39cce2a9e498f1b336a567a195, type: 2}

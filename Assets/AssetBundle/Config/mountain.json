@@ -1,0 +1,281 @@
+﻿[
+  {
+    "id": 1,
+    "words": "再来摘一些草药吧！",
+    "bjName": "bj_mountain1",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mt_zailaizhaiyixie",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "先采这些草药，我们下山吧",
+    "bjName": "bj_mountain1",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "下山途中，发现有一处黑烟袅绕，走近一看有大量嗜血的恶狼。",
+    "bjName": "bj_mountain2",
+    "spineName": "",
+    "link": "",
+    "sound": "mt_1xiashan",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "不好，这下可怎么办，这些魔物实在太多了，咱们打不过啊！",
+    "bjName": "bj_mountain2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mt_1buhao",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "有你罗爷爷在这，怕甚？",
+    "bjName": "bj_mountain2",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mt_youniluoyeye",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "我们必须降伏它们才能继续前行。",
+    "bjName": "bj_mountain2",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "mt_womenbixuxiangfu",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "（看到一少年与恶狼战斗）咦！这家伙在和魔物对抗，<color=#0000FF><u><link={12}>他好像需要帮忙</link></u></color>！（#主角#迅速接近战场）",
+    "bjName": "bj_mountain2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mt_1yizhejia",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "是时候展现你罗爷爷真正的实力了！",
+    "bjName": "bj_mountain2",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mt_shishihouzhanxian",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "#主角#，切记小心，勿被魔气所侵染。",
+    "bjName": "bj_mountain2",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "mt_1qiejixiaoxin",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "何足惧哉，再多的魔气也会被我吸收。",
+    "bjName": "bj_mountain2",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mt_hezujuzai",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "让我也来助你一臂之力！（#主角#与小麟并肩作战）",
+    "bjName": "bj_mountain2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mt_rangwoyelai",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "看我的吧（罗睺喵一声咆哮，吸纳周围的魔气，内功随之复苏）",
+    "bjName": "bj_mountain2",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mt_kanwodeba",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "哈哈，看来你这小魔倒也不是没有用武之地。",
+    "bjName": "bj_mountain2",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "mt_hahakanlaini",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "一行人与魔物进行一番打斗，获胜后发现这些恶狼恢复了人形，此事必有蹊跷。",
+    "bjName": "bj_mountain3",
+    "spineName": "",
+    "link": "",
+    "sound": "mt_1yixingren",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "在下小麟，多谢你的相助！请问您贵姓？",
+    "bjName": "bj_mountain3",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "mt_zaixiaxiaolin",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "在下乃#主角#，举手之劳啦~（害羞）（#主角#被小麟身上散发出的神秘而强大的气息，和<color=#0000FF><u><link={13}>自信而坚定的目光所吸引</link></u></color>）",
+    "bjName": "bj_mountain3",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mt_jushouzhilaola",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "你为何与那些魔物交战？",
+    "bjName": "bj_mountain3",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "mt_1niweihe",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "这还用问，当然是像我罗大人一样行侠仗义啊！",
+    "bjName": "bj_mountain3",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mt_zhehaiyongwen",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "诶，这两位是？",
+    "bjName": "bj_mountain3",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "mt_aizheliangwei",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "啊~他们啊~是……是……是我养的宠物，对宠物！",
+    "bjName": "bj_mountain3",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mt_atamenashi",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "(谁是你的宠物，我乃堂堂魔祖，称我罗爷爷也不为过)",
+    "bjName": "bj_mountain3",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "mt_sheishinidechongwu",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "(宠物？就宠物吧，以我现在的实力，实在不好告知他人身份，丢凤凰一族的脸面)",
+    "bjName": "bj_mountain3",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "mt_chongwujiuchongwu",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "想不到公子还有这等雅兴，这两宠物实在是可爱，我甚是喜欢，哈哈。",
+    "bjName": "bj_mountain3",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "mt_xiangbudao",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "唉，我家乡亦有众多居民被魔气侵袭化形为怪物，我正是追踪着他们魔化的头目而至。（转乐为悲）",
+    "bjName": "bj_mountain3",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "mt_aiwojiaxiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "（看到一人身着一件黑色的长袍，披着暗纹的铠甲，散发着令人不寒而栗的黑暗气息）此人即是吗？它腰间似乎悬挂着一物，让我们看看是何物。",
+    "bjName": "bj_mountain3",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "mt_cirenjishima",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "噢，这是不周山介潭族的信物，看来此事与他们有所牵连。",
+    "bjName": "bj_mountain3",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "mt_ozhebushi",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "(奇怪，怎么会跟介潭族有关呢，族内到底谁在搞鬼，我一定要查个水落石出。)",
+    "bjName": "bj_mountain3",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "mt_qiguaizenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "请问你们接下来准备前往何处？",
+    "bjName": "bj_mountain3",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "mt_1qingwen",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "说来<color=#0000FF><u><link={14}>惭愧</link></u></color>，我们正在采集一些稀有药材，以便贩卖换取万宝大会的门票。",
+    "bjName": "bj_mountain3",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mt_shuolaicankui",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "太好了，咱们可以同行，正好我也想去求见百晓生，询问有关魔化的线索。",
+    "bjName": "bj_mountain3",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "mt_taihaole",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "这就是万宝大会啊，快开门进去看看吧！",
+    "bjName": "bj_wanbaowai",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "mt_zhejiushiwanbao",
+    "isOptiong": -1
+  }
+]

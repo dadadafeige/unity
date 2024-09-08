@@ -1,0 +1,173 @@
+﻿[
+  {
+    "id": 1,
+    "words": "东海之滨，巫族大军压境。统领将军相柳乃是大巫之一。龙王带水族大军迎战，#主角#、小麟一行人参与到战斗之中。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "fight_donghaizhibin",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "东海龙王，这次，龙宫秘宝我们势在必得！",
+    "bjName": "bj_fight",
+    "spineName": "xiangliu,相柳,2",
+    "link": "",
+    "sound": "fight_donghailongwang",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "以前一直都是大哥辅佐父王应对内忧外患，这次，我也要成为父王的左膀右臂。",
+    "bjName": "bj_fight",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "fight_yiqianyizhi",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "虽然我可能比不上大哥，但是这次，我要让你们都知道，我也是父王的儿子！是东海龙宫二王子！受死吧！",
+    "bjName": "bj_fight",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "fight_suiranwokeneng",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "不妙啊，敌军太强了，我们打不过的，水族大军魔化越来越严重，节节败退。很多士兵都受了伤。要输了……",
+    "bjName": "bj_fight",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "fight_1bumiaoa",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "父王也被击伤了！我们真的……没有别的办法了吗……该怎么做才能扭转战局，守护东海……",
+    "bjName": "bj_fight",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "fight_1fuwang",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "突然，一阵很强的灵力扑面袭来。敌方将领——大巫相柳来到#主角#面前，眼看就要动手。小麟瞬时赶过去挡在了#主角#身前。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "fight_turanyizhen",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "小心！你要对我的朋友做什么！只要有我在，你们休想在东海为所欲为！",
+    "bjName": "bj_fight",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "fight_1xiaoxin",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "这小子是龙宫的王子，能够感受到一股很异常的灵力……莫非就是他拥有能够对抗金乌之力的内丹！给我拿下！",
+    "bjName": "bj_fight",
+    "spineName": "xiangliu,相柳,1",
+    "link": "",
+    "sound": "fight_zhexiaozishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "莫非你们……是冲我来的？如果真是这样，那就<color=#0000FF><u><link={29}>冲我一个人来</link></u></color>好了，用我一人换东海安宁，也值了。",
+    "bjName": "bj_fight",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "fight_mofeinimen",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "相柳施法将小麟控制住动弹不得，几个巫族士兵快步上前将小麟擒获，准备将他带走。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "fight_xiangliushifa",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "小麟！糟了！小麟被抓走了！我来救你！",
+    "bjName": "bj_fight",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "fight_1xiaolinzao",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "#主角#发现地上有个袋子，将它拾起打开一看，里面有七颗闪闪发光的珠子",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "fight_1tafaxian",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "这是小麟的龙珠，我得收好",
+    "bjName": "bj_fight",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "fight_1zheshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "相柳突然出现，一阵施法，#主角#被击伤在地上，无法再追击，陷入无能感和自责的深渊，放弃抵抗，全然不知身后的袭击。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "fight_1xiangliu",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "小心！",
+    "bjName": "bj_fight",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "fight_xiaoxin (1)",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "千钧一发之际，一团紫光闪现，一个人影挡在了#主角#面前，其施法挡下此箭，#主角#才得以脱险。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "fight_1qianjun",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "我来抵挡，你们先走。",
+    "bjName": "bj_fight",
+    "spineName": "baixiaosheng_x,???,1",
+    "link": "",
+    "sound": "fight_wolaididang",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "罗睺羽嘉见机连忙从#主角#身上找到师父给的幻境之镜，幻境之镜将一行人带离战场。#主角#眼前被一团白光包围，紧闭双眼。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "fight_1luohouyu",
+    "isOptiong": -1
+  }
+]

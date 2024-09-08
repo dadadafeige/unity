@@ -1,0 +1,137 @@
+﻿[
+  {
+    "id": 1,
+    "words": "这大羿真是一个热爱草药的人，客厅里挂的都是草药",
+    "bjName": "bj_dayiketing",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dyh_zhedayi",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "我们找了一圈也没发现什么有用的线索，也许得进入他的卧室",
+    "bjName": "bj_dayiketing",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "dyh_womenzhaole",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "你们看这里有两个看起来一模一样的房间，似乎是某种神秘的结界，这结界看起来不可强攻，我们需要仔细分辨出它们之间的差别才可以。",
+    "bjName": "bj_dayiketing",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "dyh_nimenkanzhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "太好了，成功啦，让我们进去看看里边都有什么",
+    "bjName": "bj_dayiketing",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dyh_taihaolecheng",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "这个柜子看起来很神秘，还用一种很精巧的锁锁上了。",
+    "bjName": "bj_shufang",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dyh_zhegeguizi",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "（震惊！）竟然里面还有一个鲁班锁！",
+    "bjName": "bj_shufang",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dyh_jingranlimian",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "这里边是一个日记本，看起来非常精致，上面记载着大羿过去参与苗疆之战的经历。",
+    "bjName": "bj_shufang",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dyh_zhelibianshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "公元前526年 天气晴 师父嘱托我一定练好苗疆巫术，这样才能保护我们的子民。我心想这不就是下毒下蛊的邪术吗？我还是想像天神一样战斗。",
+    "bjName": "bj_shufang",
+    "spineName": "",
+    "link": "",
+    "sound": "dyh_gongyuanqian",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "公元前525年 天气晴 今日来了很多自称天神的人，打着正义的旗号，在我境内大肆屠戮。",
+    "bjName": "bj_shufang",
+    "spineName": "",
+    "link": "",
+    "sound": "dyh_gongyuanqian525",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "可恨我学艺不精，不能保护他们，师父也惨遭杀害，他在最后一刻，用他的灵力将我护住，施展遁地术，助我离家。",
+    "bjName": "bj_shufang",
+    "spineName": "",
+    "link": "",
+    "sound": "dyh_kehenwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "公元前525年 天气阴 我不能理解为什么要相互征战，幸存的师兄弟都想为师父报仇，而师父对我说的却是保护好他们离开这里，不要报仇。",
+    "bjName": "bj_shufang",
+    "spineName": "",
+    "link": "",
+    "sound": "dyh_gongyuanqian525nian",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "我希望不再有战争，几千年的战争什么时候是个头，我希望人们安居乐业，小孩都能健康成长。",
+    "bjName": "bj_shufang",
+    "spineName": "",
+    "link": "",
+    "sound": "dyh_woxiwangbuzai",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "公元前524年 天气晴 有风  寒风吹醒了我，我应该精进我的武艺，继承师父的遗愿，为巫妖和平做贡献，而不是像现在这样自怨自艾。",
+    "bjName": "bj_shufang",
+    "spineName": "",
+    "link": "",
+    "sound": "dyh_gongyuanqian524nian",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "听说月亮山是修行的最佳所在，不如就让我去闯一闯，成与不成都是对自己的一个交代。",
+    "bjName": "bj_shufang",
+    "spineName": "",
+    "link": "",
+    "sound": "dyh_tingshuoyueliangshan",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "原来大羿是这样一个胸怀广阔，热爱和平的人，看样子他应该在月亮山，我们一起去那里找他吧。",
+    "bjName": "bj_shufang",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dyh_yuanlaidayishizheyang",
+    "isOptiong": -1
+  }
+]

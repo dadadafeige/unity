@@ -1,0 +1,101 @@
+﻿[
+  {
+    "id": 1,
+    "words": "就在这时，#主角#一阵晕眩，脑海中又一次出现了莫名的记忆闪回。仿佛回到了少年时代，身高也不像现在这么高，还比较瘦弱。",
+    "bjName": "bj_classroom",
+    "spineName": "",
+    "link": "",
+    "sound": "mmr_jiuzaizheshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "正在迷茫之际，突然，一个石块打到自己的后脑上。一回头，看见是几个比自己更高大健壮的孩子。",
+    "bjName": "bj_classroom",
+    "spineName": "",
+    "link": "",
+    "sound": "mmr_zhengzaimimang",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "看你那弱不禁风的样子，这次的体能比试又是垫底！",
+    "bjName": "bj_classroom",
+    "spineName": "child1,孩子甲,2",
+    "link": "",
+    "sound": "mmr_kannina",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "体术不行也就算了，法术分数也那么低！真是我们族群的废物，给整个家族丢人！",
+    "bjName": "bj_classroom",
+    "spineName": "child2,孩子乙,2",
+    "link": "",
+    "sound": "mmr_tishubuxing",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "这群孩子们一边讥笑着，一边向#主角#投掷小石子，最后，他们<color=#0000FF><u><link={34}>推搡</link></u></color>着从#主角#身边经过，将#主角#撞倒，逐渐走远了。",
+    "bjName": "bj_classroom",
+    "spineName": "",
+    "link": "",
+    "sound": "mmr_zhequnhaizi",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "心里真的很难过很委屈，又无力反抗。就像他们说的那样，我真的很没用……",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,主角内心,1",
+    "link": "",
+    "sound": "memory_xinlizhende",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "#主角#从地上爬起，一步步垂头丧气地走回家去，回到自己的房间把自己关起来。",
+    "bjName": "bj_classroom",
+    "spineName": "",
+    "link": "",
+    "sound": "mmr_tacongdishang",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "好像很久没有感受过亲人和朋友的关心了，只能蹲坐在房间的角落里抱住自己。",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,主角内心,1",
+    "link": "",
+    "sound": "mmr_haoxianghenjiu",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "我没有天赋，瘦瘦小小，各方面表现都不如别人，我该怎么办呢？",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,主角内心,1",
+    "link": "",
+    "sound": "mmr_womeiyoutianfu",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "我可能需要比别人更努力，我要比别人努力百倍，千倍，才有可能追赶上他们。",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,主角内心,1",
+    "link": "",
+    "sound": "mmr_wokenengxuyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "我能做得到么？……我一定要这么做！",
+    "bjName": "bj_classroom",
+    "spineName": "main_qianshi,主角内心,1",
+    "link": "",
+    "sound": "mmr_wonengzuode",
+    "isOptiong": -1
+  }
+]

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: flip_brand
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 274bd742a44b63f45942d05ce484336f, type: 3}
+    - {fileID: 2800000, guid: d898b62a02072a041a79c90eb0946be7, type: 3}
+    - {fileID: 2800000, guid: eaad98cd098527c4783028710fd0de33, type: 3}
+    - {fileID: 2800000, guid: 80010ead88207af4289f81a7ef1cee89, type: 3}
+    - {fileID: 2800000, guid: 66bc1295ef688314a8c55aaf9a906676, type: 3}
+    - {fileID: 2800000, guid: e5c43f8c6bdfe854498b86ee3a14b556, type: 3}
+    - {fileID: 2800000, guid: fc7a05ee21653984d8d9e40386449513, type: 3}
+    - {fileID: 2800000, guid: 2b5622ef5de4d8746a9828c53c282952, type: 3}
+    - {fileID: 2800000, guid: 408c7a441e86f274fb0ddfdbfe2a4458, type: 3}
+    - {fileID: 2800000, guid: 0e7eac79a478648438d57d174f008f83, type: 3}
+    - {fileID: 2800000, guid: e5695ad60cc138e4ab0dec6107aadfda, type: 3}
+    - {fileID: 2800000, guid: 7bdbc5721a38ece419407602ca1a87ba, type: 3}
+    - {fileID: 2800000, guid: 0bd34965e0810a4489bb0d712977df57, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 274bd742a44b63f45942d05ce484336f: 21300000
+    - 7bdbc5721a38ece419407602ca1a87ba: 21300000
+    - 408c7a441e86f274fb0ddfdbfe2a4458: 21300000
+    - 0bd34965e0810a4489bb0d712977df57: 21300000
+    - 66bc1295ef688314a8c55aaf9a906676: 21300000
+    - e5695ad60cc138e4ab0dec6107aadfda: 21300000
+    - 0e7eac79a478648438d57d174f008f83: 21300000
+    - d898b62a02072a041a79c90eb0946be7: 21300000
+    - e5c43f8c6bdfe854498b86ee3a14b556: 21300000
+    - 80010ead88207af4289f81a7ef1cee89: 21300000
+    - eaad98cd098527c4783028710fd0de33: 21300000
+    - fc7a05ee21653984d8d9e40386449513: 21300000
+    - 2b5622ef5de4d8746a9828c53c282952: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 274bd742a44b63f45942d05ce484336f, type: 3}
+  - {fileID: 21300000, guid: 7bdbc5721a38ece419407602ca1a87ba, type: 3}
+  - {fileID: 21300000, guid: 408c7a441e86f274fb0ddfdbfe2a4458, type: 3}
+  - {fileID: 21300000, guid: 0bd34965e0810a4489bb0d712977df57, type: 3}
+  - {fileID: 21300000, guid: 66bc1295ef688314a8c55aaf9a906676, type: 3}
+  - {fileID: 21300000, guid: e5695ad60cc138e4ab0dec6107aadfda, type: 3}
+  - {fileID: 21300000, guid: 0e7eac79a478648438d57d174f008f83, type: 3}
+  - {fileID: 21300000, guid: d898b62a02072a041a79c90eb0946be7, type: 3}
+  - {fileID: 21300000, guid: e5c43f8c6bdfe854498b86ee3a14b556, type: 3}
+  - {fileID: 21300000, guid: 80010ead88207af4289f81a7ef1cee89, type: 3}
+  - {fileID: 21300000, guid: eaad98cd098527c4783028710fd0de33, type: 3}
+  - {fileID: 21300000, guid: fc7a05ee21653984d8d9e40386449513, type: 3}
+  - {fileID: 21300000, guid: 2b5622ef5de4d8746a9828c53c282952, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BaoXiang
+  - QiuYin_Icon
+  - haoshi
+  - XianShiDaoJu
+  - DuShe
+  - QiuYin
+  - MuGe
+  - CaoYao
+  - flip_brand_bg
+  - DuFeng
+  - ChongCao
+  - Gai
+  - Gai_TouMing
+  m_RenderDataMap: {}
+  m_Tag: flip_brand
+  m_IsVariant: 0

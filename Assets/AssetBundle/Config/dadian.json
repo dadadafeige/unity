@@ -1,0 +1,344 @@
+﻿[
+  {
+    "id": 1,
+    "words": "#主角#在侍者的引荐下进入城主的府邸，朝大殿走，以匿名仙符师的身份觐见城主。",
+    "bjName": "bj_hallway",
+    "spineName": "",
+    "link": "",
+    "sound": "dadian_yixingreng",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "整个宫城之上仿佛被阴霾笼罩。",
+    "bjName": "bj_hallway",
+    "spineName": "",
+    "link": "",
+    "sound": "dadian_zhengge",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "贵客请随我来，城主已在大殿恭候多时。幸亏有您揭下了求贤榜啊！",
+    "bjName": "bj_hallway",
+    "spineName": "servant,侍者,2",
+    "link": "",
+    "sound": "dadian_guike",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "我原本是有事来适逢城，正巧在城门边看到了榜单。请问，城主到底因为何事才需寻召仙符师呢？",
+    "bjName": "bj_hallway",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_woyuanben",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "唉，说来话长，最近城中频频有怪事发生，城主也身体抱恙，睡不好觉，都说是这宫里……闹鬼啊！还有那塔……呃，贵客，我们到了。",
+    "bjName": "bj_hallway",
+    "spineName": "servant,侍者,2",
+    "link": "",
+    "sound": "dadian_shuolaihuachang",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "终于来到城主的大殿，殿内富丽堂皇。城主端坐于上位，身着华丽锦袍，头戴点缀着珠宝的鎏金冠冕。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "dadian_zhongyu",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "虽相隔一段阶梯的距离，但仍能透过那一脸威严看出其脸上的些许疲惫病容。#主角#向城主行礼。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "dadian_suixiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "拜见城主。",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_baijian",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "仙符师免礼。近日听闻仙符师多次出手帮助各方成功驱魔，实乃年轻一代仙符师中之翘楚。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_xianfushi",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "城主过誉了，实不敢当。",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_chengzhu",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "正在这时，一枚暗箭由大殿的角落射来。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "dadian_zhengzaizheshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "#主角#画出神盾符，挡住暗箭，一招制敌。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "dadian_huachu",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "小友果然名不虚传，方才只是简单的小试炼，希望小友不要介意。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_xiaoyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "当然不介意。",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_dangranbu",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "本次请小友前来，确实是有一事相求。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_benciqing",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "城主直说无妨。",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_chengzhuzhi",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "……实不相瞒，近日，我适逢城屡有怪事乃至祸事发生。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_shibuxiangman",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "发生了什么事呢？",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_fashengle",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "城内出现了严重的瘟疫，民不聊生，暴力犯罪事件频发，这厄运……终究是逃不过去啊……",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_chengneichu",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "城主说的“厄运”是何意？",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_chengzhushuo",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "唉，小友年纪稍轻，有所不知，多年前，天有异象，宣示这适逢城将有厄运降临，外敌猖獗，民情动摇，洪水瘟疫，民生困顿……",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_aixiaoyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "为了适逢城，我甚至……忍痛送走了那孩子……",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_weileshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "#主角#<color=#0000FF><u><link={44}>心中一悸</link></u></color>，想追问又觉得不太合适，最终还是大胆开口。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "dadian_xinzhongyiji",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "……“那孩子”？",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_nahaizi",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "呃，是我的孩子，在我的几个孩子中，他……他是最特别的那一个。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_shiwode",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "特别？",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_tebie",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "这时，#主角#突然感受到一股强大而诡异的灵力，这灵力似乎来自大殿的西北方位。城主不由得扶额摇晃了几下后跌坐在座位上。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "dadian_zheshini",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "城主！您怎么了？",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_chengzhuning",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "我没事。（咳嗽几声）",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_womeishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "这宫城之中……最近是否也有一些怪事发生？",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_zhegong",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "小友果然洞察力超群。近日这宫中频有妖魔作祟，我寝食难安，夜里常常会听见一些异常的声音，难以入眠，即使睡着也是噩梦纠缠。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_chengzhuguo",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "（咳嗽几声）唉，我这身体，也是<color=#0000FF><u><link={45}>每况愈下</link></u></color>，想来都与最近的怪事有关，所以这才邀请你进宫来，就是想求助于仙符师帮适逢城除魔。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_aiwozhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "刚刚我确实感受到一些特别的灵力，来自于这宫城的西北方位，不知那里是什么地方？",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_ganggangwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "西北？！……那就是它了，玉璋塔。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_xibei",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "玉璋塔乃是宫城中的禁地。这塔共有九层，塔中有我城收藏各种奇珍异宝之所——秘宝阁，而在塔顶——第九层，我城历代城主祖先也供奉在此处。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_yuzhangta",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "这些日子，守塔人确实报告过，说夜里时常听到塔顶传来异响。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_zhexierizi",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "看来，这塔是有必要去一趟了。",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "dadian_kanlaizhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "可是……唉，也没别的办法了，只能有劳小友。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "dadian_keshiai",
+    "isOptiong": -1
+  }
+]

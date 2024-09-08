@@ -1,0 +1,452 @@
+﻿[
+  {
+    "id": 2,
+    "words": "经过一路跋涉，高耸入云的不周山终于出现在了地平线的远方，碧蓝的天空洒下温暖的阳光，高耸入云的山峰如巍峨的巨人，宛如仙境一般。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "",
+    "link": "",
+    "sound": "bzww_jingguoyilu",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "快看！那一定是不周山，但不知怎的我总感觉不对劲，希望老先生没有骗我。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_kuaikannayiding",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "望山跑死马啊，我们还是提前规划一下计划吧。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "bzww_wangshanpaosima",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "你个鸟人，无论碰到什么都不会是我罗大人的一合之敌，不过我们确实得小心点，那个老头我不喜欢，说不定就是陷阱。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "bzww_nigeniaoren",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "哦呦，看你那个样子，不知道谁被人打的抱头鼠窜，命都没了半条，你以为你还是以前的你么？",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "bzww_oyoukannina",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "你说什么！你要打一架吗！",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "bzww_nishuoshenmeni",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "嘁~",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "bzww_qi",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "你们两个别吵架了啊！",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "bzww_nimenliangge",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "不对劲！看这些树怎么上面死气萦绕，而且太安静了，周围一点声音都没有，小心点",
+    "bjName": "bj_buzhou_haunted",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "bzww_buduijinkan",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "要不然我们回去吧，前面看起来也太诡异了，我们还是从长计议……",
+    "bjName": "bj_buzhou_haunted",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "bzww_yaoburanwomen",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "不行！怎么能打退堂鼓！",
+    "bjName": "bj_buzhou_haunted",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "bzww_buxingzenmenengda",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "我画一张驱鬼符吧,这样能好点",
+    "bjName": "bj_buzhou_haunted",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "bzww_wohuayizhang",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "哇，森林又恢复了生机",
+    "bjName": "bj_buzhou_haunted2",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "bzww_wasenlinyouhuifu",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "一行人又走了一段距离",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "",
+    "link": "",
+    "sound": "bzww_yixingrenyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "快看！有一位女子，我们可以去问问路！",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "bzww_kuaikanyouyiwei",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "敌人？……在那里！……没有",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,未知女子,2",
+    "link": "",
+    "sound": "bzww_direnzainali",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "您好小姐，我想问问……",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_ninhaoxiaojie",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "贼人受死！该死的狐族雇佣兵，我绝不放过你们！",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,未知女子,2",
+    "link": "",
+    "sound": "buww_1zeiren",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "等，等下，你误会了，我们是来寻宝的，不认识什么狐族",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_dengdengxia",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "寻宝？好啊！狐族雇佣连报酬都不愿意自己出，妄想用我介潭一族的宝物开空头支票？！<color=#0000FF><u><link={17}>贼人受死</link></u></color>！",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,未知女子,2",
+    "link": "",
+    "sound": "bzww_xunbaohaoa",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "小心！先保护好自己！",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "bzww_xiaoxinxianbao",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "我已经是你的手下败将了，你是想要从我这里骗取情报吧，我什么都不会说的！",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,未知女子,2",
+    "link": "",
+    "sound": "bzww_1woyijing",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "看来我是无法让姑娘相信了，我看姑娘你神色匆匆想必是有要事在身，不如我们就此别过，今天的事情算我们倒霉，我这禁制一个时辰之后自会消散。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "bzww_kanlaiwoshiwufa",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "但是等下她追过来报复我们怎么办？",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "bzww_danshidengxia",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "有了！可以用匿踪符掩盖住我们的行踪，稍等我片刻，我制作一下",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_youlekeyiyong",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "等下！阁下莫非是符师？",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,未知女子,2",
+    "link": "",
+    "sound": "bzww_dengxiagexia",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "是又如何？与你何干！",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_shiyouruhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "非常抱歉冒犯了您，我是介潭族圣女风若，最近我族中出现了怪事，想请阁下帮忙鉴别一番，无论事成与否，报酬自然都不会少。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "bzww_1feichang",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "刚才是一场误会，最近族里出了怪事，族中长老也没办法解决，听闻符师的力量体系独特，望上师助我介潭一族。倘若事成介潭宝物任君挑选。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "bzww_gangcaishiyichang",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "我都说了……",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_wodoushuole",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "稍等，我们<color=#0000FF><u><link={18}>商议一下</link></u></color>",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "bzww_shaodengwomen",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "小麟你干嘛，怎么敢相信她啊？谁知道她会不会突然反水",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_xiaolinniganma",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "是有些风险，但是同样也有很大的好处，首先不周山是介潭一族的地盘，倘若我们能够获得他们的帮助，自然大有裨益。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "bzww_shiyouxiefengxian",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "其次听她所言加上这邪恶的气息，我总感觉附近出了什么大事。即使你帮不上忙，无非是回到原点，总比和介潭族交恶要好。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "bzww_1qicitingta",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "这……",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_zhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "好吧，听你的小麟。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_haobatingnide",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "好吧，我们愿意去介潭族看看，但是我们没法提前保证任何事情。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "bzww_1womenyuanyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "谢谢你们！最近一段时间，族人们都像是变了一个人一样，万分痛苦，有的时候不受自己的控制做出一些<color=#0000FF><u><link={19}>后悔的事情</link></u></color>。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "bzww_1xiexieni",
+    "isOptiong": -1
+  },
+  {
+    "id": 40,
+    "words": "那还真是奇怪，还得等我多了解一下，圣女我们赶紧出发吧。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_nahaizhenshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 41,
+    "words": "劳烦诸位先跟我去见我族族长大人，最近狐族突然入侵，请小心跟着我。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "bzww_1laofan",
+    "isOptiong": -1
+  },
+  {
+    "id": 42,
+    "words": "你是说你接下来要去见族长？那他有没有可能知道我们需要的宝物？",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "bzww_1nishishuo",
+    "isOptiong": -1
+  },
+  {
+    "id": 43,
+    "words": "族长大人博学多识，对不周山附近了如指掌。即使他不清楚，也会派遣族人帮助上师寻找。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "bzww_zuzhangdarenbo",
+    "isOptiong": -1
+  },
+  {
+    "id": 44,
+    "words": "小心！（猛地将#主角#和小麟的脑袋一按）那棵树在摇晃！一定有敌人！",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "bzww_xiaoxinnakeshu",
+    "isOptiong": -1
+  },
+  {
+    "id": 45,
+    "words": "只是风啦大姐！多少次了！呸呸呸（突出嘴里的泥土）",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_zhishifengla",
+    "isOptiong": -1
+  },
+  {
+    "id": 46,
+    "words": "这位姑娘你没事吧，虽然小心谨慎是一种美德，但似乎姑娘反应有些<color=#0000FF><u><link={20}>过激</link></u></color>了吧",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "bzww_zheweiguniangni",
+    "isOptiong": -1
+  },
+  {
+    "id": 47,
+    "words": "啧啧，又是一嘴泥，喂鸟人，你数了没数这一路多少次了？",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "luohou,罗睺,1",
+    "link": "",
+    "sound": "bzww_zezeyoushi",
+    "isOptiong": -1
+  },
+  {
+    "id": 48,
+    "words": "我是凤凰！不是鸟人！不过有十多次了吧，几百米就来一下，也多亏了她只有两只手",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "bzww_woshifenghuang",
+    "isOptiong": -1
+  },
+  {
+    "id": 49,
+    "words": "不……不好意思，小心点总没错，不过族里大家也都很反常",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "bzww_bubuhaoyisixiao",
+    "isOptiong": -1
+  },
+  {
+    "id": 50,
+    "words": "贵族情况真是管中窥豹可见一斑啊，这样也不是办法，风若我们一起仔细判断一下吧。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "bzww_guizuqingkuang",
+    "isOptiong": -1
+  },
+  {
+    "id": 51,
+    "words": "战场上，介潭一族的将士们奋力抵抗入侵者。",
+    "bjName": "bj_buzhou_sunny",
+    "spineName": "",
+    "link": "",
+    "sound": "bzww_zhanchangshang",
+    "isOptiong": -1
+  }
+]

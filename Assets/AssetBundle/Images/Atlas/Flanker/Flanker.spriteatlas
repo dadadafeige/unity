@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Flanker
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e8c65a5a3db80a64cbbb40f2699ed407, type: 3}
+    - {fileID: 2800000, guid: 08fcf43486df5fa44a4b24592c813ac4, type: 3}
+    - {fileID: 2800000, guid: d8fd5d929b55da24a9620ad5b647f4c6, type: 3}
+    - {fileID: 2800000, guid: cc34410c8167d9f4483852532086c0b0, type: 3}
+    - {fileID: 2800000, guid: fc7d0b18d6f9b90479ad4815e839e370, type: 3}
+    - {fileID: 2800000, guid: 0c910dd21ce9e904d961ed830de6d30a, type: 3}
+    - {fileID: 2800000, guid: 5167f7b6e2c27c04aae7a953d842d1ba, type: 3}
+    - {fileID: 2800000, guid: c9e1df4a5de3cf34eb69c2445bed91a9, type: 3}
+    - {fileID: 2800000, guid: 66f05c5417763e644b956c6bd7ea3196, type: 3}
+    - {fileID: 2800000, guid: bd62bdd84918ab048a0f2e4b1ebc0245, type: 3}
+    - {fileID: 2800000, guid: c1d18d3d2cdf12745b6b9385174f2586, type: 3}
+    - {fileID: 2800000, guid: 7e34f144afd8a434c820b87298dfb785, type: 3}
+    - {fileID: 2800000, guid: 588b25b68bce5434fa06ee2a5458fcb7, type: 3}
+    - {fileID: 2800000, guid: 836f5e47fc6423646a8902edeb693e32, type: 3}
+    - {fileID: 2800000, guid: 9f6a78d00d58f0c45a005f3cad347c9c, type: 3}
+    - {fileID: 2800000, guid: 662436da95a89a64caed9335bcfa1d43, type: 3}
+    - {fileID: 2800000, guid: b70c702530af18b4487c494a0225acba, type: 3}
+    - {fileID: 2800000, guid: 96d05b6462c40d944af38156af8b5784, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 9f6a78d00d58f0c45a005f3cad347c9c: 21300000
+    - d8fd5d929b55da24a9620ad5b647f4c6: 21300000
+    - 0c910dd21ce9e904d961ed830de6d30a: 21300000
+    - 08fcf43486df5fa44a4b24592c813ac4: 21300000
+    - 7e34f144afd8a434c820b87298dfb785: 21300000
+    - 66f05c5417763e644b956c6bd7ea3196: 21300000
+    - 96d05b6462c40d944af38156af8b5784: 21300000
+    - b70c702530af18b4487c494a0225acba: 21300000
+    - 588b25b68bce5434fa06ee2a5458fcb7: 21300000
+    - 5167f7b6e2c27c04aae7a953d842d1ba: 21300000
+    - 836f5e47fc6423646a8902edeb693e32: 21300000
+    - fc7d0b18d6f9b90479ad4815e839e370: 21300000
+    - bd62bdd84918ab048a0f2e4b1ebc0245: 21300000
+    - c9e1df4a5de3cf34eb69c2445bed91a9: 21300000
+    - e8c65a5a3db80a64cbbb40f2699ed407: 21300000
+    - 662436da95a89a64caed9335bcfa1d43: 21300000
+    - cc34410c8167d9f4483852532086c0b0: 21300000
+    - c1d18d3d2cdf12745b6b9385174f2586: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9f6a78d00d58f0c45a005f3cad347c9c, type: 3}
+  - {fileID: 21300000, guid: d8fd5d929b55da24a9620ad5b647f4c6, type: 3}
+  - {fileID: 21300000, guid: 0c910dd21ce9e904d961ed830de6d30a, type: 3}
+  - {fileID: 21300000, guid: 08fcf43486df5fa44a4b24592c813ac4, type: 3}
+  - {fileID: 21300000, guid: 7e34f144afd8a434c820b87298dfb785, type: 3}
+  - {fileID: 21300000, guid: 66f05c5417763e644b956c6bd7ea3196, type: 3}
+  - {fileID: 21300000, guid: 96d05b6462c40d944af38156af8b5784, type: 3}
+  - {fileID: 21300000, guid: b70c702530af18b4487c494a0225acba, type: 3}
+  - {fileID: 21300000, guid: 588b25b68bce5434fa06ee2a5458fcb7, type: 3}
+  - {fileID: 21300000, guid: 5167f7b6e2c27c04aae7a953d842d1ba, type: 3}
+  - {fileID: 21300000, guid: 836f5e47fc6423646a8902edeb693e32, type: 3}
+  - {fileID: 21300000, guid: fc7d0b18d6f9b90479ad4815e839e370, type: 3}
+  - {fileID: 21300000, guid: bd62bdd84918ab048a0f2e4b1ebc0245, type: 3}
+  - {fileID: 21300000, guid: c9e1df4a5de3cf34eb69c2445bed91a9, type: 3}
+  - {fileID: 21300000, guid: e8c65a5a3db80a64cbbb40f2699ed407, type: 3}
+  - {fileID: 21300000, guid: 662436da95a89a64caed9335bcfa1d43, type: 3}
+  - {fileID: 21300000, guid: cc34410c8167d9f4483852532086c0b0, type: 3}
+  - {fileID: 21300000, guid: c1d18d3d2cdf12745b6b9385174f2586, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - flanker_word3
+  - flanker_image1
+  - flanker_image4
+  - flanker_btn_bg
+  - flanker_sele_btn_bg
+  - flanker_pro_bg
+  - flanker_wrong_bg
+  - flanker_wrong
+  - flanker_word1
+  - flanker_name
+  - flanker_word2
+  - flanker_image3
+  - flanker_right
+  - flanker_pro
+  - flanker_base
+  - flanker_word4
+  - flanker_image2
+  - flanker_right_bg
+  m_RenderDataMap: {}
+  m_Tag: Flanker
+  m_IsVariant: 0

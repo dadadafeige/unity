@@ -1,0 +1,5 @@
+*.log
+/Temp
+/Assets/StreamingAssets
+/.vs
+/Library

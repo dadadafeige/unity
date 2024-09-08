@@ -1,0 +1,93 @@
+﻿[
+  {
+    "id": 10001,
+    "attack": 0,
+    "efense": 0,
+    "blood_target": 0,
+    "cd": 1
+  },
+  {
+    "id": 20001,
+    "attack": 0,
+    "efense": 0,
+    "blood_target": 0,
+    "cd": 1
+  },
+  {
+    "id": 30001,
+    "attack": 50,
+    "efense": 0,
+    "blood_target": 0,
+    "cd": 1
+  },
+  {
+    "id": 40001,
+    "attack": 75,
+    "efense": 0,
+    "blood_target": 0,
+    "cd": 1
+  },
+  {
+    "id": 50001,
+    "attack": 95,
+    "efense": 0,
+    "blood_target": 0,
+    "cd": 1
+  },
+  {
+    "id": 60001,
+    "attack": 115,
+    "efense": 0,
+    "blood_target": 0,
+    "cd": 1
+  },
+  {
+    "id": 70001,
+    "attack": 0,
+    "efense": 30,
+    "blood_target": 0,
+    "cd": 1
+  },
+  {
+    "id": 80001,
+    "attack": 300,
+    "efense": 0,
+    "blood_target": 0,
+    "cd": 1
+  },
+  {
+    "id": 90001,
+    "attack": 135,
+    "efense": 0,
+    "blood_target": 0,
+    "cd": 2
+  },
+  {
+    "id": 100001,
+    "attack": 0,
+    "efense": 0,
+    "blood_target": 50,
+    "cd": 1
+  },
+  {
+    "id": 110001,
+    "attack": 0,
+    "efense": 999,
+    "blood_target": 0,
+    "cd": 1
+  },
+  {
+    "id": 120001,
+    "attack": 150,
+    "efense": 0,
+    "blood_target": 0,
+    "cd": 1
+  },
+  {
+    "id": 130001,
+    "attack": 420,
+    "efense": 0,
+    "blood_target": 0,
+    "cd": 1
+  }
+]

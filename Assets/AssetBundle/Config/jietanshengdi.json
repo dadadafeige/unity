@@ -1,0 +1,371 @@
+﻿[
+  {
+    "id": 1,
+    "words": "远处的黑暗中传来阵阵声响，风若一行人影影约约间看到圣地深处的“树”在向着他们迅速靠近",
+    "bjName": "bj_shengdi_house",
+    "spineName": "",
+    "link": "",
+    "sound": "sd_1yuanchude",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "好像有活物",
+    "bjName": "bj_shengdi_house",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sd_haoxiangyouhuowu",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "小心为上，我们慢慢过去",
+    "bjName": "bj_shengdi_house",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "sd_xiaoxinweishang",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "哇哦，树成精了！等下，我好像感受到了魔气的气息",
+    "bjName": "bj_shengdi_house",
+    "spineName": "luohou,罗睺,1",
+    "link": "",
+    "sound": "sd_1waoshu",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "我真没想到树妖也能这么敏捷",
+    "bjName": "bj_shengdi_house",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "sd_1wozhenmei",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "看起来它们好像在守护些什么。",
+    "bjName": "bj_shengdi_house",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "sd_kanqilaitamen",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "那一定是在守护圣器了！现在怎么办，要不要动手？",
+    "bjName": "bj_shengdi_house",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "sd_nayidingshizai",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "既然是在守护圣器，那应该不会攻击我，我去试试吧",
+    "bjName": "bj_shengdi_house",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "sd_jiranshizaishou",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "树妖猛然攻来",
+    "bjName": "bj_shengdi_house",
+    "spineName": "",
+    "link": "",
+    "sound": "sd_1shuyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "累死我了，总算结束了，我还以为这些怪物真的杀不完呢。",
+    "bjName": "bj_shengdi_house",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sd_leisiwolezongsuan",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "这里似乎不太一样了，前面有一个房子，应该就是目标了吧……",
+    "bjName": "bj_shengdi_house",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "sd_zhelisihubutai",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "我就说没有那么容易吧，前面不知道还会不会有意外……",
+    "bjName": "bj_shengdi_house",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "sd_1wojiushuo",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "放宽心！想起来都是问题，做起来都是答案！我们一路走来已经<color=#0000FF><u><link={25}>战胜了所有困难</link></u></color>对么？",
+    "bjName": "bj_shengdi_house",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sd_fangkuan",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "嗯……嗯！",
+    "bjName": "bj_shengdi_house",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "sd_enen",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "风若，准备好，还是一样，我来补全阵法，你将信物放上去！",
+    "bjName": "bj_shengdi_house",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sd_fengruozhunbeihao",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "罗睺，羽嘉警戒周围，我负责机动，一定要小心！",
+    "bjName": "bj_shengdi_house",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "sd_luohouyujiajingjie",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "打开门，一只强大的树妖首领猛然攻来",
+    "bjName": "bj_shengdi_house",
+    "spineName": "",
+    "link": "",
+    "sound": "sd_1dakaimen",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "小心！这应该就是他们的头领了！",
+    "bjName": "bj_shengdi_house",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sd_xiaoxinzheyinggai",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "解决了，快去看看圣器吧",
+    "bjName": "bj_shengdi_house",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "sd_jiejuelekuaiqu",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "原来我真的可以做到！",
+    "bjName": "bj_shengdi_house",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "sd_1yuanlaiwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "尊敬的圣器之灵大人，请回应我的呼唤",
+    "bjName": "bj_shengdi_house",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "sd_zunjingdeshengqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "……介潭一族的小女娃，所来何事？",
+    "bjName": "bj_shengdi_house",
+    "spineName": "yudie1,圣器之灵,2",
+    "link": "",
+    "sound": "sd_jietanyizudexiao",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "介潭一族危在旦夕，需要借助您的力量度过灭族危机",
+    "bjName": "bj_shengdi_house",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "sd_jietanyizuweizai",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "汝为吾所等之人，但吾在汝身上感受到了灾厄的气息，只有通过我的考验才能够获得我的承认",
+    "bjName": "bj_shengdi_house",
+    "spineName": "yudie1,圣器之灵,2",
+    "link": "",
+    "sound": "sd_ruweiwusuodeng",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "考验？之前可没有遇见过考验！我能通过么……",
+    "bjName": "bj_shengdi_house",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "sd_kaoyanzhiqian",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "汝身上灾厄的气息突然上升了，固守本心！",
+    "bjName": "bj_shengdi_house",
+    "spineName": "yudie1,圣器之灵,2",
+    "link": "",
+    "sound": "sd_rushenshangzaie",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "我明白了，那就来吧",
+    "bjName": "bj_shengdi_house",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "sd_womingbaile",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "圣器之灵化作一团白光融进风若体内。此时，她仿佛看见了什么，明明是自己没有去过的地方和陌生的人，但一切又是那么的熟悉",
+    "bjName": "bj_wuzugongdian",
+    "spineName": "",
+    "link": "",
+    "sound": "sd_1shengqizhiling",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "父亲，请准许孩儿前往绝地历练自己",
+    "bjName": "bj_wuzugongdian",
+    "spineName": "main_qianshi,殿下,1",
+    "link": "",
+    "sound": "sd_fuqinqingzhunxu",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "绝地危险万分，你是我族未来的希望，不应当如此冒险",
+    "bjName": "bj_wuzugongdian",
+    "spineName": "father_qianshi,族长,2",
+    "link": "",
+    "sound": "sd_1juediweixian",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "如若不能不断变强，如何带领我族？孩儿去意已决，请父亲准许！",
+    "bjName": "bj_wuzugongdian",
+    "spineName": "main_qianshi,殿下,1",
+    "link": "",
+    "sound": "sd_ruruobuneng",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "也罢",
+    "bjName": "bj_wuzugongdian",
+    "spineName": "father_qianshi,族长,2",
+    "link": "",
+    "sound": "sd_yeba",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "(抱歉父亲，我只得如此，师父说得对，如果不能不断变强，我必然会被突发因素打败……)",
+    "bjName": "bj_wuzugongdian",
+    "spineName": "main_qianshi,殿下,1",
+    "link": "",
+    "sound": "sd_baoqianfuqin",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "风若！风若！你醒醒！",
+    "bjName": "bj_shengdi_house",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sd_fengruofengruoni",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "我……我昏过去了么？",
+    "bjName": "bj_shengdi_house",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "sd_wowohunguoqu",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "刚才圣器突然飞入你的身体里，然后你就晕过去了！没事吧",
+    "bjName": "bj_shengdi_house",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sd_gangcaishengqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "没事，我好像看到了一个年轻人不断拼命变强的故事……",
+    "bjName": "bj_shengdi_house",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "sd_meishiwohaoxiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "（法宝一震）……什么？还是等结束再说吧。我们赶紧去支援正面战场吧，那边要紧！",
+    "bjName": "bj_shengdi_house",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sd_1shenmehai",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "……等下！圣器指引我们去那边！",
+    "bjName": "bj_shengdi_house",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "sd_dengxiashengqizhiyin",
+    "isOptiong": -1
+  },
+  {
+    "id": 40,
+    "words": "前线战事刻不容缓啊，我们不能耽误，快走吧",
+    "bjName": "bj_shengdi_house",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "sd_qianxianzhanshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 41,
+    "words": "一行人通过圣器之灵的考验，赶回了介潭村。",
+    "bjName": "bj_shengdi_house",
+    "spineName": "",
+    "link": "",
+    "sound": "sd_yixingrentongguo",
+    "isOptiong": -1
+  }
+]

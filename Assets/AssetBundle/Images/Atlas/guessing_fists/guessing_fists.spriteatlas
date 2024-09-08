@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: guessing_fists
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9b549813f3f6a964297e13f90fdc996a, type: 3}
+    - {fileID: 2800000, guid: 78e7d193a9ad65d4b8bc4f1de5d4bbb1, type: 3}
+    - {fileID: 2800000, guid: d80e3e2a9313f524ebb1e1077c2cd0da, type: 3}
+    - {fileID: 2800000, guid: 1e4d32a235e1ce1408c782f5e9f59fbd, type: 3}
+    - {fileID: 2800000, guid: 23c73a917fbc5d04fb34d7de5c718e23, type: 3}
+    - {fileID: 2800000, guid: 06cc96bdcc9d75d40baf8a746a8db25d, type: 3}
+    - {fileID: 2800000, guid: b29e1735d87bf7b4d939f3719f56068b, type: 3}
+    - {fileID: 2800000, guid: d6a9c3bab03a6cc40bebd44486b5a8d1, type: 3}
+    - {fileID: 2800000, guid: 4802df65bf6dcd14f920f0e755289593, type: 3}
+    - {fileID: 2800000, guid: 16eeaca7b3efe1143ba9f46b96f9ddda, type: 3}
+    - {fileID: 2800000, guid: c0b9eb9315bf93140920deaec5ebb5cc, type: 3}
+    - {fileID: 2800000, guid: 425c42c0bbd0d5a4790c961bff48819b, type: 3}
+    - {fileID: 2800000, guid: cbeac2da2f41960448aa2a783f2d5a85, type: 3}
+    - {fileID: 2800000, guid: 381ee4e8708b97e469ce4f2565a197e0, type: 3}
+    - {fileID: 2800000, guid: f00d090968446d54c85fe343c71af6f5, type: 3}
+    - {fileID: 2800000, guid: 0f28d7d48fc19da4e8a9afebb79e6475, type: 3}
+    - {fileID: 2800000, guid: 4dd4e490cc27d05459e72e5737bf2cb3, type: 3}
+    - {fileID: 2800000, guid: 24e72425a76b5714ba63894b76cc2242, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 4dd4e490cc27d05459e72e5737bf2cb3: 21300000
+    - 425c42c0bbd0d5a4790c961bff48819b: 21300000
+    - 23c73a917fbc5d04fb34d7de5c718e23: 21300000
+    - 1e4d32a235e1ce1408c782f5e9f59fbd: 21300000
+    - 9b549813f3f6a964297e13f90fdc996a: 21300000
+    - 78e7d193a9ad65d4b8bc4f1de5d4bbb1: 21300000
+    - c0b9eb9315bf93140920deaec5ebb5cc: 21300000
+    - 0f28d7d48fc19da4e8a9afebb79e6475: 21300000
+    - 24e72425a76b5714ba63894b76cc2242: 21300000
+    - b29e1735d87bf7b4d939f3719f56068b: 21300000
+    - 4802df65bf6dcd14f920f0e755289593: 21300000
+    - 16eeaca7b3efe1143ba9f46b96f9ddda: 21300000
+    - 381ee4e8708b97e469ce4f2565a197e0: 21300000
+    - f00d090968446d54c85fe343c71af6f5: 21300000
+    - d80e3e2a9313f524ebb1e1077c2cd0da: 21300000
+    - d6a9c3bab03a6cc40bebd44486b5a8d1: 21300000
+    - cbeac2da2f41960448aa2a783f2d5a85: 21300000
+    - 06cc96bdcc9d75d40baf8a746a8db25d: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4dd4e490cc27d05459e72e5737bf2cb3, type: 3}
+  - {fileID: 21300000, guid: 425c42c0bbd0d5a4790c961bff48819b, type: 3}
+  - {fileID: 21300000, guid: 23c73a917fbc5d04fb34d7de5c718e23, type: 3}
+  - {fileID: 21300000, guid: 1e4d32a235e1ce1408c782f5e9f59fbd, type: 3}
+  - {fileID: 21300000, guid: 9b549813f3f6a964297e13f90fdc996a, type: 3}
+  - {fileID: 21300000, guid: 78e7d193a9ad65d4b8bc4f1de5d4bbb1, type: 3}
+  - {fileID: 21300000, guid: c0b9eb9315bf93140920deaec5ebb5cc, type: 3}
+  - {fileID: 21300000, guid: 0f28d7d48fc19da4e8a9afebb79e6475, type: 3}
+  - {fileID: 21300000, guid: 24e72425a76b5714ba63894b76cc2242, type: 3}
+  - {fileID: 21300000, guid: b29e1735d87bf7b4d939f3719f56068b, type: 3}
+  - {fileID: 21300000, guid: 4802df65bf6dcd14f920f0e755289593, type: 3}
+  - {fileID: 21300000, guid: 16eeaca7b3efe1143ba9f46b96f9ddda, type: 3}
+  - {fileID: 21300000, guid: 381ee4e8708b97e469ce4f2565a197e0, type: 3}
+  - {fileID: 21300000, guid: f00d090968446d54c85fe343c71af6f5, type: 3}
+  - {fileID: 21300000, guid: d80e3e2a9313f524ebb1e1077c2cd0da, type: 3}
+  - {fileID: 21300000, guid: d6a9c3bab03a6cc40bebd44486b5a8d1, type: 3}
+  - {fileID: 21300000, guid: cbeac2da2f41960448aa2a783f2d5a85, type: 3}
+  - {fileID: 21300000, guid: 06cc96bdcc9d75d40baf8a746a8db25d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - guessing_fists_right
+  - guessing_fists_condition1
+  - guessing_fists_card2
+  - guessing_fists_card1
+  - guessing_fists1
+  - guessing_fists2
+  - guessing_fists_cards
+  - guessing_fists_pro_bg
+  - guessing_fists_select
+  - guessing_fists_card_bg
+  - guessing_fists_cardex2
+  - guessing_fists_cardex3
+  - guessing_fists_error
+  - guessing_fists_pro
+  - guessing_fists3
+  - guessing_fists_cardex1
+  - guessing_fists_condition2
+  - guessing_fists_card3
+  m_RenderDataMap: {}
+  m_Tag: guessing_fists
+  m_IsVariant: 0

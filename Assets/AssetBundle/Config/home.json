@@ -1,0 +1,263 @@
+﻿[
+  {
+    "id": 1,
+    "words": "师父师父，郑叔叔什么时候再来啊，我想听他讲外面的故事了。",
+    "bjName": "bj_home",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "home_shifushifu",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "（笑呵呵）乖徒儿又想听故事了，正好今天徒儿功课和符咒练习的都很不错，作为奖励，为师给你讲巫妖大战的故事吧。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "home_guaitueryouxiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "不要！多少次了！我都能背下来了，而且一听就是假的，郑叔叔讲的可都是<color=#0000FF><u><link={1}>外面真正发生的事</link></u></color>！",
+    "bjName": "bj_home",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "home_buyaoduoshaocile",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "（笑呵呵）假呼哉？假作真时真亦假，无为有处有还无。也罢，既然徒儿你不感兴趣那就出门转转吧。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "home_jiahuzai",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "好哦！去哪里玩呢？要不然先去铁匠铺找王大叔，看看有没有什么好玩的小玩具好了。",
+    "bjName": "bj_home",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "home_haooqunali",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "小小啊，怎么回来了？你不是要去你王大叔那里么？",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "home_xiaoxiaoa",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "师父师父！我回来了，钓到了好多鱼，我们可以烤鱼吃啦！",
+    "bjName": "bj_home",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "home_shifushifuwohuilaile",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "徒儿真棒啊！",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "home_tuerzhenbanga",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "还有这个师父，挂在鱼尾巴上的，也不知道是什么。",
+    "bjName": "bj_home",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "home_haiyouzhegeshifu",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "哦，我的徒儿运气不错啊，这是一个须臾戒，里面可能会有一点宝物，只是上面存在一种封印。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "home_owodetuer",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "宝物！那师父快打开让我看看吧。",
+    "bjName": "bj_home",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "home_baowunashifu",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "不急，徒儿，正好我打算给你讲解封印相关的知识，等到你学会了<color=#0000FF><u><link={5}>自己打开</link></u></color>吧。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "home_bujituer",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "老神医！老神医！",
+    "bjName": "bj_home",
+    "spineName": "butcher,李屠户,2",
+    "link": "",
+    "sound": "home_laoshenyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "李叔？师父出去了，怎么了？",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "home_lishushifuchuqu",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "小小啊，我家的动物不知道怎么了，本来很温顺的动物都开始撕咬其他活物。",
+    "bjName": "bj_home",
+    "spineName": "butcher,李屠户,2",
+    "link": "",
+    "sound": "home_xiaoxiaoawojiade",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "已经咬死好几头动物了，不知道是不是得什么病了，只能来找老神医帮帮忙。",
+    "bjName": "bj_home",
+    "spineName": "butcher,李屠户,2",
+    "link": "",
+    "sound": "home_yijingyaosi",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "那我先跟李叔一起去看看吧。",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "home_nawoxiangen",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "小小我们快走吧，情况紧急啊！",
+    "bjName": "bj_home",
+    "spineName": "butcher,李屠户,2",
+    "link": "",
+    "sound": "home_xiaoxiaowomen",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "师父你恢复的真快啊！",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "home_shifunihuifu",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "那是自然，为师早就说过了，为师只是不能动用力量，不是什么大事，可怜我那笨徒儿，哭的昏天黑地。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "home_nashiziran",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "师父！",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "home_shifu",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "好好好，乖徒儿，估计再过一段时间你郑叔就来了，你可以先跟小李小王他们告个别。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "home_haohaohao",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "之后再见可能就是几年之后啦，他们一直把你也视作自己的孩子。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "home_zhihouzaijian",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "好的师父，看您的身体我也放心了，之后就算去了外面我也会常回来看您的。",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "home_haodeshifukannin",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "走吧，不要被外界的花花世界迷了眼，参悟修行如逆水行舟啊。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "home_zoubabuyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "是，师父。",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "home_shishifu",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "乖徒儿，带上这个法宝，以后会有大用，至于用途，你在路上注入灵力就会明白了",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "home_guaituerdaishang",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "谢谢师父！",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "home_xiexieshifu",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "小小回来啦！",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "home_xiaoxiaohuilaila",
+    "isOptiong": -1
+  }
+]

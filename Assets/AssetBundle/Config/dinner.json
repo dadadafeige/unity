@@ -1,0 +1,353 @@
+﻿[
+  {
+    "id": 1,
+    "words": "#主角#一行人被守卫虾兵蟹将迎入龙宫之中。龙宫宫殿巍峨宏伟，坐落在海底深处，由水晶、珊瑚、宝石和各种色彩斑斓的海洋生物构成。",
+    "bjName": "bj_dinner",
+    "spineName": "",
+    "link": "",
+    "sound": "dinner_beishouwei",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "宫殿的墙壁和柱子都镶嵌着宝石和珍珠，散发出耀眼的光芒。宫殿的顶部有巍峨的塔楼，上面栖息着神仙和神兽，闪耀着璀璨的光芒。",
+    "bjName": "bj_dinner",
+    "spineName": "",
+    "link": "",
+    "sound": "dinner_gongdiande",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "但是宫殿四周却隐约似有一股萧瑟阴霾之气围绕。",
+    "bjName": "bj_dinner",
+    "spineName": "",
+    "link": "",
+    "sound": "dinner_danshigongdian",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "大殿里，东海龙王等待着他们。殿内装饰华丽，布满了龙纹和龙雕，处处洋溢着神秘的氛围。",
+    "bjName": "bj_dinner",
+    "spineName": "",
+    "link": "",
+    "sound": "dinner_dadianlidonghai",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "龙王的座位高高地坐落在殿堂的中央，宝座上镶嵌着宝石，散发出震撼人心的光芒。",
+    "bjName": "bj_dinner",
+    "spineName": "",
+    "link": "",
+    "sound": "dinner_longwangde",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "父王！",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "dinner_fuwang",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "孩儿，你终于回来了！",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_haiernizhongyu",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "大哥怎么样了？",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "dinner_dagezenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "你大哥仍不见好转，唉……一言难尽。倒是你，这么长时间你去了何处？可顺利？",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_nidagereng",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "父王，我此次出行去追寻魔气下落，经历了很多，也结识了很多<color=#0000FF><u><link={27}>好朋友</link></u></color>。",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "dinner_wocicichu",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "这一路上多亏了他们几个的照应，我们一起克服了很多困难，解决了很多问题呢。",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "din_1zheyilu",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "感谢各位少侠关照我儿！既是我儿的好友，那便是我们东海的贵客，各位还没吃饭吧，快上菜！",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_ganxiegewei",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "我们龙宫的宴席有特定的规矩，必须按照一定的顺序来享用美食哦！",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "dinner_womenlonggong",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "原来你们还造访了介潭一族和青丘狐族。",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_yuanlainimen",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "我们这一路发现，魔气已侵染了妖族和巫族的大部分部族，各地巫族与妖族之间的战争也频频爆发，我总感觉这背后一定有什么更大的阴谋。",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "dinner_womenzhiyilu",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "确实很可疑。唉，如今，这东海之内，被魔化的水族越来越多，不止军队，连水族民众也未能幸免……",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_queshihen",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "（咳嗽了几声，看上去身体抱恙）近日，据探子和巡逻兵汇报，我东海边疆也有可疑势力蠢蠢欲动，我担心……",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_jinriju",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "（叹了口气，又咳了几声）我担心……介潭与青丘所发生的这一难，我们东海也难以幸免。",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_wodanxin",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "父王，我们已经经历了介潭和青丘两次大战，也掌握了驱赶魔气的基本方法，更何况，对方若真的入侵我东海，在海里打架，谁能打得过我水族大军！",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "dinner_womenyijing",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "所以啊，您别太担忧了，小心您的身体。我看您刚才咳了几次，魔气影响是否更严重了？",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "dinner_suoyianin",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "没什么，别担心。看来孩儿这次出行收获颇丰，长大了啊！快和父王说说你们是怎么打赢这些胜仗的！",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_meishenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "当然是孩儿……是我们几个都<color=#0000FF><u><link={28}>很厉害</link></u></color>啦！",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "dinner_dangranshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "我们的伙伴们帮忙吸走了魔气，还召唤出了他族圣器，才最终击败强敌，渡过难关。",
+    "bjName": "bj_dinner",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "din_womendehuoban",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "少侠的伙伴还有吸走魔气的能力？甚是厉害，不知宴后可否也帮帮我的长子和老朽，我们也侵染了一些魔气。",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,2",
+    "link": "",
+    "sound": "dinner_shaoxiade",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "当然没问题。",
+    "bjName": "bj_dinner",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "din_dangranmeiwenti",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "多谢了！敌军来犯我东海，不会是为了我们秘宝吧？各族都有本族的圣器秘宝，我们东海也有，对吧父王？",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "dinner_duoxieladijun",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "确实如此，我东海介麟一族世代守护着本族秘宝。",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_queshiruci",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "（又咳了几声）秘宝也保佑着这东海之内万千水族圣灵的世代安宁。但是数万年来，从未有什么人或力量可以将其拼合起来以驱动它的力量。",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_mibaoyebaoyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "所以称之为我们东海的秘宝啊！",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "dinner_suoyichengzhiwei",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "如今，我长子被魔气侵袭，我先将秘宝传于麟儿，你暂且代为父好好保管吧。",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_rujinwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "龙王将七颗龙珠交予小麟。",
+    "bjName": "bj_dinner",
+    "spineName": "",
+    "link": "",
+    "sound": "dinner_longwangjiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "少侠，请在我东海的宝库中挑选几件宝物吧，老朽愿赠予少侠，作为你一路对我儿帮助与照顾的答谢。",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_shaoxiaqing",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "多谢龙王！",
+    "bjName": "bj_dinner",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "din_duoxielongwang",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "现如今，魔气蔓延有愈演愈烈之势，犹如洪水猛兽；背后的阴谋如同这苍茫东海，深不可测啊……",
+    "bjName": "bj_dinner",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "din_xianrujinmoqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "如果是如同我东海，那也不是完全深不可测！这大东海，谁能比我熟！我倒要看看这背后到底有什么“天大的阴谋”！",
+    "bjName": "bj_dinner",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "dinner_ruguoshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "看着小麟这胸有成竹的样子，#主角#心里也踏实了不少。",
+    "bjName": "bj_dinner",
+    "spineName": "",
+    "link": "",
+    "sound": "dinner_kanzhexiaolin",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "突然，殿外响起一阵尖利紧促的螺号声。",
+    "bjName": "bj_dinner",
+    "spineName": "",
+    "link": "",
+    "sound": "dinner_turandianwai",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "有外敌入侵！该来的还是来了……",
+    "bjName": "bj_dinner",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "dinner_youwaidi",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "#主角#一行人也心头一紧。所有人出殿准备迎战。",
+    "bjName": "bj_dinner",
+    "spineName": "",
+    "link": "",
+    "sound": "dinner_yixingrenyexin",
+    "isOptiong": -1
+  }
+]

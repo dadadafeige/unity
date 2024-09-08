@@ -1,0 +1,605 @@
+﻿[
+  {
+    "id": 1,
+    "words": "好了，我们先在这里暂且歇歇，父亲好像正在会客，等他结束了我们立刻就去找他",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "czf_haolewomen",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "好的，多谢白浅姑娘",
+    "bjName": "bj_chengzhufu",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czf_haodeduoxie",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "别挣扎了，白昊，你还是乖乖顺应民意，退位让贤吧",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baisong,白松大长老,1",
+    "link": "",
+    "sound": "czf_biezhengzhale",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "民意？谁的民意？是狐族的民意还是天庭的民意？若你白松上台，我狐族直接改名为狗族算了，毕竟只是天庭的一条忠犬罢了",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "czf_minyisheideminyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "是大长老和父亲！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "czf_shidazhanglao",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "放弃吧白昊，外面全是我的人，念在我们兄弟一场，将白浅嫁给太子夜华，安心做个富家翁岂不美哉？",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baisong,白松大长老,2",
+    "link": "",
+    "sound": "czf_fangqibabaihao",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "看来你是忘记当年我是怎么将你按在泥里赢下首领之位的了，多说无益，踏着我的尸体上位吧",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_kanlainishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "父亲，我来助你！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "czf_fuqinwolaizhu",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "你来作甚，快走！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "czf_nilaizuoshen",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "加上我这几位朋友，我们未尝没有一战之力！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baiqian,白浅,1",
+    "link": "",
+    "sound": "czf_jiashangwozhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "束手就擒吧我的好大哥，你不是我的对手！身为大长老，你的所有手段我都一清二楚，你没有希望的！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baisong,白松大长老,1",
+    "link": "",
+    "sound": "czf_shushoujiuqin",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "白松，看好了，你大哥永远是你大哥！五行禁术！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "czf_baisongkanhaole",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "什么！少虚张声势！休想带走白浅！尝尝老夫秘宝的威力！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baisong,白松大长老,1",
+    "link": "",
+    "sound": "czf_shenmeshaoxu",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "（黑光一闪，没入白浅体内）",
+    "bjName": "bj_chengzhufu",
+    "spineName": "",
+    "link": "",
+    "sound": "czf_heiguangyishan",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "听话……我都听……",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "czf_tinghuawo",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "一番打斗后，白昊在打斗中受了伤，#主角#一行人勉强逃出了城主府",
+    "bjName": "bj_qiuling",
+    "spineName": "",
+    "link": "",
+    "sound": "czf_1yifandadou",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "爹！你怎么样！我能做点什么！我听到你用了禁术。",
+    "bjName": "bj_qiuling",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "czf_1dienizenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "五行禁术就是用特殊的手段将五行之力充满经脉，爆发出超强的力量，之后五行之力大量残存在经脉当中，阻塞使用者运功从而导致功力尽失",
+    "bjName": "bj_qiuling",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_wuxingjinshu",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "那接下来怎么办，看来只有听大伯的话才是正道，我的全部价值就是嫁给夜华为妾",
+    "bjName": "bj_qiuling",
+    "spineName": "baiqian,白浅,2",
+    "link": "",
+    "sound": "czf_najiexialai",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "小浅不用如此悲观，你们顺着这个方向出城，广阔天地大有可为，为父会回去将所有的罪责全部担下，一切都会过去的",
+    "bjName": "bj_qiuling",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_xiaoqianbuyong",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "等下，老爷子，你说五行之力？假如能把五行之力祛除了，你是不是就能康复了？",
+    "bjName": "bj_qiuling",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "czf_dengxialaoyezi",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "之前风若拿到圣器的时候我就有一丝感觉，似乎通过那件圣器我们可以调动一丝五行的能力",
+    "bjName": "bj_qiuling",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "czf_zhiqianfengruo",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "现在把风若叫来就明白了",
+    "bjName": "bj_qiuling",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "czf_1xianzai",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "（过了一阵）",
+    "bjName": "bj_qiuling",
+    "spineName": "",
+    "link": "",
+    "sound": "czf_guoleyizhan",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "什么？救狐族？不可能！你知道我有多少族人死在了狐族手里么！",
+    "bjName": "bj_qiuling",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "czf_shenmejiuhuzu",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "狐族？小友这是怎么回事？",
+    "bjName": "bj_qiuling",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "czf_huzuxiaoyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "你狐族使用一种邪术偷袭我介潭一族，如果我不讨个说法怎能告慰我族将士的在天之灵？更何况我族族长还在你们手里！",
+    "bjName": "bj_qiuling",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "czf_nihuzushiyong",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "邪术？",
+    "bjName": "bj_qiuling",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "czf_xieshu",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "就是一种大阵，能够影响人的心智，让人失去战意",
+    "bjName": "bj_qiuling",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "czf_jiushiyizhongdazhen",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "我族确实没有这类功法，但是这样的手段听上去像是天庭的手段，一定是大长老他勾结天庭造下的恶果！",
+    "bjName": "bj_qiuling",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "czf_wozuqueshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "你们先别吵了，我们还是先试试刚才说的方法吧。放空心神，跟随我的指引",
+    "bjName": "bj_qiuling",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "czf_1nimenxian",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "真的有用！？多谢小友们，能够结识你们真是小浅的福气，也是我狐族的福气，放心，我一定会竭尽全力帮助你们的",
+    "bjName": "bj_qiuling",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_zhendeyouyong",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "我们也只是吸收掉了您体内的五行之力，其余的内伤我们并没有办法",
+    "bjName": "bj_qiuling",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czf_womenyezhishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "哈哈哈，还不是我笑到了最后！虽然不知道好大哥你是怎么做到的，但是那种功法副作用一定极强，哈哈哈！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baisong,白松大长老,1",
+    "link": "",
+    "sound": "czf_hahahahai",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "可能让你失望了。废话少言！逆贼看招！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_feihuashaoyan",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "怎么可能！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baisong,白松大长老,2",
+    "link": "",
+    "sound": "czf_zenmekeneng (1)",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "说！你把我的父亲藏到哪里了！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "czf_shuonibawo",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "什么父亲？",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baisong,白松大长老,1",
+    "link": "",
+    "sound": "czf_shenmefuqin",
+    "isOptiong": -1
+  },
+  {
+    "id": 40,
+    "words": "前段时间是不是你勾结天庭偷袭介潭一族，还将介潭族长掳了回来？",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_qianduanshijian",
+    "isOptiong": -1
+  },
+  {
+    "id": 41,
+    "words": "都是天庭那帮人干的啊，逼迫我对介潭一族下手，我想要拼死反抗但是却顾忌我狐族一脉的命运，只好忍下，这不怪我！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baisong,白松大长老,2",
+    "link": "",
+    "sound": "czf_doushitianting",
+    "isOptiong": -1
+  },
+  {
+    "id": 42,
+    "words": "少废话，快带我去见父亲！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "czf_shaofeihuakuai",
+    "isOptiong": -1
+  },
+  {
+    "id": 43,
+    "words": "就在密室。",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baisong,白松大长老,2",
+    "link": "",
+    "sound": "czf_jiuzaimishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 44,
+    "words": "风若，你父亲被魔气侵染，我可以吸收魔气，我去帮帮忙。",
+    "bjName": "bj_chengzhufu",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "czf_dengxiafengruo",
+    "isOptiong": -1
+  },
+  {
+    "id": 45,
+    "words": "罗睺，你果真可以做到？太好了！我从族中出发就是为了寻找解决魔气的方法，家兄被魔气侵染，情况不妙",
+    "bjName": "bj_chengzhufu",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "czf_1niguozhen",
+    "isOptiong": -1
+  },
+  {
+    "id": 46,
+    "words": "这样，那我们忙完这里立刻就去帮忙。",
+    "bjName": "bj_chengzhufu",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czf_zheyangnawomen",
+    "isOptiong": -1
+  },
+  {
+    "id": 47,
+    "words": "好，多谢！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "czf_haoduoxie",
+    "isOptiong": -1
+  },
+  {
+    "id": 48,
+    "words": "首先谢过几位少侠仗义出手，没有几位少侠则我狐族亡矣",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_shouxianxieguo",
+    "isOptiong": -1
+  },
+  {
+    "id": 49,
+    "words": "族长哪里话",
+    "bjName": "bj_chengzhufu",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "czf_zuzhangnalihua",
+    "isOptiong": -1
+  },
+  {
+    "id": 50,
+    "words": "然后想要正式给介潭一族赔罪，本人一时不察，被小人蒙蔽，酿成恶果，幸而有几位少侠在此",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_ranhouxiangyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 51,
+    "words": "小女白浅经历前些天战斗后一直不对，仿佛得了心病，族内医生均无办法，想到介潭一族之前也遇到了类似的情况，特来请小友帮忙",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_xiaonvbaiqian",
+    "isOptiong": -1
+  },
+  {
+    "id": 52,
+    "words": "心病？具体是什么情况呢？",
+    "bjName": "bj_chengzhufu",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "czf_xinbingjuti",
+    "isOptiong": -1
+  },
+  {
+    "id": 53,
+    "words": "主要就是对他人的要求言听计从，坚信如果不这样就会发生灾难，怎么会这样，就跟突然疯了一样",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_zhuyaojiushi",
+    "isOptiong": -1
+  },
+  {
+    "id": 54,
+    "words": "听起来好像是被人控制了一样啊。怪不得这几天找白浅叙旧都找不到她",
+    "bjName": "bj_chengzhufu",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "czf_tingqilaihaoxiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 55,
+    "words": "好像跟我当初是一样的，只不过我是觉得周围环境都不安全，白浅是觉得不听别人的就会坏事。会不会和天庭有关？",
+    "bjName": "bj_chengzhufu",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "czf_1haoxiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 56,
+    "words": "这位少侠说的有理，应该是天庭的诡计，来人！将罪人白松提上来！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "czf_dengxiazhewei",
+    "isOptiong": -1
+  },
+  {
+    "id": 57,
+    "words": "罪人！你对白浅做了什么！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "czf_zuirennidui",
+    "isOptiong": -1
+  },
+  {
+    "id": 58,
+    "words": "白浅？莫非……哈哈哈天不亡我！我用来自天庭的秘宝打中了白浅，当日我还怀疑秘宝没用，没想到早已生效，哈哈哈！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baisong,白松大长老,1",
+    "link": "",
+    "sound": "czf_baiqianmofei",
+    "isOptiong": -1
+  },
+  {
+    "id": 59,
+    "words": "（白昊狠狠地打了白松一拳）",
+    "bjName": "bj_chengzhufu",
+    "spineName": "",
+    "link": "",
+    "sound": "czf_baihaohenhende",
+    "isOptiong": -1
+  },
+  {
+    "id": 60,
+    "words": "如今各位少侠可有办法？",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "czf_rujingewei",
+    "isOptiong": -1
+  },
+  {
+    "id": 61,
+    "words": "我们上次也只是破坏了阵法，可现如今白浅的情况也不是阵法导致的，我也没什么好办法。",
+    "bjName": "bj_chengzhufu",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czf_womenshangci",
+    "isOptiong": -1
+  },
+  {
+    "id": 62,
+    "words": "既然如此，只能赌一把了。为今之计只有让小女尝试获得族中传承了。",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,2",
+    "link": "",
+    "sound": "czf_1jiranru",
+    "isOptiong": -1
+  },
+  {
+    "id": 63,
+    "words": "只是族内代代相传，得到传承承认者，心性自然，纵横于天下。历代族内有强者感到时日无多都会去尝试一番，只是……",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_zhishizunei",
+    "isOptiong": -1
+  },
+  {
+    "id": 64,
+    "words": "只是？只是什么！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "czf_zhishizhishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 65,
+    "words": "只是无一人成功……这也是没办法的办法，小浅现在的状态太过危险，对他人言听计从，若是遇到歹人，那可是生不如死！",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_1zhishiwu",
+    "isOptiong": -1
+  },
+  {
+    "id": 66,
+    "words": "好吧，我也不忍看她这样，我能陪她一同进入么？",
+    "bjName": "bj_chengzhufu",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "czf_haobawoye",
+    "isOptiong": -1
+  },
+  {
+    "id": 67,
+    "words": "当然可以，我也正有此意，多谢贤侄了。其他几位少侠如有意愿亦可前去，根据以往经验，传承之地并不会限制退出，如有危险及时退出即可",
+    "bjName": "bj_chengzhufu",
+    "spineName": "baihao,白昊,1",
+    "link": "",
+    "sound": "czf_dangrankeyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 68,
+    "words": "大家齐心协力打败了白松。",
+    "bjName": "bj_chengzhufu",
+    "spineName": "",
+    "link": "",
+    "sound": "czf_dajiaqixinxieli",
+    "isOptiong": -1
+  }
+]

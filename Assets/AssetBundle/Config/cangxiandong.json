@@ -1,0 +1,110 @@
+﻿[
+  {
+    "id": 1,
+    "words": "感谢夸父大巫的帮助，我们一行人感激不尽！",
+    "bjName": "bj_cangxiandong",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "cxd_ganxiekuafu",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "小友别客气，这场大战我族损失惨重，我是反战的，说出来你可能不信，我希望世界和平！",
+    "bjName": "bj_cangxiandong",
+    "spineName": "kuafu,夸父,1",
+    "link": "",
+    "sound": "cxd_xiaoyoubiekeqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "那现在怎么办？小麟现在气若游丝，随时有神魂消散的风险。",
+    "bjName": "bj_cangxiandong",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "cxd_naxianzaizenmeban",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "大家不要慌，东皇十子与我曾有一面之缘，这几只大金乌平时并非如此，只不过各为其主，否则他们定不愿为祸苍生，若我能追上他们，与他们交涉一下，或许可以免此灾祸。",
+    "bjName": "bj_cangxiandong",
+    "spineName": "kuafu,夸父,1",
+    "link": "",
+    "sound": "cxd_dajiabuyaohuang (1)",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "况且这孩子本身就是妖族的，对方一定会帮忙的！",
+    "bjName": "bj_cangxiandong",
+    "spineName": "kuafu,夸父,1",
+    "link": "",
+    "sound": "cxd_kuangqiezhehaizi",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "这太危险了吧",
+    "bjName": "bj_cangxiandong",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "cxd_zhetaiwei",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "这也是没有办法的办法，大家在这里等我回来。如果我一个时辰后还没有音信，记得去找大羿。",
+    "bjName": "bj_cangxiandong",
+    "spineName": "kuafu,夸父,1",
+    "link": "",
+    "sound": "cxd_zheyeshimeiyou",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "不能再等了，小麟现在太虚弱了。",
+    "bjName": "bj_cangxiandong",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "cxd_bunengzaideng",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "是啊，可是大羿怎么找，他只说找大羿，却没说他在哪。。我们一点线索都没有。",
+    "bjName": "bj_cangxiandong",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "cxd_shiakeshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "你就别抱怨了，试一试碎片的力量，或许可以感应到他……但这事还得你去，谁让你是主角。",
+    "bjName": "bj_cangxiandong",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "cxd_nijiubiebao",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "我从来没请别人帮忙过。这事我<color=#0000FF><u><link={36}>不擅长</link></u></color>。如果他觉得我不配呢？如果拒绝我了呢？如果认为我是敌军细作呢？我不行啊……",
+    "bjName": "bj_cangxiandong",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "cxd_woconglaimei",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "先别犹豫了，看！前面好像是大羿的住所！我们还是先去那里找找吧，看看他在不在。",
+    "bjName": "bj_cangxiandong",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "cxd_xianbieyouyu",
+    "isOptiong": -1
+  }
+]

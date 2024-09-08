@@ -1,0 +1,290 @@
+﻿[
+  {
+    "id": 1,
+    "words": "再次来到了城主的宫殿之中，城主倚靠在座位之上，似乎比上一次见面时显得更疲惫和苍老了一些，表情也与上次有所不同。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "czdd_zcld",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "城……城主。",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czdd_ccz",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "你……听说你顺利闯过了塔顶九层，驱除了魔气，你……",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "czdd_ntsn",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "您想问什么？",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czdd_nxwsm",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "此玉璋塔乃我城镇灵之塔，只有城主一族的血脉，才能登上九层供奉先祖之所。莫非你……你是……我的孩儿？",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "czdd_cyzt",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "城主颤抖着问出这句话，一只手颤颤巍巍地抬起，伸向#主角#。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "czdd_czcdou",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "我……我是，我就是您的孩子！",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czdd_wsndhz",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "#主角#再次流下泪来，城主此时也眼睛湿润，想要起身却无力地跌坐回座位。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "czdd_nzcll",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "您的身体？是魔气！",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czdd_ndst",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "#主角#连忙上前几步迈上台阶，来到城主身边，握住他的手。罗睺帮助城主驱散了体内魔气。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "czdd_nlms",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "原来近期这城中的一系列祸端是魔气侵袭所致。幸亏你回来了，驱散了那塔中的魔气，再次救了适逢城。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "czdd_yuanljq",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "城主紧紧握住#主角#的手，虽然很虚弱无力，但仍能感受到他已用尽全力。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "czdd_czjj",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "孩子，你从来不是什么灾星，你是这座城的救星，你是我最引以为傲的孩子。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "czdd_haizni",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "父亲……",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czdd_fuq",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "一直憋在嘴边的这个词终于随着所有情绪喷涌了出来。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "czdd_yizhibie",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "当年将你送走，为父心里真的很难受……",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "czdd_dangnian",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "我明白。在这次闯塔的过程中，我得知了一些以前一直都不知道的事情——关于您当年为何会送我离开的真相。",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czdd_wombai",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "城主听罢神情变得凝重悲切，沉默良久才开口。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "czdd_cztba",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "来，孩子，多年未见，快随我来见见你的母亲和兄弟姐妹们。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "czdd_laihaizi",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "城主唤来家人们，与#主角#相见。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "czdd_czhuanlai",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "我早已恶疾缠身多年，再加上这次的魔气入体，怕是时日无多了。孩子，你可愿留下来，继承这城主之位，你会成为一个出色的城主。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "czdd_wozaoyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "父亲，这段时间我一路走来，经历了很多，也让我对自己有了更深的认识，成为神符师才是我的梦想，也希望父亲可以尊重我的想法。",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czdd_fuqz",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "城主神情变得缓和，刚刚脸上的凝重转变为一种和蔼和释然。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "czdd_czsq",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "好吧，既然你有了自己的梦想，打定了主意，那就为之去努力吧，我也不勉强你。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "czdd_haobajr",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "谢谢。这是我们击败塔灵驱除魔气后得到的碎片，是从我们一起制作的那盏青莲灯笼中得到的。",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czdd_xiexie",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "这碎片是属于你的。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "czdd_zhesuipian",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "现在你可以把它们拼在一起了。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "czdd_xiznznk",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "#主角#掏出其他几枚碎片，将其拼合成一个整体，表面微微闪光，得到完整的金龟玉碟。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "czdd_taochu",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "我们也该重新出发了。",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czdd_womyg",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "照顾好自己，这里的城门永远向你敞开，孩子，常回来看看。",
+    "bjName": "bj_hall",
+    "spineName": "castellan,城主,2",
+    "link": "",
+    "sound": "czdd_zghzji",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "父亲您也保重！",
+    "bjName": "bj_hall",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "czdd_fuqnye",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "告别了城主，一行人继续踏上征路。",
+    "bjName": "bj_hall",
+    "spineName": "",
+    "link": "",
+    "sound": "czdd_gaobcz",
+    "isOptiong": -1
+  }
+]

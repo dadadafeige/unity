@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: FuWenMing_Data
+  m_EditorClassIdentifier: 
+  dataName: FuWenMing
+  dragonBonesJSON: {fileID: 4900000, guid: 415add0acfac7cc4e96e4d0128d58146, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 3a9ad60a172052c4cb75a8bd753362bd, type: 3}
+    texture: {fileID: 2800000, guid: 6e6142faec39fd04686bf11f8b123bc1, type: 3}
+    material: {fileID: 2100000, guid: db1a751b76a82284bbcf808a646c3048, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 04c05bca7d07c134a907b4272dac0d07, type: 2}

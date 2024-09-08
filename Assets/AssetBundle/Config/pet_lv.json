@@ -1,0 +1,122 @@
+﻿[
+  {
+    "id": 10001,
+    "fight": 80,
+    "defense": 8,
+    "attack": 8,
+    "magic_resistance": 40.0,
+    "hp": 0,
+    "bones": "cattle_bones",
+    "exp": 0,
+    "faqiang": 40,
+    "": ""
+  },
+  {
+    "id": 10002,
+    "fight": 90,
+    "defense": 9,
+    "attack": 9,
+    "magic_resistance": 42.0,
+    "hp": 0,
+    "bones": "",
+    "exp": 100,
+    "faqiang": 42,
+    "": ""
+  },
+  {
+    "id": 10003,
+    "fight": 100,
+    "defense": 10,
+    "attack": 10,
+    "magic_resistance": 44.0,
+    "hp": 0,
+    "bones": "",
+    "exp": 250,
+    "faqiang": 44,
+    "": ""
+  },
+  {
+    "id": 10004,
+    "fight": 110,
+    "defense": 11,
+    "attack": 11,
+    "magic_resistance": 46.0,
+    "hp": 0,
+    "bones": "",
+    "exp": 500,
+    "faqiang": 46,
+    "": ""
+  },
+  {
+    "id": 10005,
+    "fight": 120,
+    "defense": 12,
+    "attack": 12,
+    "magic_resistance": 48.0,
+    "hp": 0,
+    "bones": "",
+    "exp": 900,
+    "faqiang": 48,
+    "": ""
+  },
+  {
+    "id": 20001,
+    "fight": 90,
+    "defense": 9,
+    "attack": 9,
+    "magic_resistance": 45.0,
+    "hp": 0,
+    "bones": "",
+    "exp": 0,
+    "faqiang": 45,
+    "": ""
+  },
+  {
+    "id": 20002,
+    "fight": 100,
+    "defense": 10,
+    "attack": 10,
+    "magic_resistance": 47.0,
+    "hp": 0,
+    "bones": "",
+    "exp": 100,
+    "faqiang": 47,
+    "": ""
+  },
+  {
+    "id": 20003,
+    "fight": 110,
+    "defense": 11,
+    "attack": 11,
+    "magic_resistance": 49.0,
+    "hp": 0,
+    "bones": "",
+    "exp": 250,
+    "faqiang": 49,
+    "": ""
+  },
+  {
+    "id": 20004,
+    "fight": 120,
+    "defense": 12,
+    "attack": 12,
+    "magic_resistance": 51.0,
+    "hp": 0,
+    "bones": "",
+    "exp": 500,
+    "faqiang": 51,
+    "": ""
+  },
+  {
+    "id": 20005,
+    "fight": 130,
+    "defense": 13,
+    "attack": 13,
+    "magic_resistance": 53.0,
+    "hp": 0,
+    "bones": "",
+    "exp": 900,
+    "faqiang": 53,
+    "": ""
+  }
+]

@@ -1,0 +1,192 @@
+﻿[
+  {
+    "id": 1,
+    "words": "李叔李叔！你这里有没有鱼饵啊？",
+    "bjName": "bj_ranch",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "ranch_lishulishunizheli",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 2,
+    "words": "原来是小小啊，我一听就知道是你这个冒失鬼，鱼饵……要想要鱼饵的话可以去外面的地里挖哦，我可以教你怎么找蚯蚓。",
+    "bjName": "bj_ranch",
+    "spineName": "butcher,李屠户,2",
+    "link": "",
+    "sound": "ranch_yuanlaishixiaoxiaoa",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 3,
+    "words": "蚯蚓？就那种长长的，躲在泥地里的虫子么？它就能当鱼饵？",
+    "bjName": "bj_ranch",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "ranch_qiuyinjiunazhong",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 4,
+    "words": "对啊，就在泥地里，只要注意观察就能找到哦！",
+    "bjName": "bj_ranch",
+    "spineName": "butcher,李屠户,2",
+    "link": "",
+    "sound": "ranch_duia",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 5,
+    "words": "这样啊，谢谢你李叔，我先去试试看！",
+    "bjName": "bj_ranch",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "ranch_zheyangaxiexieni",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 6,
+    "words": "去试试吧，不行就回来找我。",
+    "bjName": "bj_ranch",
+    "spineName": "butcher,李屠户,2",
+    "link": "",
+    "sound": "ranch_qushishi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 7,
+    "words": "怎么啦小小，没找到么？等我手上活忙完就来帮你。",
+    "bjName": "bj_ranch",
+    "spineName": "butcher,李屠户,2",
+    "link": "",
+    "sound": "ranch_zenmela",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 8,
+    "words": "这样应该够了，快去河边吧！",
+    "bjName": "bj_wetland",
+    "spineName": "main_young,主角,1",
+    "link": "",
+    "sound": "ranch_zheyang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 9,
+    "words": "老李！老李，你可算来了，快跑吧，动物都发狂了，而且变得力气好大，咱家的牛已经快把整个院子都拆了！",
+    "bjName": "bj_ranch",
+    "spineName": "aunt_wang,王大娘,1",
+    "link": "",
+    "sound": "ranch_laolilaoli",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 10,
+    "words": "怎么会！我走的时候明明……你和孩子都没事吧！",
+    "bjName": "bj_ranch",
+    "spineName": "butcher,李屠户,2",
+    "link": "",
+    "sound": "ranch_zenmehui",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 11,
+    "words": "我们跑得快，但是动物们都发疯了。",
+    "bjName": "bj_ranch",
+    "spineName": "aunt_wang,王大娘,1",
+    "link": "",
+    "sound": "ranch_womenpaodekuai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 12,
+    "words": "小小，我们还是先回去找老神医吧！",
+    "bjName": "bj_ranch",
+    "spineName": "butcher,李屠户,2",
+    "link": "",
+    "sound": "ranch_xiaoxiaowomenhaishi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 13,
+    "words": "李叔你们先躲一躲，<color=#0000FF><u><link={6}>我去看看</link></u></color>，师父应该能感受到这股不详的气息，很快就会来的。",
+    "bjName": "bj_ranch",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "ranch_lishunimen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 14,
+    "words": "小小，要不然……好……好吧，你要小心！我们一直都把你看作我们大家的后辈的……",
+    "bjName": "bj_ranch",
+    "spineName": "butcher,李屠户,2",
+    "link": "",
+    "sound": "ranch_xiaoxiaoyaoburan",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 15,
+    "words": "放心吧李叔！",
+    "bjName": "bj_ranch",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "ranch_fangxinbalishu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 16,
+    "words": "小小，还是跟我们一起去避一避吧。",
+    "bjName": "bj_ranch",
+    "spineName": "aunt_wang,王大娘,1",
+    "link": "",
+    "sound": "ranch_xiaoxiaohaishigen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 17,
+    "words": "没事的王姨，我跑得很快的！",
+    "bjName": "bj_ranch",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "ranch_meishidewangyi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 18,
+    "words": "这些动物突然变得好厉害，没办法了，为了保护大家只能先解决掉它们了",
+    "bjName": "bj_ranch",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "ranch_zhexiedongwu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 19,
+    "words": "解决了，好像周围有一种让生物发狂的气息，静心感受一下它的来源吧",
+    "bjName": "bj_ranch",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "ranch_jiejuele",
+    "isOptiong": -1,
+    "": ""
+  }
+]

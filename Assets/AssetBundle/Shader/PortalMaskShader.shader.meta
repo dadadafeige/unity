@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c555c41c299d981439ef1e1d387d81b8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: assetbundle/shader/portalmaskshader.assetbundle
+  assetBundleVariant: 

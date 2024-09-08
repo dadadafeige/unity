@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: KaiShi_Data
+  m_EditorClassIdentifier: 
+  dataName: KaiShi
+  dragonBonesJSON: {fileID: 4900000, guid: 74c17b148ab45d443a55d6050d5efc77, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: a47c76bbd1475f241be65532dbab4127, type: 3}
+    texture: {fileID: 2800000, guid: 33fbc5b4615cc424b968a9cfc737281d, type: 3}
+    material: {fileID: 0}
+    uiMaterial: {fileID: 2100000, guid: d6e2dc8f94756dd49b2ef8ad9bd6e4ed, type: 2}

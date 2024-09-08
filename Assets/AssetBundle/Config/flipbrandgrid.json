@@ -1,0 +1,50 @@
+﻿[
+  {
+    "id": 1,
+    "icon": "MuGe",
+    "reward": "",
+    "type": 1
+  },
+  {
+    "id": 2,
+    "icon": "CaoYao",
+    "reward": "",
+    "type": 2
+  },
+  {
+    "id": 3,
+    "icon": "DuShe",
+    "reward": "",
+    "type": 3
+  },
+  {
+    "id": 4,
+    "icon": "QiuYin",
+    "reward": "",
+    "type": 4
+  },
+  {
+    "id": 5,
+    "icon": "BaoXiang",
+    "reward": "",
+    "type": 5
+  },
+  {
+    "id": 6,
+    "icon": "ChongCao",
+    "reward": "",
+    "type": 4
+  },
+  {
+    "id": 7,
+    "icon": "XianShiDaoJu",
+    "reward": "",
+    "type": 2
+  },
+  {
+    "id": 8,
+    "icon": "DuFeng",
+    "reward": "",
+    "type": 3
+  }
+]

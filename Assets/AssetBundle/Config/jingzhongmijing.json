@@ -1,0 +1,596 @@
+﻿[
+  {
+    "id": 1,
+    "words": "三个人被吸进镜中。睁开眼睛时，周围是成千上万面镜子，每面镜子中都反射出大家的身影，不同大小，不同角度。",
+    "bjName": "bj_mirrorland",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_sgrb",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "这是……幻境之中？我们是被吸进来的！这鬼东西到底是什么？",
+    "bjName": "bj_mirrorland",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "jzmj_zshjz",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "羽嘉有些害怕，罗睺则<color=#0000FF><u><link={48}>怒气上头</link></u></color>。",
+    "bjName": "bj_mirrorland",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_yjyxhp",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "就这，还能困住老子，看老子把这些破镜子打个稀碎！",
+    "bjName": "bj_mirrorland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "jzmj_jiuzhehn",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "罗睺开始施法，但法力均被一面面镜子反弹回来，三人又纷纷施法去遮挡反弹的法术。",
+    "bjName": "bj_mirrorland",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_lhkssf",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "看来这不是办法呀，这样出不去的。",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_klzbs",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "这些镜子，这其中一定有什么玄机……啊！镜中的并不是现在的我，而是从小到大各个不同时期的我！",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_zxjz",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "有在青丘和东海与伙伴们并肩战斗的自己，有在凌霄城闲逛的自己，有在小山村与师父练画符和说笑的自己，还有……很小的时候在宫城中的自己！",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_yzqq",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "这是小时候的你！……你小时候怎么在宫城里！你身边的那个人是……城主？！",
+    "bjName": "bj_mirrorland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "jzmj_zsxsh",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "#主角#一一对照着镜子中长大后的那些场景，确实都是真实发生过的事情，一段陌生又熟悉的记忆一下子涌入了脑海中。",
+    "bjName": "bj_mirrorland",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_nyydz",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "这些果然都是真实发生过的，这些都是……真的！",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_zxgrd",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "难道，城主就是你的父亲？",
+    "bjName": "bj_mirrorland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "jzmj_ndcz",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "其实我早就猜到了……是的，城主……就是我的父亲。",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角内心,1",
+    "link": "",
+    "sound": "jzmj_qswz",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "罗睺和羽嘉一个个看着镜中这些主角小时候的各种片段。开心的、难过的、轻松的、灰暗的片段都有，看上去是个<color=#0000FF><u><link={49}>平凡又多彩</link></u></color>的童年。",
+    "bjName": "bj_mirrorland",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_luohouheyu",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "这些记忆，你都还记得么？",
+    "bjName": "bj_mirrorland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "jzmj_zxjy",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "有些记得，有些不记得了。",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_yxjide",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "我<color=#0000FF><u><link={50}>不想去回想</link></u></color>那些记忆，并不是因为那些记忆都是灰暗的痛苦的，而是，自从那一天，自己被从城中送走，一切都变了。",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_wobuxhx",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "以前爱着我的人将我送去远方，以前属于我的一切都离我远去。",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_yiqianazw",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "#主角#的声音含糊颤抖，脸上划过两行热泪。",
+    "bjName": "bj_mirrorland",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_ndsy",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "当时我还是那么小的年纪，就独自一人不明缘由地被送到了那个陌生的地方，如果不是师父……",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_dswh",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "我理解你的感受。（拍了拍他的肩膀）",
+    "bjName": "bj_mirrorland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "jzmj_wljn",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "事实真是这样吗？这其中会不会有什么误会，我们一起来看一看，我们这一路走来，其实也发现了一些蛛丝马迹。",
+    "bjName": "bj_mirrorland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "jzmj_sszs",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "对呀，之前我们在三层找到的宫史卷轴，还有在六层发现的那盏莲花灯，是你小时候的玩具。",
+    "bjName": "bj_mirrorland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "jzmj_dyzq",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "这样拼拼凑凑、串连起来再重新整合想一想，这个故事或许并不是我以为的那样。",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_zypp",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "看这些记忆碎片，你小的时候是不是也有过一些<color=#0000FF><u><link={51}>快乐的童年经历</link></u></color>？",
+    "bjName": "bj_mirrorland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "jzmj_kzxjy",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "记得小时候，到了春天，父母亲会陪我去放风筝，晚上饿了会给我熬我最喜欢的鸡笋粥，五岁那年上元节，我和父亲一起制作了这盏灯笼。",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_jdexsh",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "（掏出那盏莲花灯）父亲说，青莲是这座城的图腾，是我们的祥瑞之物。他还说，我以后要接替他的位置，继续守护这座城。做灯时我便提议，就做成莲花形状吧，青莲！",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_fuqs",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "那你后来离开了城主去了小山村是因为？",
+    "bjName": "bj_mirrorland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "jzmj_nnhoulai",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "看来就是因为宫史卷轴里那件事了。我以前也隐约听说过城内、坊间有一些凶兆的传言，没承想竟真有此事。",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_kljius",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "据宫史记载，一开始是城中法师上报予城主，天有异象，荧惑守心，乃是将有厄运降临的预兆。",
+    "bjName": "bj_mirrorland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "jzmj_jgsjz",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "还说这厄运也不是全无破解之法，厄运寄伏在城主的幼子身上，只要将其与这城远远分隔，自可使这座城避免厄运。",
+    "bjName": "bj_mirrorland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "jzmj_hszey",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "而且，那个卷轴还详细记载着，城主一开始并没有轻信天兆的预言，不同意将幼子——也就是你送出城去。",
+    "bjName": "bj_mirrorland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "jzmj_erqieng",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "直到城内外因这凶兆而祸乱四起，无法遏制，致使民不聊生，才不得不认命，无奈同意了将你送走。",
+    "bjName": "bj_mirrorland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "jzmj_zdaocnei",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "可是他最终还是决定将我送走……作为一个父亲，他有没有爱过我呢？哪怕一点儿……",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_keshitz",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "如果他不爱你，就不会到现在还精心收藏着当年你们一起做的、对你们父子都如此珍贵的莲花灯笼了！",
+    "bjName": "bj_mirrorland",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "jzmj_ruguotabu",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "在宫城中的那些年，父亲母亲确实对我很好；被送走的这些年，师父也一直将我照顾得很好……",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_zaigcz",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "每个人都有自己的无可奈何。据记载，当年城中的灾情可是相当的严重啊。毕竟，他不仅是一个父亲，也是一城之主。",
+    "bjName": "bj_mirrorland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "jzmj_meiger",
+    "isOptiong": -1
+  },
+  {
+    "id": 38,
+    "words": "要在这座城和自己的孩子之间做选择，对谁来说都会是一道难题，更何况，他是个英明的城主，一直以来都将这适逢城守护得很好。",
+    "bjName": "bj_mirrorland",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "jzmj_yaozzzc",
+    "isOptiong": -1
+  },
+  {
+    "id": 39,
+    "words": "也就是说，他可能已经做了他该做的以及能做的全部努力。在那样危机的时刻做出这般无奈的决定，想必父亲自己内心也是很痛苦的吧。",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_yejiuss",
+    "isOptiong": -1
+  },
+  {
+    "id": 40,
+    "words": "对呀，这个灯笼里有我们最美好的回忆。",
+    "bjName": "bj_mirrorland",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_duiyzge",
+    "isOptiong": -1
+  },
+  {
+    "id": 41,
+    "words": "#主角#用手拂去灯笼上沾染的泪水，灵力被聚集在莲花灯之上，莲花灯放出耀眼光芒。塔顶魔气渐渐消散。",
+    "bjName": "bj_mirrorland",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_niyongs",
+    "isOptiong": -1
+  },
+  {
+    "id": 42,
+    "words": "灯笼中出现了他们一直在寻找的宝物——一枚青莲图样的金龟玉碟碎片。",
+    "bjName": "bj_inside4",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_dlzcx",
+    "isOptiong": -1
+  },
+  {
+    "id": 43,
+    "words": "看！最后一片碎片！",
+    "bjName": "bj_inside4",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "jzmj_kanzhou",
+    "isOptiong": -1
+  },
+  {
+    "id": 44,
+    "words": "而就在这时，#主角#又一次感受到了那阵熟悉又奇妙的晕眩，再次跌入了记忆漩涡之中。",
+    "bjName": "bj_memory",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_erjiuzz",
+    "isOptiong": -1
+  },
+  {
+    "id": 45,
+    "words": "这一次的记忆影像中，由视线身高体型判断，看来是又一次回到了孩童时代，自己依然是那个瘦弱的小孩。",
+    "bjName": "bj_memory",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_zheyicd",
+    "isOptiong": -1
+  },
+  {
+    "id": 46,
+    "words": "家中各处点缀着节日的装饰和氛围，中秋节到了。家中孩子们站成一排，#主角#排在最后。大人给孩子们依次分发着节日的零食和礼物。",
+    "bjName": "bj_memory",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_jiazgc",
+    "isOptiong": -1
+  },
+  {
+    "id": 47,
+    "words": "当发到#主角#时，只剩其他人挑剩下的一点点，数量和品质都不如别的兄弟姐妹。一种熟悉又失望的低落感受笼罩着#主角#。",
+    "bjName": "bj_memory",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_dangfadn",
+    "isOptiong": -1
+  },
+  {
+    "id": 48,
+    "words": "怎么？给你这些你不满意么？那就什么也别拿了！",
+    "bjName": "bj_memory",
+    "spineName": "child1,孩子甲,2",
+    "link": "",
+    "sound": "jzmj_zmgnzx",
+    "isOptiong": -1
+  },
+  {
+    "id": 49,
+    "words": "说罢，兄弟一把抢过他手中的礼物，撞到他，便离开了。",
+    "bjName": "bj_memory",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_shuobaxd",
+    "isOptiong": -1
+  },
+  {
+    "id": 50,
+    "words": "什么也没有了，心中甚是委屈。转头看向不远处的父亲，正巧撞见父亲眼神<color=#0000FF><u><link={52}>冷漠地</link></u></color>将头转向他处。",
+    "bjName": "bj_memory",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_smymy",
+    "isOptiong": -1
+  },
+  {
+    "id": 51,
+    "words": "父亲明明看到了，却不闻不问，任由兄弟们这样做。为什么？",
+    "bjName": "bj_memory",
+    "spineName": "main_qianshi,主角内心,1",
+    "link": "",
+    "sound": "jzmj_fqmm",
+    "isOptiong": -1
+  },
+  {
+    "id": 52,
+    "words": "#主角#心中委屈，来到母亲身旁，母亲也没有说什么。",
+    "bjName": "bj_memory",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_nxzwq",
+    "isOptiong": -1
+  },
+  {
+    "id": 53,
+    "words": "开饭了，大家纷纷围坐在桌旁，父亲坐在主位，家中长辈大人们按照身份地位依次落座。",
+    "bjName": "bj_memory",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_kaifanl",
+    "isOptiong": -1
+  },
+  {
+    "id": 54,
+    "words": "之后，各个兄弟姐妹们也都按安排好的位置落座，不论是比自己大的哥哥还是比自己小的妹妹都各有座位，唯独自己没有被安排座位。",
+    "bjName": "bj_memory",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_zhihougg",
+    "isOptiong": -1
+  },
+  {
+    "id": 55,
+    "words": "他无助地站在桌边，看向父亲，父亲根本没有看这边，而是愉快地在与其他哥哥交谈。又转向母亲求助，母亲皱着眉，有些无奈。",
+    "bjName": "bj_memory",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_tawuzhu",
+    "isOptiong": -1
+  },
+  {
+    "id": 56,
+    "words": "唉，今日中秋，家人们聚得齐，座位不够了，你就先去厢房小桌吃吧。",
+    "bjName": "bj_memory",
+    "spineName": "mother,主角母亲,2",
+    "link": "",
+    "sound": "jzmj_jrzhongqiu",
+    "isOptiong": -1
+  },
+  {
+    "id": 57,
+    "words": "母亲……（站在原地没有动，又一次拽了拽母亲的衣角）",
+    "bjName": "bj_memory",
+    "spineName": "main_qianshi,主角,1",
+    "link": "",
+    "sound": "jzmj_mq",
+    "isOptiong": -1
+  },
+  {
+    "id": 58,
+    "words": "懂事一些，别给长辈添麻烦，你也该反思一下，<color=#0000FF><u><link={53}>自己有什么问题</link></u></color>。",
+    "bjName": "bj_memory",
+    "spineName": "mother,主角母亲,2",
+    "link": "",
+    "sound": "jzmj_dsyixie",
+    "isOptiong": -1
+  },
+  {
+    "id": 59,
+    "words": "#主角#顿时一阵心酸和委屈，默默转头离开，也没有去厢房，而是饿着肚子跑出了家门来到巷子里。",
+    "bjName": "bj_memory",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_nidsyiz",
+    "isOptiong": -1
+  },
+  {
+    "id": 60,
+    "words": "父亲母亲为什么不喜欢我呢？是因为我体术法术都很差么？还是因为我是庶出？抑或是因为我没有哥哥们那么像父亲？",
+    "bjName": "bj_memory",
+    "spineName": "main_qianshi,主角内心,1",
+    "link": "",
+    "sound": "jzmj_fqmq",
+    "isOptiong": -1
+  },
+  {
+    "id": 61,
+    "words": "为什么是我呢？我做错了什么？可能我就不该被生下来……",
+    "bjName": "bj_memory",
+    "spineName": "main_qianshi,主角内心,1",
+    "link": "",
+    "sound": "jzmj_wsmsw",
+    "isOptiong": -1
+  },
+  {
+    "id": 62,
+    "words": "记忆闪回结束，他仍然身处塔顶九层，手握着那枚青莲碎片，阵阵酸楚难过仍萦绕在心头。",
+    "bjName": "bj_inside4",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_jysh",
+    "isOptiong": -1
+  },
+  {
+    "id": 63,
+    "words": "#主角#取出了之前得到的那几片金龟玉碟碎片，打算将五片碎片拼合在一起。",
+    "bjName": "bj_inside4",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_niqucl",
+    "isOptiong": -1
+  },
+  {
+    "id": 64,
+    "words": "碎片拼合后，却无事发生。",
+    "bjName": "bj_inside4",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_spph",
+    "isOptiong": -1
+  },
+  {
+    "id": 65,
+    "words": "没有变化啊，看来直接拼合没有用，还需要另寻破解碎片之法。",
+    "bjName": "bj_inside4",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jzmj_mybh",
+    "isOptiong": -1
+  },
+  {
+    "id": 66,
+    "words": "收起碎片，一行人下塔离开。",
+    "bjName": "bj_inside4",
+    "spineName": "",
+    "link": "",
+    "sound": "jzmj_sqsp",
+    "isOptiong": -1
+  }
+]

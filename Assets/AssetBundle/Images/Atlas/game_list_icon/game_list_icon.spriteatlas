@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: game_list_icon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 05473ddb224a01748ba3b1c1373948ba, type: 3}
+    - {fileID: 2800000, guid: 52b9e47b1f93169428b4d5423f6c79e0, type: 3}
+    - {fileID: 2800000, guid: afa5d93b73b6d7e46b2d2846e147c889, type: 3}
+    - {fileID: 2800000, guid: 3d01b92afd3061d489adc7f114ad36c3, type: 3}
+    - {fileID: 2800000, guid: 98669b6c3ede5d643b390540368d85cd, type: 3}
+    - {fileID: 2800000, guid: d60e1014d3aae1543962301189be426b, type: 3}
+    - {fileID: 2800000, guid: 029b52a801935f34bab98f054471d360, type: 3}
+    - {fileID: 2800000, guid: 235d8f8f1d26be643926288e1b7a32e7, type: 3}
+    - {fileID: 2800000, guid: aa5a847e788c85943b8ef238459bf275, type: 3}
+    - {fileID: 2800000, guid: b7d1a2183cbb4cc49947ab6e2375b7cb, type: 3}
+    - {fileID: 2800000, guid: 2ac35b16548d16c4985c68ab1be6cfd9, type: 3}
+    - {fileID: 2800000, guid: b503aaa2698719548aba466c58095259, type: 3}
+    - {fileID: 2800000, guid: e82eb288c40c34642a527df58d33fcb9, type: 3}
+    - {fileID: 2800000, guid: d4587875813cf7b4d9b5223dc86f41d2, type: 3}
+    - {fileID: 2800000, guid: 51800755eed12604fbaeaafa2fb7c541, type: 3}
+    - {fileID: 2800000, guid: aeedd83315134fb40b805c9d3f820287, type: 3}
+    - {fileID: 2800000, guid: 566b7502356b21945a2c286559dca391, type: 3}
+    - {fileID: 2800000, guid: 72f6cda947a46fd44bcde3fd73edf39a, type: 3}
+    - {fileID: 2800000, guid: 8b34aea4379f54c43b398cb4c574b250, type: 3}
+    - {fileID: 2800000, guid: beda7437a30777242b1b5ced7caa6979, type: 3}
+    - {fileID: 2800000, guid: d5bd8e7feb5f18a46b244c065b0d9b37, type: 3}
+    - {fileID: 2800000, guid: 22cbf6e333dc15549ae0bfdc33db6bb4, type: 3}
+    - {fileID: 2800000, guid: e1aa6218c443be841bea4fd66ddc47b7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 566b7502356b21945a2c286559dca391: 21300000
+    - b503aaa2698719548aba466c58095259: 21300000
+    - aeedd83315134fb40b805c9d3f820287: 21300000
+    - d60e1014d3aae1543962301189be426b: 21300000
+    - 8b34aea4379f54c43b398cb4c574b250: 21300000
+    - 51800755eed12604fbaeaafa2fb7c541: 21300000
+    - d4587875813cf7b4d9b5223dc86f41d2: 21300000
+    - 2ac35b16548d16c4985c68ab1be6cfd9: 21300000
+    - beda7437a30777242b1b5ced7caa6979: 21300000
+    - b7d1a2183cbb4cc49947ab6e2375b7cb: 21300000
+    - e82eb288c40c34642a527df58d33fcb9: 21300000
+    - 029b52a801935f34bab98f054471d360: 21300000
+    - 72f6cda947a46fd44bcde3fd73edf39a: 21300000
+    - 3d01b92afd3061d489adc7f114ad36c3: 21300000
+    - afa5d93b73b6d7e46b2d2846e147c889: 21300000
+    - 52b9e47b1f93169428b4d5423f6c79e0: 21300000
+    - 05473ddb224a01748ba3b1c1373948ba: 21300000
+    - 98669b6c3ede5d643b390540368d85cd: 21300000
+    - aa5a847e788c85943b8ef238459bf275: 21300000
+    - d5bd8e7feb5f18a46b244c065b0d9b37: 21300000
+    - 235d8f8f1d26be643926288e1b7a32e7: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 566b7502356b21945a2c286559dca391, type: 3}
+  - {fileID: 21300000, guid: b503aaa2698719548aba466c58095259, type: 3}
+  - {fileID: 21300000, guid: aeedd83315134fb40b805c9d3f820287, type: 3}
+  - {fileID: 21300000, guid: d60e1014d3aae1543962301189be426b, type: 3}
+  - {fileID: 21300000, guid: 8b34aea4379f54c43b398cb4c574b250, type: 3}
+  - {fileID: 21300000, guid: 51800755eed12604fbaeaafa2fb7c541, type: 3}
+  - {fileID: 21300000, guid: d4587875813cf7b4d9b5223dc86f41d2, type: 3}
+  - {fileID: 21300000, guid: 2ac35b16548d16c4985c68ab1be6cfd9, type: 3}
+  - {fileID: 21300000, guid: beda7437a30777242b1b5ced7caa6979, type: 3}
+  - {fileID: 21300000, guid: b7d1a2183cbb4cc49947ab6e2375b7cb, type: 3}
+  - {fileID: 21300000, guid: e82eb288c40c34642a527df58d33fcb9, type: 3}
+  - {fileID: 21300000, guid: 029b52a801935f34bab98f054471d360, type: 3}
+  - {fileID: 21300000, guid: 72f6cda947a46fd44bcde3fd73edf39a, type: 3}
+  - {fileID: 21300000, guid: 3d01b92afd3061d489adc7f114ad36c3, type: 3}
+  - {fileID: 21300000, guid: afa5d93b73b6d7e46b2d2846e147c889, type: 3}
+  - {fileID: 21300000, guid: 52b9e47b1f93169428b4d5423f6c79e0, type: 3}
+  - {fileID: 21300000, guid: 05473ddb224a01748ba3b1c1373948ba, type: 3}
+  - {fileID: 21300000, guid: 98669b6c3ede5d643b390540368d85cd, type: 3}
+  - {fileID: 21300000, guid: aa5a847e788c85943b8ef238459bf275, type: 3}
+  - {fileID: 21300000, guid: d5bd8e7feb5f18a46b244c065b0d9b37, type: 3}
+  - {fileID: 21300000, guid: 235d8f8f1d26be643926288e1b7a32e7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - game_list_id17
+  - game_list_id12
+  - game_list_id16
+  - game_list_id6
+  - game_list_id19
+  - game_list_id15
+  - game_list_id14
+  - game_list_id11
+  - game_list_id20
+  - game_list_id10
+  - game_list_id13
+  - game_list_id7
+  - game_list_id18
+  - game_list_id4
+  - game_list_id3
+  - game_list_id2
+  - game_list_id1
+  - game_list_id5
+  - game_list_id9
+  - game_list_id21
+  - game_list_id8
+  m_RenderDataMap: {}
+  m_Tag: game_list_icon
+  m_IsVariant: 0

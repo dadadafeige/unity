@@ -1,0 +1,335 @@
+﻿[
+  {
+    "id": 1,
+    "words": "哇，这就是郑叔叔所说的世间繁华景象啊，实在是<color=#0000FF><u><link={8}>令人眼花缭乱</link></u></color>！",
+    "bjName": "bj_city",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "city_1wazhejiushi",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "咱们可否去品尝些美食？我们行走多时，需补充体力，方能筹划下一步计划。",
+    "bjName": "bj_city",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "city_zanmenkefouqu",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "吃吃吃，你只知道吃。幸好我们已到达人烟之地，要是往日，一次翻转便可到达此处，岂需费时长达三天。我可得去打怪，以恢复攻击力。",
+    "bjName": "bj_city",
+    "spineName": "luohou,罗睺,1",
+    "link": "",
+    "sound": "city_1chichichi",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "嘁，就你现在这副鸟样，还打怪？只怕连抓只鸡都难啊。",
+    "bjName": "bj_city",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "city_qijiunixianzai",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "你这鸟人竟然说我模样像鸟，看我先抓住你把你吃了！",
+    "bjName": "bj_city",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "city_nizheniaorenjingran",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "唉呦，两位大神，不要争吵了。我们还有要务在身，师父正等我回去。求求你们，先干正事吧！",
+    "bjName": "bj_city",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "city_aiyouliangweidashen",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "好吧，暂且放过你这鸟人。",
+    "bjName": "bj_city",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "city_haobazanqiefangguo",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "哼，本大人不计小魔过（傲娇地说）",
+    "bjName": "bj_city",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "city_hengbendaren",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "（在凌霄城的繁华街道上行走，突然感觉身上一阵麻痒）嗯？这是怎么回事？",
+    "bjName": "bj_city",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "city_enzheshizenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "嘿嘿，看来今天能发一笔横财了。（小偷悄悄拿走#主角#的玉佩）",
+    "bjName": "bj_city",
+    "spineName": "thief,小偷,2",
+    "link": "",
+    "sound": "city_heiheikanlai",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "（警觉地环顾四周）有小偷，快追！",
+    "bjName": "bj_city",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "city_youxiaotou",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "小偷不要跑！吃我一符！",
+    "bjName": "bj_city",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "city_1xiaotoubuyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "这是什么妖法,我怎么动不了啦",
+    "bjName": "bj_city",
+    "spineName": "thief,小偷,2",
+    "link": "",
+    "sound": "city_zheshishenme",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "（假装无辜）哎呀，大人您误会了，我只是个路过的行人。",
+    "bjName": "bj_city",
+    "spineName": "thief,小偷,2",
+    "link": "",
+    "sound": "city_aiyadaren",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "快把东西交出来，否则有你好看的！",
+    "bjName": "bj_city",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "city_kuaibadongxi",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "（冷笑一声）如果你现在交出来，或许我可以饶你一命。（使出一个小技能，给小偷一点教训）",
+    "bjName": "bj_city",
+    "spineName": "luohou,罗睺,1",
+    "link": "",
+    "sound": "city_ruguonixianzai",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "大人饶命，我也是不得已，（略带懊悔）我……我家境贫寒，生活艰难，我只是为了能够过上好日子。",
+    "bjName": "bj_city",
+    "spineName": "thief,小偷,2",
+    "link": "",
+    "sound": "city_darenraoming",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "（深深地叹了口气）贫富不是决定一个人品德的标准。你现在改变自己的选择还来得及。",
+    "bjName": "bj_city",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "city_1pinfubushi",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "<color=#0000FF><u><link={9}>犯错需要付出代价</link></u></color>的，把他送去衙门吧！",
+    "bjName": "bj_yamen",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "city_fancuoxuyao",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "万宝大会乃每年一度之盛事，传闻智者百晓生亦将亲临。",
+    "bjName": "bj_market",
+    "spineName": "npc1,路人,2",
+    "link": "",
+    "sound": "city_wanbaodahui",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "百晓生精通文史、诗词、哲学、天文地理等诸多领域，几乎无所不知，无所不晓，被人们称之为“行走的百科全书”。",
+    "bjName": "bj_market",
+    "spineName": "npc1,路人,2",
+    "link": "",
+    "sound": "city_baixiaoshengjingtong",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "吾辈必当前去<color=#0000FF><u><link={10}>拜见</link></u></color>百晓生前辈，探询金龟玉碟的去向。",
+    "bjName": "bj_market",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "city_wubeibidang",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "嗯，此为善计也。",
+    "bjName": "bj_market",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "city_enciweishanji",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "容我罗大人前去会上一会，看看这后生有何本事可言。",
+    "bjName": "bj_market",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "city_1rongwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 25,
+    "words": "请问阁下如何才能参与这万宝大会？",
+    "bjName": "bj_market",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "city_qingwengexia",
+    "isOptiong": -1
+  },
+  {
+    "id": 26,
+    "words": "入场门票需要100金币",
+    "bjName": "bj_market",
+    "spineName": "npc1,路人,2",
+    "link": "",
+    "sound": "city_ruchnagmenpiao",
+    "isOptiong": -1
+  },
+  {
+    "id": 27,
+    "words": "100金币，这也太贵了吧！",
+    "bjName": "bj_market",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "city_100jinbi",
+    "isOptiong": -1
+  },
+  {
+    "id": 28,
+    "words": "没错，此乃千载难逢之机会，集结各类宝物与珍品，商贾、艺伎、学者与冒险家皆将前来。若贵人能够赚取足够之金币，不妨前来一观。",
+    "bjName": "bj_market",
+    "spineName": "npc1,路人,2",
+    "link": "",
+    "sound": "city_meicuocinai",
+    "isOptiong": -1
+  },
+  {
+    "id": 29,
+    "words": "唷，我罗大人倒要见识一下是否有我未曾见过之珍宝。",
+    "bjName": "bj_market",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "city_1youwoluo",
+    "isOptiong": -1
+  },
+  {
+    "id": 30,
+    "words": "那里很可能会有金龟玉碟的消息，看来我等必须前去。至于如何赚取100金币，我有一计策。我见离城不远处有座山，其中或有珍稀草药可采集再贩卖。",
+    "bjName": "bj_market",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "city_nalihenkeneng",
+    "isOptiong": -1
+  },
+  {
+    "id": 31,
+    "words": "我看未必，我们还是直接去打劫，噢不，打猎，打猎，然后贩卖野味。",
+    "bjName": "bj_market",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "city_wokanweibi",
+    "isOptiong": -1
+  },
+  {
+    "id": 32,
+    "words": "打猎不可为，<color=#0000FF><u><link={11}>师父曾言</link></u></color>不能随意杀生。",
+    "bjName": "bj_market",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "city_daliebukewei",
+    "isOptiong": -1
+  },
+  {
+    "id": 33,
+    "words": "有何不可的，师父师父，你难道是“师父宝”吗？",
+    "bjName": "bj_market",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "city_youhebukede",
+    "isOptiong": -1
+  },
+  {
+    "id": 34,
+    "words": "这可不能保证挣到钱，我们还是去采集草药吧。",
+    "bjName": "bj_market",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "city_zhekebunengbaozheng",
+    "isOptiong": -1
+  },
+  {
+    "id": 35,
+    "words": "这等琐事我可不屑，丢人现眼。",
+    "bjName": "bj_market",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "city_zhedengsuoshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 36,
+    "words": "你不去也得去，别说这等大话，难道你没明白，现在你还得依靠别人才能行动吗？",
+    "bjName": "bj_market",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "city_nibuquyedei",
+    "isOptiong": -1
+  },
+  {
+    "id": 37,
+    "words": "哎，虎落凌霄被鸟欺啊，我堂堂魔祖竟沦落到要去摘草药！（只能无奈跟着去）",
+    "bjName": "bj_market",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "city_aihuluolingxiao",
+    "isOptiong": -1
+  }
+]

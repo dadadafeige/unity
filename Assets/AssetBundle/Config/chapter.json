@@ -1,0 +1,92 @@
+﻿[
+  {
+    "id": 1,
+    "scene_list": "1,2,3,4,5",
+    "name": "第一章",
+    "map_name": "map_chapter1",
+    "chapter_list_image": "chapter_list1",
+    "chapter_texture": "switch_chapters1",
+    "chapter_dec": "少年踏出小山村，走上拯救师傅和寻找自我的旅程。\\n首入凌霄城，听闻百晓生晓事如神，决心向其请教金龟玉碟的下落",
+    "drop_id": 100
+  },
+  {
+    "id": 2,
+    "scene_list": "1,2,3,4,5",
+    "name": "第二章",
+    "map_name": "map_chapter2",
+    "chapter_list_image": "chapter_list2",
+    "chapter_texture": "switch_chapters2",
+    "chapter_dec": "一行人根据百晓生提供的线索，前往不周山寻找金龟玉碟碎片的下落",
+    "drop_id": 101
+  },
+  {
+    "id": 3,
+    "scene_list": "",
+    "name": "第三章",
+    "map_name": "",
+    "chapter_list_image": "chapter_list3",
+    "chapter_texture": "switch_chapters3",
+    "chapter_dec": "不周山中的种种遭遇，诸多疑团皆指向狐族，因此，一行人前往青丘，寻找介潭族长的下落",
+    "drop_id": 102
+  },
+  {
+    "id": 4,
+    "scene_list": "",
+    "name": "第四章",
+    "map_name": "",
+    "chapter_list_image": "chapter_list4",
+    "chapter_texture": "switch_chapters4",
+    "chapter_dec": "一行人前往小麟的家乡“东海”，想要解决东海被魔气侵染的问题",
+    "drop_id": 103
+  },
+  {
+    "id": 5,
+    "scene_list": "",
+    "name": "第五章",
+    "map_name": "",
+    "chapter_list_image": "chapter_list5",
+    "chapter_texture": "switch_chapters5",
+    "chapter_dec": "一行人离开东海，继续踏上了寻找金龟玉碟碎片的下落",
+    "drop_id": 104
+  },
+  {
+    "id": 6,
+    "scene_list": "",
+    "name": "第六章",
+    "map_name": "",
+    "chapter_list_image": "chapter_list6",
+    "chapter_texture": "switch_chapters6",
+    "chapter_dec": "一行人根据强良祖巫提供的线索，前往城主府寻找金龟玉碟碎片的下落",
+    "drop_id": 105
+  },
+  {
+    "id": 7,
+    "scene_list": "",
+    "name": "第七章",
+    "map_name": "",
+    "chapter_list_image": "chapter_list7",
+    "chapter_texture": "switch_chapters7",
+    "chapter_dec": "一行人离开城主府，进入了神秘的九天幻境，这个幻境充满了无尽的杀戮和挑战",
+    "drop_id": 106
+  },
+  {
+    "id": 8,
+    "scene_list": "",
+    "name": "第八章",
+    "map_name": "",
+    "chapter_list_image": "chapter_list8",
+    "chapter_texture": "switch_chapters8",
+    "chapter_dec": "",
+    "drop_id": 107
+  },
+  {
+    "id": 9,
+    "scene_list": "",
+    "name": "",
+    "map_name": "",
+    "chapter_list_image": "",
+    "chapter_texture": "",
+    "chapter_dec": "",
+    "drop_id": -1
+  }
+]

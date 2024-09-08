@@ -1,0 +1,290 @@
+﻿[
+  {
+    "id": 1,
+    "name": "家",
+    "scenetype": 1,
+    "npcid": "1",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 1
+  },
+  {
+    "id": 2,
+    "name": "铁匠铺",
+    "scenetype": 2,
+    "npcid": "2",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 2
+  },
+  {
+    "id": 3,
+    "name": "养殖场",
+    "scenetype": 3,
+    "npcid": "3",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 4
+  },
+  {
+    "id": 4,
+    "name": "鱼塘",
+    "scenetype": 4,
+    "npcid": "4",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 5
+  },
+  {
+    "id": 5,
+    "name": "一山洞",
+    "scenetype": 5,
+    "npcid": "6",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 11
+  },
+  {
+    "id": 6,
+    "name": "市集（第二章）",
+    "scenetype": 6,
+    "npcid": "1,2,3,4",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 18
+  },
+  {
+    "id": 7,
+    "name": "后山",
+    "scenetype": 7,
+    "npcid": "1,2,5",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 21
+  },
+  {
+    "id": 8,
+    "name": "二万宝大会",
+    "scenetype": 8,
+    "npcid": "1,2,5,6,7,8,9,10",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 25
+  },
+  {
+    "id": 9,
+    "name": "战场",
+    "scenetype": 9,
+    "npcid": "",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 28
+  },
+  {
+    "id": 10,
+    "name": "介谭古台",
+    "scenetype": 10,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 32
+  },
+  {
+    "id": 11,
+    "name": "圣地入口",
+    "scenetype": 11,
+    "npcid": "",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 36
+  },
+  {
+    "id": 12,
+    "name": "介谭圣地",
+    "scenetype": 12,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 39
+  },
+  {
+    "id": 13,
+    "name": "三介谭村",
+    "scenetype": 13,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 40
+  },
+  {
+    "id": 14,
+    "name": "灯会",
+    "scenetype": 14,
+    "npcid": "",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 42
+  },
+  {
+    "id": 15,
+    "name": "城主府",
+    "scenetype": 15,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 46
+  },
+  {
+    "id": 16,
+    "name": "四石碑",
+    "scenetype": 16,
+    "npcid": "",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 47
+  },
+  {
+    "id": 17,
+    "name": "沙滩",
+    "scenetype": 17,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 51
+  },
+  {
+    "id": 18,
+    "name": "龙宫",
+    "scenetype": 18,
+    "npcid": "",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 53
+  },
+  {
+    "id": 19,
+    "name": "东海之滨",
+    "scenetype": 19,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 57
+  },
+  {
+    "id": 20,
+    "name": "五荒芜之地",
+    "scenetype": 20,
+    "npcid": "",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 58
+  },
+  {
+    "id": 21,
+    "name": "战场",
+    "scenetype": 21,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 68
+  },
+  {
+    "id": 22,
+    "name": "藏仙洞",
+    "scenetype": 22,
+    "npcid": "",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 70
+  },
+  {
+    "id": 23,
+    "name": "后羿草庐",
+    "scenetype": 23,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 71
+  },
+  {
+    "id": 24,
+    "name": "月亮山",
+    "scenetype": 24,
+    "npcid": "",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 75
+  },
+  {
+    "id": 25,
+    "name": "六天庭",
+    "scenetype": 25,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 79
+  },
+  {
+    "id": 26,
+    "name": "城主府",
+    "scenetype": 26,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 86
+  },
+  {
+    "id": 27,
+    "name": "玉璋塔",
+    "scenetype": 27,
+    "npcid": "",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 100
+  },
+  {
+    "id": 28,
+    "name": "七幻境",
+    "scenetype": 28,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 101
+  },
+  {
+    "id": 29,
+    "name": "云海幻境",
+    "scenetype": 29,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 106
+  },
+  {
+    "id": 30,
+    "name": "家",
+    "scenetype": 30,
+    "npcid": "",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 107
+  },
+  {
+    "id": 31,
+    "name": "山洞",
+    "scenetype": 31,
+    "npcid": "",
+    "BMG": "backgroundmusic_1",
+    "": "",
+    "missionid": 108
+  },
+  {
+    "id": 32,
+    "name": "八战场",
+    "scenetype": 32,
+    "npcid": "",
+    "BMG": "backgroundmusic_2",
+    "": "",
+    "missionid": 114
+  }
+]

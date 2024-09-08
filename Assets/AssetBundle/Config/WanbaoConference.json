@@ -1,0 +1,622 @@
+﻿[
+  {
+    "id": 1,
+    "words": "一行人进入万宝大会，一座巨大的建筑（豪华），以金色和宝石点缀的装饰，大门前挂着各国的旗帜，象征着来自各地的参与者。",
+    "bjName": "bj_wanbaodahui",
+    "spineName": "",
+    "link": "",
+    "sound": "wb_yixingrenjinru",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 2,
+    "words": "进入会场，有琳琅满目的摊位，摊位上陈列着各种珍宝和稀奇古怪的物品，有闪耀着宝石的首饰，有储满魔力的法器，有奇形怪状的异兽标本等等",
+    "bjName": "bj_wanbaodahui",
+    "spineName": "",
+    "link": "",
+    "sound": "wb_jinruhuichang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 3,
+    "words": "哇，这里太好玩了（眼睛闪小星星）",
+    "bjName": "bj_wanbaodahui",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_wazhelitaihaowan",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 4,
+    "words": "这些都没意思，前面有个拍卖会，那里的宝物才值得一看",
+    "bjName": "bj_wanbaodahui",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "wbdh_zhexiedoumeiyisi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 5,
+    "words": "我们也去看看吧",
+    "bjName": "bj_wanbaodahui",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "wb_womenyequ",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 6,
+    "words": "天花板上悬挂着华丽的吊灯，照亮整个场地。观众席坐满了身着华丽服饰的人们。拍卖师站在高台上，高台上摆放多张展示桌，上面陈列着拍卖的物品。",
+    "bjName": "bj_paimaihui",
+    "spineName": "",
+    "link": "",
+    "sound": "wb_tianhuabanshang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 7,
+    "words": "在拍卖会的场地周围，提供食物和饮品。拍卖师的声音响起，整个场地陷入了一片安静，观众们屏住呼吸。",
+    "bjName": "bj_paimaihui",
+    "spineName": "",
+    "link": "",
+    "sound": "wb_zaipaimaihuidechang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 8,
+    "words": "首先给大家介绍的宝物是“心灵印记”， 我们每个人都有独特的故事和经历，通过“心灵印记”记录下来，让它们成为我们生命中的一部分。",
+    "bjName": "bj_paimaihui",
+    "spineName": "auctioneer,拍卖师,2",
+    "link": "",
+    "sound": "wb_shouxiangeidajia",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 9,
+    "words": "心灵印记？听起来很有趣。与自己的心灵进行连接，这种体验一定很特别。",
+    "bjName": "bj_paimaihui",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wb_xinlingyinjiting",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 10,
+    "words": "没错，心灵印记是连接内在自我和宇宙的方式。通过记录，我们不仅可以更好地了解自己，还可以发现我们与世界的联系，找到自己的使命。",
+    "bjName": "bj_paimaihui",
+    "spineName": "auctioneer,拍卖师,2",
+    "link": "",
+    "sound": "wb_meicuoxinlingyinji",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 11,
+    "words": "起拍价50金币，这个心灵印记有谁对它感兴趣？",
+    "bjName": "bj_paimaihui",
+    "spineName": "auctioneer,拍卖师,2",
+    "link": "",
+    "sound": "wb_qipaijia50jinbi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 12,
+    "words": "60",
+    "bjName": "bj_paimaihui",
+    "spineName": "npc2,路人甲,1",
+    "link": "",
+    "sound": "wb_60",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 13,
+    "words": "70……【拍卖过程进行着】",
+    "bjName": "bj_paimaihui",
+    "spineName": "npc3,路人乙,2",
+    "link": "",
+    "sound": "wb_70",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 14,
+    "words": "我一定要拍下这个，100金！",
+    "bjName": "bj_paimaihui",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_woyidingyao",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 15,
+    "words": "你钱够吗，没有可以去挣点",
+    "bjName": "bj_paimaihui",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "wb_niqiangouma",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 16,
+    "words": "就是，我去看看钱包",
+    "bjName": "bj_paimaihui",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_jiushiwoqukankan",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 17,
+    "words": "100金币，还有其他竞拍者吗？100一次，两次，三次，成交！恭喜这位尊贵的客人#主角#，这个心灵印记属于你了。请到后台完成交易手续。",
+    "bjName": "bj_paimaihui",
+    "spineName": "auctioneer,拍卖师,2",
+    "link": "",
+    "sound": "wb_100jinbihaiyouqita",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 18,
+    "words": "接下来给大家介绍的是“虚空折叠匣”， 这个匣子内部比外部空间更大，可以容纳各种物品。无论大小，物品都可以被收纳其中。",
+    "bjName": "bj_paimaihui",
+    "spineName": "auctioneer,拍卖师,2",
+    "link": "",
+    "sound": "wb_jiexialaigei",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 19,
+    "words": "（兴奋地注视着虚空折叠匣）哇，这个虚空折叠匣看起来真的很神奇！能够容纳各种大小物品，简直是一个财富的宝库。",
+    "bjName": "bj_paimaihui",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_wazhegexukong",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 20,
+    "words": "这个虚空折叠匣是一件罕见的宝物，它的内部空间比外部更大，简直就像是一个迷宫。但请记住，里面蕴藏的是虚空的一部分，可能存在着未知和危险。",
+    "bjName": "bj_paimaihui",
+    "spineName": "auctioneer,拍卖师,2",
+    "link": "",
+    "sound": "wb_zhegexukong",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 21,
+    "words": "起拍价100金币，这个匣子有谁愿意出价？",
+    "bjName": "bj_paimaihui",
+    "spineName": "auctioneer,拍卖师,2",
+    "link": "",
+    "sound": "wb_qipaijia",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 22,
+    "words": "200",
+    "bjName": "bj_paimaihui",
+    "spineName": "npc2,路人甲,1",
+    "link": "",
+    "sound": "wb_200",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 23,
+    "words": "300……【拍卖过程进行着】",
+    "bjName": "bj_paimaihui",
+    "spineName": "npc3,路人乙,2",
+    "link": "",
+    "sound": "wb_300",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 24,
+    "words": "都出价好高啊",
+    "bjName": "bj_paimaihui",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wb_1douchujia",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 25,
+    "words": "没关系的，我们可以挣到钱再来买",
+    "bjName": "bj_paimaihui",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "wb_meiguanxide",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 26,
+    "words": "1000金币，还有其他竞拍者吗？1000一次，两次，三次，成交！恭喜这位尊贵的客人，这个虚空折叠匣属于你了，请到后台完成交易手续。",
+    "bjName": "bj_paimaihui",
+    "spineName": "auctioneer,拍卖师,2",
+    "link": "",
+    "sound": "wb_1jinbihai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 27,
+    "words": "接着，一行人走入先知楼,内部装饰华丽精致，墙壁上挂满了字画和古董，展示着艺术和历史的瑰宝。",
+    "bjName": "bj_room",
+    "spineName": "",
+    "link": "",
+    "sound": "wb_jiezheyixingrenzouru",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 28,
+    "words": "尔等何人，为何来此？",
+    "bjName": "bj_room",
+    "spineName": "doorman,门卫,2",
+    "link": "",
+    "sound": "wb_erdengheren",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 29,
+    "words": "我等前来拜见百晓生先生",
+    "bjName": "bj_room",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "wb_wodenqianlai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 30,
+    "words": "只有能画出此火神符之人，我家老爷方肯相见",
+    "bjName": "bj_room",
+    "spineName": "doorman,门卫,2",
+    "link": "",
+    "sound": "wb_zhiyouneng",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 31,
+    "words": "此事如何是好，我并不擅长画符。",
+    "bjName": "bj_room",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "wb_cishiruhe",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 32,
+    "words": "#主角#，你师父给你的秘籍里好像有。",
+    "bjName": "bj_room",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "wb_nishifugeinide",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 33,
+    "words": "嗯，容我一试",
+    "bjName": "bj_room",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_enrongwoyishi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 34,
+    "words": "我家老爷等候久矣，请随我来。",
+    "bjName": "bj_room",
+    "spineName": "doorman,门卫,2",
+    "link": "",
+    "sound": "wb_wojialaoye",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 35,
+    "words": "百晓生坐在一张古朴的木桌前，书架上摆满了各式各样的书籍和卷轴。他的目光锐利而睿智，似乎能洞悉人心。",
+    "bjName": "bj_room",
+    "spineName": "",
+    "link": "",
+    "sound": "wb_baixiaoshengzuozai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 36,
+    "words": "四位，幸会。",
+    "bjName": "bj_room",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "wb_siweixinghui",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 37,
+    "words": "(这位老先生知道我们？)",
+    "bjName": "bj_room",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "wbdh_zheweilaoxiansheng",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 38,
+    "words": "(这老头有点意思，我倒看看他有何本事。)",
+    "bjName": "bj_room",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "wbdh_zhelaotou",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 39,
+    "words": "【通天箓发出黑光、振动，#主角#感到疑惑愣神，一会儿才反应过来】百晓生先生，久仰大名。我等前来有两件事望得先生指点。",
+    "bjName": "bj_room",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_baixiaoshengxiansheng",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 40,
+    "words": "请说，老夫愿尽力而助",
+    "bjName": "bj_room",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "wb_qingshuolaofu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 41,
+    "words": "不瞒先生，我等家乡和凌霄城内皆有魔化的牲畜、居民和士兵，请问此乃何人所为，魔气之源又为何物？",
+    "bjName": "bj_room",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "wb_1buman",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 42,
+    "words": "据我所知，只有两种方法能让人和牲畜魔化。一为魔祖的至纯魔气，沾染魔族的魔气便可令人和牲畜魔化。",
+    "bjName": "bj_room",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "wb_juwosuozhi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 43,
+    "words": "还有一种？（焦急）",
+    "bjName": "bj_room",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "wb_haiyouyizhong",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 44,
+    "words": "此外，苗疆巫地之魔蛊虫，由大巫操控进入人和动物体内亦能使之魔化。",
+    "bjName": "bj_room",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "wb_ciwaimiaojiang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 45,
+    "words": "魔祖已消失百年，看来此事或与巫族有关（小麟和#主角#对视）",
+    "bjName": "bj_room",
+    "spineName": "xiaolin,小麟,1",
+    "link": "",
+    "sound": "wb_mozuyixiaoshi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 46,
+    "words": "老先生，小生还有一事相求？",
+    "bjName": "bj_room",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_laoxiansheng",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 47,
+    "words": "但说无妨",
+    "bjName": "bj_room",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "wb_danshuowufang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 48,
+    "words": "关于上古神器金龟玉碟的下落，先生可知晓？",
+    "bjName": "bj_room",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wb_guanyushanggu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 49,
+    "words": "（微微一笑）巫妖大战中，金龟玉碟已碎成五片，散落在天地间，想要找到并非易事啊！",
+    "bjName": "bj_room",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "wb_wuyaodazhan",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 50,
+    "words": "老先生可有办法？",
+    "bjName": "bj_room",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_laoxianshengkeyou",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 51,
+    "words": "（思考一会）恕老夫无能啊，这上古神器岂是我等凡人能图？",
+    "bjName": "bj_room",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "wb_shulaofuwunenga",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 52,
+    "words": "还望老先生助我！家师为救在下功力尽失，只有金龟玉碟能救他，还望老先生成全，在下<color=#0000FF><u><link={15}>感激不尽</link></u></color>！",
+    "bjName": "bj_room",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_haiwanglaoxiansheng",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 53,
+    "words": "……好一个赤诚孝子！老夫却有一宝，名曰乾坤卦，可算天下万物，只是……",
+    "bjName": "bj_room",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "wb_haoyigechichengxiaozi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 54,
+    "words": "还望老先生成全！老先生恩情，在下没齿难忘，必定报答。",
+    "bjName": "bj_room",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_haiwang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 55,
+    "words": "好吧，老夫便为你算上一卦，只要你未来帮老夫做一件事即可。",
+    "bjName": "bj_room",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "wb_1laofu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 56,
+    "words": "小生在此谢过，莫说一件事情，便是十件百件，只要能救家师，小生绝不推辞。",
+    "bjName": "bj_room",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wb_1xiaosheng",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 57,
+    "words": "你们前去不周山吧。你们要的答案或许就在那里。",
+    "bjName": "bj_room",
+    "spineName": "baixiaosheng1,百晓生,2",
+    "link": "",
+    "sound": "wb_nimenqianqu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 58,
+    "words": "不周山？小生不懂，望老先生解惑！",
+    "bjName": "bj_room",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_buzhoushan",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 59,
+    "words": "我家老爷累了，诸位请回吧。",
+    "bjName": "bj_room",
+    "spineName": "doorman,门卫,2",
+    "link": "",
+    "sound": "wb_wojialaoyeleile",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 60,
+    "words": "这……这该怎么办？",
+    "bjName": "bj_room",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "wbdh_zhezhegai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 61,
+    "words": "也没有更好的办法了，我陪你去不周山。",
+    "bjName": "bj_room",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "wb_1yemeiyou",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 63,
+    "words": "记录下你的故事吧！",
+    "bjName": "bj_paimaihui",
+    "spineName": "auctioneer,拍卖师,1",
+    "link": "",
+    "sound": "wb_jiluxianidegushi",
+    "isOptiong": -1,
+    "": ""
+  }
+]

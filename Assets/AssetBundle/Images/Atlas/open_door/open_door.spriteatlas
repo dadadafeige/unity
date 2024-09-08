@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: open_door
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: cd2169af32f56ab4fb195fda7c853e36, type: 3}
+    - {fileID: 2800000, guid: dfcde05b4d075ff489c0d4088d471794, type: 3}
+    - {fileID: 2800000, guid: 0bd8dfb507623cd41ab70a4d97809c01, type: 3}
+    - {fileID: 2800000, guid: 02f30b5f27541cf45a62b19c5de9ee01, type: 3}
+    - {fileID: 2800000, guid: 168fef51c114358438244f86449d8460, type: 3}
+    - {fileID: 2800000, guid: 9e98f9bc2d4cc80489b696c6200c2a23, type: 3}
+    - {fileID: 2800000, guid: bfbb299f200c06c47a74b5282b4e18e0, type: 3}
+    - {fileID: 2800000, guid: df834c03d1dd97540ac772616ecf29d0, type: 3}
+    - {fileID: 2800000, guid: 9401a66c774d68948aec81e52d0173f8, type: 3}
+    - {fileID: 2800000, guid: 7d086fc95817eef4a8b9676a28bd6e04, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 168fef51c114358438244f86449d8460: 21300000
+    - df834c03d1dd97540ac772616ecf29d0: 21300000
+    - 0bd8dfb507623cd41ab70a4d97809c01: 21300000
+    - 7d086fc95817eef4a8b9676a28bd6e04: 21300000
+    - dfcde05b4d075ff489c0d4088d471794: 21300000
+    - 9401a66c774d68948aec81e52d0173f8: 21300000
+    - 9e98f9bc2d4cc80489b696c6200c2a23: 21300000
+    - 02f30b5f27541cf45a62b19c5de9ee01: 21300000
+    - bfbb299f200c06c47a74b5282b4e18e0: 21300000
+    - cd2169af32f56ab4fb195fda7c853e36: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 168fef51c114358438244f86449d8460, type: 3}
+  - {fileID: 21300000, guid: df834c03d1dd97540ac772616ecf29d0, type: 3}
+  - {fileID: 21300000, guid: 0bd8dfb507623cd41ab70a4d97809c01, type: 3}
+  - {fileID: 21300000, guid: 7d086fc95817eef4a8b9676a28bd6e04, type: 3}
+  - {fileID: 21300000, guid: dfcde05b4d075ff489c0d4088d471794, type: 3}
+  - {fileID: 21300000, guid: 9401a66c774d68948aec81e52d0173f8, type: 3}
+  - {fileID: 21300000, guid: 9e98f9bc2d4cc80489b696c6200c2a23, type: 3}
+  - {fileID: 21300000, guid: 02f30b5f27541cf45a62b19c5de9ee01, type: 3}
+  - {fileID: 21300000, guid: bfbb299f200c06c47a74b5282b4e18e0, type: 3}
+  - {fileID: 21300000, guid: cd2169af32f56ab4fb195fda7c853e36, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - open_door5
+  - open_door_icon3
+  - open_door3
+  - "\u793A\u610F"
+  - open_door2
+  - open_door_icon4
+  - open_door_icon1
+  - open_door4
+  - open_door_icon2
+  - open_door1
+  m_RenderDataMap: {}
+  m_Tag: open_door
+  m_IsVariant: 0

@@ -1,0 +1,200 @@
+﻿[
+  {
+    "id": 1,
+    "words": "圣女大人您回来了！",
+    "bjName": "bj_camp",
+    "spineName": "general,将军,2",
+    "link": "",
+    "sound": "jtc_shengnvdarennin",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "现在情况怎么样？",
+    "bjName": "bj_camp",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "jtc_xianzaiqingkuang",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "之前我军都无战心，刚才不知怎的，众将士顿感恢复了力量与决心，士气大振，现在我们已经稳住了阵线，并且尝试反攻！",
+    "bjName": "bj_camp",
+    "spineName": "general,将军,2",
+    "link": "",
+    "sound": "jtc_1zhiqianwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "很好！让将士们加快进攻，将敌人肃清之后我需要立刻集结兵力反攻狐族！族长大人现在生死不明。",
+    "bjName": "bj_camp",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "jtc_henhaorangjiangshi",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "（……介绍情况）",
+    "bjName": "bj_camp",
+    "spineName": "",
+    "link": "",
+    "sound": "",
+    "isOptiong": -1
+  },
+  {
+    "id": 6,
+    "words": "什么！发生了这么多事情，多亏了圣女和几位少侠，容在下告退，三天之内如若不周山境内还有一支抵抗的队伍，末将提头来见",
+    "bjName": "bj_camp",
+    "spineName": "general,将军,2",
+    "link": "",
+    "sound": "jtc_shenmefashengle",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "风若，我有一事相求。我的师父受了伤，需要金龟玉碟才能治疗，据说不周山能找到其中一块碎片。",
+    "bjName": "bj_camp",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jtc_1woyouyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "现在我很确定，贵族圣器就是我要寻找的第一块碎片。刚才在圣地中，你吸收完圣器后，师父给我的法宝告诉我的。",
+    "bjName": "bj_camp",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jtc_1xianzaiwo",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "好吧，虽然圣器乃我族至宝，但没有你们的帮助介潭一族恐已覆灭，若能救治你的师父，便借与你们吧。",
+    "bjName": "bj_camp",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "jtc_1suiranshengqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "如此已经多谢！谢谢你风若！",
+    "bjName": "bj_camp",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "jtc_ruciyijingduoxie",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "你我之间不必如此，我要去前线，几位可以自行活动一番。",
+    "bjName": "bj_camp",
+    "spineName": "fengruo,风若,2",
+    "link": "",
+    "sound": "jtc_niwozhijianbubi",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "圣女大人，不辱使命，我们已经将贼众肃清！",
+    "bjName": "bj_camp",
+    "spineName": "general,将军,1",
+    "link": "",
+    "sound": "jtc_shengnvdarenburu",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "风若，我有一个建议不知当讲不当讲。",
+    "bjName": "bj_camp",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "jtc_fengruowoyouyige",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "我们之间不必如此",
+    "bjName": "bj_camp",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "jtc_womenzhijian",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "我觉得我们不应当大张旗鼓地前去狐族，且不说介潭族长现在仍旧下落不明，如果他真的在狐族手里，两军阵前对方拿着他的性命要挟你你该当如何？",
+    "bjName": "bj_camp",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "jtc_wojuedewomen",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "这……",
+    "bjName": "bj_camp",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "jtc_zhe",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "不如派遣一部分斥候前去打探消息。",
+    "bjName": "bj_camp",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "jtc_burupaiqian",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "好主意！那我跟你们一起去吧！",
+    "bjName": "bj_camp",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "jtc_1haozhuyi",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "万万不可啊圣女大人，族内还需要您来主持",
+    "bjName": "bj_camp",
+    "spineName": "general,将军,2",
+    "link": "",
+    "sound": "jtc_wanwanbukea",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "我平时不也没管过这些么，风岩伯伯您或其他叔伯主持一下就行了呗",
+    "bjName": "bj_camp",
+    "spineName": "fengruo,风若,1",
+    "link": "",
+    "sound": "jtc_wopingshibuye",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "哎……哎，好吧！（转向#主角#）那圣女大人就拜托你们了！",
+    "bjName": "bj_camp",
+    "spineName": "general,将军,2",
+    "link": "",
+    "sound": "jtc_aiaihaobana",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "一行人回到了介潭村。",
+    "bjName": "bj_camp",
+    "spineName": "",
+    "link": "",
+    "sound": "jtc_yixingrenhuidao",
+    "isOptiong": -1
+  }
+]

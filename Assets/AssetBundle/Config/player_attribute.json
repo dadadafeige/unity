@@ -1,0 +1,222 @@
+﻿[
+  {
+    "id": 1,
+    "exp": 0,
+    "fight": 51,
+    "defense": 20,
+    "attack": 30,
+    "magic_resistance": 25.0,
+    "hp": 150,
+    "title": "初阶符师",
+    "title_explain": "表示刚刚入门，开始学习符咒的基础知识。"
+  },
+  {
+    "id": 2,
+    "exp": 1000,
+    "fight": 52,
+    "defense": 24,
+    "attack": 36,
+    "magic_resistance": 27.5,
+    "hp": 170,
+    "title": "中级符师",
+    "title_explain": "已经具备一定的符咒知识和技能，能够独立完成一些中等难度的任务。"
+  },
+  {
+    "id": 3,
+    "exp": 2500,
+    "fight": 53,
+    "defense": 28,
+    "attack": 42,
+    "magic_resistance": 30.0,
+    "hp": 190,
+    "title": "高级符师",
+    "title_explain": "技能水平较高，能够熟练运用多种符咒，解决复杂问题。"
+  },
+  {
+    "id": 4,
+    "exp": 5000,
+    "fight": 54,
+    "defense": 32,
+    "attack": 48,
+    "magic_resistance": 32.5,
+    "hp": 210,
+    "title": "符咒大师",
+    "title_explain": "达到高级水平，对符咒有深入的研究和理解，能够创造新的符咒。"
+  },
+  {
+    "id": 5,
+    "exp": 9000,
+    "fight": 55,
+    "defense": 36,
+    "attack": 54,
+    "magic_resistance": 35.0,
+    "hp": 230,
+    "title": "符咒宗师",
+    "title_explain": "拥有极高的符咒造诣，能够指导其他符师，对符咒文化有重要贡献。"
+  },
+  {
+    "id": 6,
+    "exp": 15000,
+    "fight": 56,
+    "defense": 40,
+    "attack": 60,
+    "magic_resistance": 37.5,
+    "hp": 250,
+    "title": "符咒尊者",
+    "title_explain": "地位崇高，拥有强大的符咒力量，是符师中的佼佼者。"
+  },
+  {
+    "id": 7,
+    "exp": 24000,
+    "fight": 57,
+    "defense": 44,
+    "attack": 66,
+    "magic_resistance": 40.0,
+    "hp": 270,
+    "title": "符咒圣者",
+    "title_explain": "达到符师的最高境界，拥有改变世界的力量，是传说中的存在。"
+  },
+  {
+    "id": 8,
+    "exp": 36000,
+    "fight": 58,
+    "defense": 48,
+    "attack": 72,
+    "magic_resistance": 42.5,
+    "hp": 290,
+    "title": "神符师",
+    "title_explain": "符师最高境界"
+  },
+  {
+    "id": 9,
+    "exp": 52000,
+    "fight": 59,
+    "defense": 52,
+    "attack": 78,
+    "magic_resistance": 45.0,
+    "hp": 310,
+    "title": "",
+    "title_explain": ""
+  },
+  {
+    "id": 10,
+    "exp": 72000,
+    "fight": 60,
+    "defense": 56,
+    "attack": 84,
+    "magic_resistance": 47.5,
+    "hp": 330,
+    "title": "",
+    "title_explain": ""
+  },
+  {
+    "id": 11,
+    "exp": 96000,
+    "fight": 61,
+    "defense": 60,
+    "attack": 90,
+    "magic_resistance": 50.0,
+    "hp": 500,
+    "title": "",
+    "title_explain": ""
+  },
+  {
+    "id": 12,
+    "exp": 125000,
+    "fight": 62,
+    "defense": 64,
+    "attack": 96,
+    "magic_resistance": 52.5,
+    "hp": 500,
+    "title": "",
+    "title_explain": ""
+  },
+  {
+    "id": 13,
+    "exp": 160000,
+    "fight": 63,
+    "defense": 68,
+    "attack": 102,
+    "magic_resistance": 55.0,
+    "hp": 500,
+    "title": "",
+    "title_explain": ""
+  },
+  {
+    "id": 14,
+    "exp": 20000000,
+    "fight": 64,
+    "defense": 72,
+    "attack": 108,
+    "magic_resistance": 57.5,
+    "hp": 500,
+    "title": "",
+    "title_explain": ""
+  },
+  {
+    "id": 15,
+    "exp": 20000000,
+    "fight": 65,
+    "defense": 76,
+    "attack": 114,
+    "magic_resistance": 60.0,
+    "hp": 500,
+    "title": "",
+    "title_explain": ""
+  },
+  {
+    "id": 16,
+    "exp": 20000000,
+    "fight": 66,
+    "defense": 80,
+    "attack": 120,
+    "magic_resistance": 62.5,
+    "hp": 500,
+    "title": "",
+    "title_explain": ""
+  },
+  {
+    "id": 17,
+    "exp": 20000000,
+    "fight": 67,
+    "defense": 84,
+    "attack": 126,
+    "magic_resistance": 65.0,
+    "hp": 500,
+    "title": "",
+    "title_explain": ""
+  },
+  {
+    "id": 18,
+    "exp": 20000000,
+    "fight": 68,
+    "defense": 88,
+    "attack": 132,
+    "magic_resistance": 67.5,
+    "hp": 500,
+    "title": "",
+    "title_explain": ""
+  },
+  {
+    "id": 19,
+    "exp": 20000000,
+    "fight": 69,
+    "defense": 92,
+    "attack": 138,
+    "magic_resistance": 70.0,
+    "hp": 500,
+    "title": "",
+    "title_explain": ""
+  },
+  {
+    "id": 20,
+    "exp": 20000000,
+    "fight": 70,
+    "defense": 96,
+    "attack": 144,
+    "magic_resistance": 72.5,
+    "hp": 500,
+    "title": "",
+    "title_explain": ""
+  }
+]

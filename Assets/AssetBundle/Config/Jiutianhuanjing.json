@@ -1,0 +1,802 @@
+﻿[
+  {
+    "id": 1,
+    "words": "幻境中的景象变幻莫测，有时是翻滚的云海，有时是悬浮的岩石。四周弥漫着一股神秘的氛围，迷雾蔓延，视野被限制，难辨方向。",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_huanjing",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 2,
+    "words": "这里真漂亮！看那边的云，有凤凰、猫咪、龙，诶，这不就是我们几个吗，好神奇啊！",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_zhelizhen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 3,
+    "words": "（凝视着迷雾，略显担忧）小心，我们要保持警惕，这只是美丽的表象。",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "hj_xiaoxinwo",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 4,
+    "words": "你说得对，我也感受到一股强大的能量环绕着整个空间。",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "hj_nishuode",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 5,
+    "words": "有我罗大人在怕啥，你们这些人总是这么小心翼翼的，没意思……",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "hj_youwoluo",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 6,
+    "words": "小麟，我们在一起经历了这么多磨难，多难都过来了，凭借我们的<color=#0000FF><u><link={54}>智慧和实力</link></u></color>，一定能过去的。",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_womenzai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 7,
+    "words": "（困惑地看着面前变幻莫测的景象）这个幻境真是让人无法捉摸，我们得小心应对，不要被迷惑了。",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "hj_zhege (1)",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 8,
+    "words": "#主角#一行人小心翼翼前行，但突然一团浓密的乌云出现在他们面前，遮蔽了整个天空。",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_yixingren",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 9,
+    "words": "（威严而低沉的声音）你们不能再往前了，这片是我的领地，你们无法逾越！",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "darkcloud,乌云,2",
+    "link": "",
+    "sound": "hj_bunengzai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 10,
+    "words": "我们来九天幻境有要事，请让我们通过。",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_womenlai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 11,
+    "words": "你们以为可以轻易地穿越我的领地吗？恐怕你们小看了我",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "darkcloud,乌云,2",
+    "link": "",
+    "sound": "hj_nimenyi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 12,
+    "words": "我们没有恶意，我们只是想找到离开这个幻境的出口，请你给我们一个机会。",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "hj_womenmei",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 13,
+    "words": "机会？进入这的人，还没有人能出去。我的云中蕴含着强大的雷电之力，任何接触它的生物都会被电得焦黑！",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "darkcloud,乌云,2",
+    "link": "",
+    "sound": "hj_jihui",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 14,
+    "words": "接招吧(释放各种由云组形的小怪)",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "darkcloud,乌云,2",
+    "link": "",
+    "sound": "hj_jiezhao",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 15,
+    "words": "我去，什么时候乌云也能成精了，让我来。",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "luohou,罗睺,1",
+    "link": "",
+    "sound": "hj_woqu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 16,
+    "words": "大家快帮忙！",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "hj_dajia",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 17,
+    "words": "来吧，看看你们是否能够抵挡得住我雷电的力量！(一道强烈的闪电从乌云中闪过，朝着#主角#一行人劈来)",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "darkcloud,乌云,2",
+    "link": "",
+    "sound": "hj_laiba",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 18,
+    "words": "#主角#画符，其他人也使出各种技能，一行人时而躲藏在岩石后，时而迅速移动，力图避开闪电的攻击。最终取得了胜利。",
+    "bjName": "bj_jiutianhuanjing1",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_tahuafu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 19,
+    "words": "突然，一面古旧的岩石拱门出现在他们前方，阻挡了他们的前进道路。",
+    "bjName": "bj_door",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_turan",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 20,
+    "words": "时空穿梭门结构独特，造型古朴。门框的边缘镌刻着神秘的符文，微弱的烛火随风摇曳。",
+    "bjName": "bj_door",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_shikong",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 21,
+    "words": "门框内部是一个深邃无边的空间，在这个空间中，时间和空间交错，仿佛无限延伸。",
+    "bjName": "bj_chuanyue",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_menkuang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 22,
+    "words": "大家都被这个门所吸引，走到门前都沉默了。",
+    "bjName": "bj_chuanyue",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_dajia (1)",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 23,
+    "words": "（#主角#通过时空穿梭门所看到的景象随着他的心中所想而变化，回顾一路的心酸）小麟，我看到了你在里面，还有风若、白浅、父亲、师父……",
+    "bjName": "bj_chuanyue",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_xiaolinwo",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 24,
+    "words": "(往里面看了看)这个门，有点意思，我心中想的也出现在门里面，是不是走进去就能去了？",
+    "bjName": "bj_chuanyue",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "hj_zhegemen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 25,
+    "words": "#主角#，如果真的可以进去，你可以回去看看你的师父怎么样了，试一试！（拍着#主角#后背）",
+    "bjName": "bj_chuanyue",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "hj_ruguozhen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 26,
+    "words": "师父，您一直是我成长的引路人，我现在已经拿到金龟玉碟了，是时候回去看看您了。这扇门能带我回去吗？",
+    "bjName": "bj_chuanyue",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_shifunin",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 27,
+    "words": "随着他的触摸，时空穿梭门开始散发出明亮的光芒，门框中的能量线条开始流动，形成一条通向目的地的能量通道。",
+    "bjName": "bj_chuanyue",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_suizhe",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 28,
+    "words": "#主角#迈出坚定的一步，身体穿越时空门，转瞬间，他发现自己回到了曾经的村庄。",
+    "bjName": "bj_chuanyue",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_tamai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 29,
+    "words": "小麟，你们去哪里了……羽嘉、罗睺，你们还在吗？（没有回应）",
+    "bjName": "bj_chuanyue",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_nimenqu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 30,
+    "words": "（看见家的方向，迫不及待地跑回去）师父，徒儿回来了！",
+    "bjName": "bj_chuanyue",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_shifutuer",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 31,
+    "words": "#主角#回到师父的住处，却惊喜地发现师父精神焕发。",
+    "bjName": "bj_home",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_tahuidao",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 32,
+    "words": "师父，我给您带回来了金龟玉碟，您看，我可以帮您恢复能力了。（拿出金龟玉碟展示）",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_wogeinin",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 33,
+    "words": "孩子，吃了不少苦吧，师父没事了。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hj_haizi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 34,
+    "words": "（欣喜若狂）师父，您没事了啊，我，我还以为您每天都在受苦，我太担心您了！",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_ninmeishi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 35,
+    "words": "（笑容满面）孩子，是时候告诉你真相了。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hj_shishihou",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 36,
+    "words": "师父其实一直没有事，我只是为了考验你的勇气和决心，看你是否能够战胜困难。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hj_qishiyi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 37,
+    "words": "（惊讶地）师父，您是说一切都是为了让我成长吗？",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_ninshishuo",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 38,
+    "words": "是的，孩子。我知道你一直在努力，但只有通过这样的考验，你才能更进一步。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hj_tongguo",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 39,
+    "words": "师父，我结交了好多朋友，有玉树临风的小麟，有美丽动人的风若、有人善心美的白浅；还，还遇到了父亲……",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_wojiejiao",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 40,
+    "words": "果然~（欣慰地点头）",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hj_guoran",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 41,
+    "words": "孩子你受苦了！（#主角#与师父相拥而泣）",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hj_shouku",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 42,
+    "words": "师父，原来外面的世界这么危险，这一路上我经历了太多的艰辛和挑战，一度感到失落和迷茫……",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_yuanlaiwaimian",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 43,
+    "words": "师父轻轻抚慰着#主角#",
+    "bjName": "bj_home",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_shifu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 44,
+    "words": "好在我一直想着您从小对我的指引和支持，才让我坚持下来的，师父回到您身边真好！",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_haozai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 45,
+    "words": "孩子，你经历的一切都是为了让你成为你自己，找到你的本心。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hj_jingli",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 46,
+    "words": "为师相信你已经变得足够坚强和勇敢，现在是时候传授你我的绝世武功了。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hj_weishixiang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 47,
+    "words": "什么武功，师父，你还有隐藏技能呢！",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_shenmewu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 48,
+    "words": "九天神功，乃是我创的绝世武技。它结合了天地之力，能够让你拥有超凡的力量和无敌的战斗技巧。但要谨记，<color=#0000FF><u><link={55}>掌控自己才能掌控力量</link></u></color>。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hj_jueshiwu",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 49,
+    "words": "（虔诚地接受师父的传授）师父，您放心，我会用它来对抗黑暗与不公！",
+    "bjName": "bj_home",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_ninfangxin",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 50,
+    "words": "师父开始向#主角#传授九天神功",
+    "bjName": "bj_home",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_kaishi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 51,
+    "words": "（满意地点点头）孩子，我相信你会成为一位伟大的战士。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hj_woxiangxin",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 52,
+    "words": "去吧，展示你的力量和智慧，为正义而战。",
+    "bjName": "bj_home",
+    "spineName": "master,师父,2",
+    "link": "",
+    "sound": "hj_quba",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 53,
+    "words": "#主角#深深地鞠躬向师父致敬，然后离开师父",
+    "bjName": "bj_home",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_tashenshen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 54,
+    "words": "时空门，带我回到继续战斗的世界吧！（时空穿梭门发出闪耀的光芒，#主角#离开了师父的时空，回到了自己的使命中。）",
+    "bjName": "bj_chuanyue",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_shikongmen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 55,
+    "words": "#主角#和小麟带着羽嘉和罗睺继续在九天幻境中探索，突然他们发现了一片茂密的树林，并且在其中隐藏着一个神秘的洞穴。",
+    "bjName": "bj_jiutianhuanjing2",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_tahe",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 56,
+    "words": "这片树林看起来非常特别，去看看~",
+    "bjName": "bj_jiutianhuanjing2",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_zhepian",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 57,
+    "words": "没错，说不定里面有重要的线索或者藏着我们需要的东西！（#主角#、小麟、羽嘉和罗睺小心地穿过树林，最终抵达了洞穴的入口。）",
+    "bjName": "bj_jiutianhuanjing2",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "hj_meicuo",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 58,
+    "words": "慢一点，小心！",
+    "bjName": "bj_jiutianhuanjing2",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "hj_manyidian",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 59,
+    "words": "（眼睛亮起）这个洞穴看起来很熟悉，好像在哪里见过呢，我们进去看看吧。",
+    "bjName": "bj_out_of_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_zhegedong",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 60,
+    "words": "（走着走着）我想起来了，是我和罗睺初遇的地方！罗睺，是吧？",
+    "bjName": "bj_out_of_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_woxiangqi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 61,
+    "words": "哦，是这样啊！",
+    "bjName": "bj_out_of_cave",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "hj_oshi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 62,
+    "words": "罗睺沉默的点头，陷入了回忆中，回想起和#主角#的相遇、相识过程",
+    "bjName": "bj_out_of_cave",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_luohouchen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 63,
+    "words": "（略带感慨）这个洞穴是我们战斗开始的地方，那时候我第一次见到罗睺，差点被他小子夺舍了，还跟他打了一架呢，哈哈",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_zhege",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 64,
+    "words": "没想到，都过了这么久，现在我们已经成为了并肩作战的伙伴。",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_meixinagdao",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 65,
+    "words": "（不好意思）嘁，谁是你的伙伴，你得多亏了有我才能顺利走到这。",
+    "bjName": "bj_cave",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "hj_qisheishi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 66,
+    "words": "也不知道谁不知羞耻，依附在人身上才能行走的，还多亏有你，笑话~",
+    "bjName": "bj_cave",
+    "spineName": "yujia,羽嘉,2",
+    "link": "",
+    "sound": "hj_yebuzhi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 67,
+    "words": "你这鸟人，还五十步笑百步，信不信我把你的毛拔了",
+    "bjName": "bj_cave",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "hj_nizheniao",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 68,
+    "words": "我看你们真是欢喜冤家，也是在这洞穴里羽嘉出来了，你们就一直在斗",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_wokannimen",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 69,
+    "words": "原来如此，难怪你们形影不离，哈哈",
+    "bjName": "bj_cave",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "hj_yuanlai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 70,
+    "words": "哎呦，我的朋友们，别闹了，我能走到这，你们每个人都功不可没",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_aiyou",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 71,
+    "words": "（抓紧金龟玉碟）现在是时候将羽嘉和罗睺都恢复到全胜状态了。",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_xianzai",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 72,
+    "words": "（期待地盯着#主角#）嗯？",
+    "bjName": "bj_cave",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "hj_en",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 73,
+    "words": "是的，本来我收集金龟玉碟是想将我师父的力量恢复，现在看来是不需要了，但是用金龟玉碟可以让羽嘉和罗睺重新回到最强的状态！",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_shide",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 74,
+    "words": "#主角#决定将金龟玉碟的力量发挥到极致，用它将羽嘉和罗睺同时恢复到全胜状态。",
+    "bjName": "bj_cave",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_tajueding",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 75,
+    "words": "小麟，帮我们守住洞口，不要被其他人打扰！",
+    "bjName": "bj_cave",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "hj_xiaolinb",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 76,
+    "words": "放心交给我吧~",
+    "bjName": "bj_cave",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "hj_fangxin",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 77,
+    "words": "#主角#将金龟玉碟放在空中，强烈的光芒笼罩住羽嘉和罗睺。他们的伤势迅速痊愈，体力和精神状态都恢复到巅峰状态。",
+    "bjName": "bj_cave",
+    "spineName": "",
+    "link": "",
+    "sound": "hj_tajiang",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 78,
+    "words": "（感受到能量的涌动）这能量真是惊人，我感觉自己充满了无限可能！",
+    "bjName": "bj_cave",
+    "spineName": "yujia_b,羽嘉,2",
+    "link": "",
+    "sound": "hj_zheneng",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 79,
+    "words": "你小子，我哭死……",
+    "bjName": "bj_cave",
+    "spineName": "luohouX,罗睺,2",
+    "link": "",
+    "sound": "hj_nixiaozi",
+    "isOptiong": -1,
+    "": ""
+  },
+  {
+    "id": 80,
+    "words": "我们现在快赶去大战吧！",
+    "bjName": "bj_cave",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "hj_womenxian",
+    "isOptiong": -1,
+    "": ""
+  }
+]

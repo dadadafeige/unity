@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: digit_word
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3b54c078f7d0a2a4b98c44ecbc4d87fc, type: 3}
+    - {fileID: 2800000, guid: 56c83f6bf212aa947973efdc18e78978, type: 3}
+    - {fileID: 2800000, guid: c32c75982b93c4d49a69cdb97c19aba8, type: 3}
+    - {fileID: 2800000, guid: 91c93a0b32a41c24ca6f928d33ed8906, type: 3}
+    - {fileID: 2800000, guid: e6953962a8a0f5946b47993e86795616, type: 3}
+    - {fileID: 2800000, guid: 787d695b576c407448acc23d0f9afc14, type: 3}
+    - {fileID: 2800000, guid: 50c41d5a062fbbf4f9176c481566d86e, type: 3}
+    - {fileID: 2800000, guid: 283722edd8bfc84418804c04a083c88f, type: 3}
+    - {fileID: 2800000, guid: 2952d241d0fa85649b03d2bc06c5777a, type: 3}
+    - {fileID: 2800000, guid: a430f5db49626df4aac82d50b722df9d, type: 3}
+    - {fileID: 2800000, guid: 6e9c80a2c47ce3c40b6d5a8e2ac0f542, type: 3}
+    - {fileID: 2800000, guid: e6d26605bacfc7f4e8ffa8c666bb06c8, type: 3}
+    - {fileID: 2800000, guid: cdd23c6ff92af2a4bbeb2fed6e32598e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 2952d241d0fa85649b03d2bc06c5777a: 21300000
+    - e6953962a8a0f5946b47993e86795616: 21300000
+    - 6e9c80a2c47ce3c40b6d5a8e2ac0f542: 21300000
+    - e6d26605bacfc7f4e8ffa8c666bb06c8: 21300000
+    - 3b54c078f7d0a2a4b98c44ecbc4d87fc: 21300000
+    - c32c75982b93c4d49a69cdb97c19aba8: 21300000
+    - 50c41d5a062fbbf4f9176c481566d86e: 21300000
+    - 91c93a0b32a41c24ca6f928d33ed8906: 21300000
+    - 787d695b576c407448acc23d0f9afc14: 21300000
+    - 56c83f6bf212aa947973efdc18e78978: 21300000
+    - a430f5db49626df4aac82d50b722df9d: 21300000
+    - 283722edd8bfc84418804c04a083c88f: 21300000
+    - cdd23c6ff92af2a4bbeb2fed6e32598e: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2952d241d0fa85649b03d2bc06c5777a, type: 3}
+  - {fileID: 21300000, guid: e6953962a8a0f5946b47993e86795616, type: 3}
+  - {fileID: 21300000, guid: 6e9c80a2c47ce3c40b6d5a8e2ac0f542, type: 3}
+  - {fileID: 21300000, guid: e6d26605bacfc7f4e8ffa8c666bb06c8, type: 3}
+  - {fileID: 21300000, guid: 3b54c078f7d0a2a4b98c44ecbc4d87fc, type: 3}
+  - {fileID: 21300000, guid: c32c75982b93c4d49a69cdb97c19aba8, type: 3}
+  - {fileID: 21300000, guid: 50c41d5a062fbbf4f9176c481566d86e, type: 3}
+  - {fileID: 21300000, guid: 91c93a0b32a41c24ca6f928d33ed8906, type: 3}
+  - {fileID: 21300000, guid: 787d695b576c407448acc23d0f9afc14, type: 3}
+  - {fileID: 21300000, guid: 56c83f6bf212aa947973efdc18e78978, type: 3}
+  - {fileID: 21300000, guid: a430f5db49626df4aac82d50b722df9d, type: 3}
+  - {fileID: 21300000, guid: 283722edd8bfc84418804c04a083c88f, type: 3}
+  - {fileID: 21300000, guid: cdd23c6ff92af2a4bbeb2fed6e32598e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - word_8
+  - word_4
+  - word_colon
+  - word_ride
+  - word_0
+  - word_2
+  - word_6
+  - word_3
+  - word_5
+  - word_1
+  - word_9
+  - word_7
+  - word_slash
+  m_RenderDataMap: {}
+  m_Tag: digit_word
+  m_IsVariant: 0

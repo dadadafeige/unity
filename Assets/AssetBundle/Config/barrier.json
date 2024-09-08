@@ -1,0 +1,23 @@
+﻿[
+  {
+    "id": 1,
+    "enemy_list": "2,1,2",
+    "bg": "battle_scene_01",
+    "sound": "",
+    "pet_list": ""
+  },
+  {
+    "id": 2,
+    "enemy_list": "2,2",
+    "bg": "battle_scene_01",
+    "sound": "",
+    "pet_list": ""
+  },
+  {
+    "id": 3,
+    "enemy_list": "3,3",
+    "bg": "battle_scene_01",
+    "sound": "",
+    "pet_list": ""
+  }
+]

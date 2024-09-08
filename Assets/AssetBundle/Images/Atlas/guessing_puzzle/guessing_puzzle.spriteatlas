@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: guessing_puzzle
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6dada7b327d89ce4785d4066d896f15b, type: 3}
+    - {fileID: 2800000, guid: 534ddc11fefc4ef42835e74b538354a2, type: 3}
+    - {fileID: 2800000, guid: da458d32a262d5645be783246b9667bb, type: 3}
+    - {fileID: 2800000, guid: 89861de26457c744995d0a42284cec81, type: 3}
+    - {fileID: 2800000, guid: 0c0b53c4720363a4b8864e515c3786e8, type: 3}
+    - {fileID: 2800000, guid: 28ee927d179580047b7eb5216c756f43, type: 3}
+    - {fileID: 2800000, guid: 0168ab7b09c6fd0409b0bbfe6298d1da, type: 3}
+    - {fileID: 2800000, guid: b9cd94340cfd6984786d8a20908b09e2, type: 3}
+    - {fileID: 2800000, guid: d278989f1a6caa348a151f9217bd1bfa, type: 3}
+    - {fileID: 2800000, guid: e37f3ca6e5aed914dbac7af4eb138476, type: 3}
+    - {fileID: 2800000, guid: c94b781e410892740a326a0c52aad9e1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 534ddc11fefc4ef42835e74b538354a2: 21300000
+    - da458d32a262d5645be783246b9667bb: 21300000
+    - 89861de26457c744995d0a42284cec81: 21300000
+    - 6dada7b327d89ce4785d4066d896f15b: 21300000
+    - b9cd94340cfd6984786d8a20908b09e2: 21300000
+    - 0c0b53c4720363a4b8864e515c3786e8: 21300000
+    - e37f3ca6e5aed914dbac7af4eb138476: 21300000
+    - 0168ab7b09c6fd0409b0bbfe6298d1da: 21300000
+    - 28ee927d179580047b7eb5216c756f43: 21300000
+    - c94b781e410892740a326a0c52aad9e1: 21300000
+    - d278989f1a6caa348a151f9217bd1bfa: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 534ddc11fefc4ef42835e74b538354a2, type: 3}
+  - {fileID: 21300000, guid: da458d32a262d5645be783246b9667bb, type: 3}
+  - {fileID: 21300000, guid: 89861de26457c744995d0a42284cec81, type: 3}
+  - {fileID: 21300000, guid: 6dada7b327d89ce4785d4066d896f15b, type: 3}
+  - {fileID: 21300000, guid: b9cd94340cfd6984786d8a20908b09e2, type: 3}
+  - {fileID: 21300000, guid: 0c0b53c4720363a4b8864e515c3786e8, type: 3}
+  - {fileID: 21300000, guid: e37f3ca6e5aed914dbac7af4eb138476, type: 3}
+  - {fileID: 21300000, guid: 0168ab7b09c6fd0409b0bbfe6298d1da, type: 3}
+  - {fileID: 21300000, guid: 28ee927d179580047b7eb5216c756f43, type: 3}
+  - {fileID: 21300000, guid: c94b781e410892740a326a0c52aad9e1, type: 3}
+  - {fileID: 21300000, guid: d278989f1a6caa348a151f9217bd1bfa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - guessing_puzzle2
+  - guessing_puzzle3
+  - guessing_puzzle4
+  - guessing_puzzle1
+  - guessing_puzzle_diffbg2
+  - guessing_puzzle5
+  - guessing_puzzle_pro
+  - guessing_puzzle_diffbg1
+  - guessing_puzzle_chassis
+  - guessing_puzzle_probg
+  - guessing_puzzle_diffbg3
+  m_RenderDataMap: {}
+  m_Tag: guessing_puzzle
+  m_IsVariant: 0

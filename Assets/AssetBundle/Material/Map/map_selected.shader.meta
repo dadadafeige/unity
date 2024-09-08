@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3e41450654f65524f81f8aae8a5fccff
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MaxTex: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: assetbundle/material/map/map_selected.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,209 @@
+﻿[
+  {
+    "id": 1,
+    "words": "#主角#再次借助幻境之镜的力量离开幻境，三人再次回到东海，此时已在远离战场的东海海底。",
+    "bjName": "bj_seafloor",
+    "spineName": "",
+    "link": "",
+    "sound": "waste_tazaicijiezhu",
+    "isOptiong": -1
+  },
+  {
+    "id": 2,
+    "words": "我要发挥一些作用，罗睺！羽嘉！我需要你们的帮助！我们或许可以帮助东海，扭转战局！",
+    "bjName": "bj_seafloor",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "floor_woyaofahui",
+    "isOptiong": -1
+  },
+  {
+    "id": 3,
+    "words": "我来负责吸收魔气！这个我擅长！另外，我们可能需要驱动东海秘宝的力量。",
+    "bjName": "bj_seafloor",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "floor_1wolai",
+    "isOptiong": -1
+  },
+  {
+    "id": 4,
+    "words": "或许我可以试试，让我来查查通天箓里有没有什么方法可以拼合秘宝。",
+    "bjName": "bj_seafloor",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "floor_1huoxu",
+    "isOptiong": -1
+  },
+  {
+    "id": 5,
+    "words": "#主角#取出通天箓和七颗龙珠，尝试拼合龙珠。",
+    "bjName": "bj_seafloor",
+    "spineName": "",
+    "link": "",
+    "sound": "floor_taquchu",
+    "isOptiong": -1
+  },
+  {
+    "id": 7,
+    "words": "干得漂亮！",
+    "bjName": "bj_seafloor",
+    "spineName": "yujia,羽嘉,1",
+    "link": "",
+    "sound": "floor_gandepiaoliang",
+    "isOptiong": -1
+  },
+  {
+    "id": 8,
+    "words": "龙珠拼合成功后，召唤出神龙。三人吸收神龙之力。罗睺和羽嘉的能力都得到显著提升。",
+    "bjName": "bj_seafloor",
+    "spineName": "",
+    "link": "",
+    "sound": "floor_1longzhu",
+    "isOptiong": -1
+  },
+  {
+    "id": 9,
+    "words": "两个分魂能力提升后，两股力量聚集于#主角#，加之神龙之力，#主角#的能力得到了显著提升。",
+    "bjName": "bj_seafloor",
+    "spineName": "",
+    "link": "",
+    "sound": "floor_1liangge",
+    "isOptiong": -1
+  },
+  {
+    "id": 10,
+    "words": "我好像也没那么糟糕，也是有些本事在身上的！现在，让我们<color=#0000FF><u><link={33}>合力</link></u></color>！小麟，我一定要救你！",
+    "bjName": "bj_seafloor",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "floor_wohaoxiang",
+    "isOptiong": -1
+  },
+  {
+    "id": 11,
+    "words": "大家借助神龙之力，击败了相柳及巫族军队。相柳受伤，只得带领巫族大军撤退。罗睺、羽嘉趁机将小麟救下。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "floor_dajiajiezhu",
+    "isOptiong": -1
+  },
+  {
+    "id": 12,
+    "words": "小麟，你没事吧？",
+    "bjName": "bj_fight",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "floor_xiaolinnimeishi",
+    "isOptiong": -1
+  },
+  {
+    "id": 13,
+    "words": "我没事，你太棒了！多亏了你！",
+    "bjName": "bj_fight",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "floor_womeishini",
+    "isOptiong": -1
+  },
+  {
+    "id": 14,
+    "words": "太好了！我们赢了！",
+    "bjName": "bj_fight",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "floor_taihaole",
+    "isOptiong": -1
+  },
+  {
+    "id": 15,
+    "words": "谢谢你！是你救了东海！",
+    "bjName": "bj_fight",
+    "spineName": "xiaolin,小麟,2",
+    "link": "",
+    "sound": "floor_1xiexie",
+    "isOptiong": -1
+  },
+  {
+    "id": 16,
+    "words": "是我们一起努力的结果！",
+    "bjName": "bj_fight",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "floor_shiwomenyiqi",
+    "isOptiong": -1
+  },
+  {
+    "id": 17,
+    "words": "你们都很棒！",
+    "bjName": "bj_fight",
+    "spineName": "luohou,罗睺,2",
+    "link": "",
+    "sound": "floor_nimendou",
+    "isOptiong": -1
+  },
+  {
+    "id": 18,
+    "words": "罗睺来到虚弱的龙王身边，继续帮忙为龙王和太子吸魔气，他们都逐渐恢复了精神。龙宫也不再像之前那般萧瑟阴霾，重现光芒万丈。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "floor_luohoulaidao",
+    "isOptiong": -1
+  },
+  {
+    "id": 19,
+    "words": "儿子，我英勇的儿子！我以你为荣！",
+    "bjName": "bj_fight",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "floor_erziwoying",
+    "isOptiong": -1
+  },
+  {
+    "id": 20,
+    "words": "（转向主角）多谢少侠，是你们救了东海，老朽无以为报，不知少侠是否有什么愿望或要求，老朽定会尽力去满足。",
+    "bjName": "bj_fight",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "floor_duoxieshaoxia",
+    "isOptiong": -1
+  },
+  {
+    "id": 21,
+    "words": "不瞒您说，我此次前来东海确实是为了寻一宝物，乃是一枚碎片，很有可能就在龙宫秘宝之中，所以不知可否……",
+    "bjName": "bj_fight",
+    "spineName": "main,主角,2",
+    "link": "",
+    "sound": "floor_bumannishuo",
+    "isOptiong": -1
+  },
+  {
+    "id": 22,
+    "words": "老朽明白了，龙珠乃我东海最珍贵的宝物，少侠可试一试，看其中是否有少侠要寻的碎片。",
+    "bjName": "bj_fight",
+    "spineName": "dragonking,龙王,1",
+    "link": "",
+    "sound": "floor_laoxiumingbai",
+    "isOptiong": -1
+  },
+  {
+    "id": 23,
+    "words": "多谢龙王！",
+    "bjName": "bj_fight",
+    "spineName": "main,主角,1",
+    "link": "",
+    "sound": "floor_duoxielongwang",
+    "isOptiong": -1
+  },
+  {
+    "id": 24,
+    "words": "龙王将龙珠交予#主角#，龙珠在#主角#手中突然闪烁几下，随即竟化作了一枚碎片。",
+    "bjName": "bj_fight",
+    "spineName": "",
+    "link": "",
+    "sound": "floor_longwangjiang (1)",
+    "isOptiong": -1
+  }
+]

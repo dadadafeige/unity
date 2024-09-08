@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: feedingfish
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7775e0b4af8b98b48a3e290406c3be7d, type: 3}
+    - {fileID: 2800000, guid: 8abf96cfa9b416543b684d037b9967bb, type: 3}
+    - {fileID: 2800000, guid: 36dc216d8a99ac74598650a993f89385, type: 3}
+    - {fileID: 2800000, guid: 0d3fd800133cab94691e437c25fbcde8, type: 3}
+    - {fileID: 2800000, guid: 01f6054ba7e26a94e8d9530955e0b63e, type: 3}
+    - {fileID: 2800000, guid: a3d20cb1c11302c47851a26a72da206d, type: 3}
+    - {fileID: 2800000, guid: 0221dd1c69bf7ff40a6f0cd68c204afb, type: 3}
+    - {fileID: 2800000, guid: 7fe6173d0d7f1f34bb6574d05f88ee44, type: 3}
+    - {fileID: 2800000, guid: ad55ec9b27260be4788d47bb98ea6baf, type: 3}
+    - {fileID: 2800000, guid: 91d20a74d2eb6e9479765856b68b164e, type: 3}
+    - {fileID: 2800000, guid: cd3d75bed88b83b4296bacc542fd8df3, type: 3}
+    - {fileID: 2800000, guid: e7dc1182e043166429c22fcf6dee99ea, type: 3}
+    - {fileID: 2800000, guid: 9038ef39808ff5d4c90be8eb005e5f5a, type: 3}
+    - {fileID: 2800000, guid: badc34b3b0216ee4f96bdcd00949a037, type: 3}
+    - {fileID: 2800000, guid: eccbad6cdfd8a624f8998addeeb3a158, type: 3}
+    - {fileID: 2800000, guid: 28abc9cc6d7187049a1ad7afd310f8b7, type: 3}
+    - {fileID: 2800000, guid: eb4e81f1129178e419205e37029b7f9b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 0d3fd800133cab94691e437c25fbcde8: 21300000
+    - a3d20cb1c11302c47851a26a72da206d: 21300000
+    - eb4e81f1129178e419205e37029b7f9b: 21300000
+    - e7dc1182e043166429c22fcf6dee99ea: 21300000
+    - badc34b3b0216ee4f96bdcd00949a037: 21300000
+    - 91d20a74d2eb6e9479765856b68b164e: 21300000
+    - 7775e0b4af8b98b48a3e290406c3be7d: 21300000
+    - 9038ef39808ff5d4c90be8eb005e5f5a: 21300000
+    - 01f6054ba7e26a94e8d9530955e0b63e: 21300000
+    - ad55ec9b27260be4788d47bb98ea6baf: 21300000
+    - 0221dd1c69bf7ff40a6f0cd68c204afb: 21300000
+    - eccbad6cdfd8a624f8998addeeb3a158: 21300000
+    - 28abc9cc6d7187049a1ad7afd310f8b7: 21300000
+    - 7fe6173d0d7f1f34bb6574d05f88ee44: 21300000
+    - 36dc216d8a99ac74598650a993f89385: 21300000
+    - cd3d75bed88b83b4296bacc542fd8df3: 21300000
+    - 8abf96cfa9b416543b684d037b9967bb: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0d3fd800133cab94691e437c25fbcde8, type: 3}
+  - {fileID: 21300000, guid: a3d20cb1c11302c47851a26a72da206d, type: 3}
+  - {fileID: 21300000, guid: eb4e81f1129178e419205e37029b7f9b, type: 3}
+  - {fileID: 21300000, guid: e7dc1182e043166429c22fcf6dee99ea, type: 3}
+  - {fileID: 21300000, guid: badc34b3b0216ee4f96bdcd00949a037, type: 3}
+  - {fileID: 21300000, guid: 91d20a74d2eb6e9479765856b68b164e, type: 3}
+  - {fileID: 21300000, guid: 7775e0b4af8b98b48a3e290406c3be7d, type: 3}
+  - {fileID: 21300000, guid: 9038ef39808ff5d4c90be8eb005e5f5a, type: 3}
+  - {fileID: 21300000, guid: 01f6054ba7e26a94e8d9530955e0b63e, type: 3}
+  - {fileID: 21300000, guid: ad55ec9b27260be4788d47bb98ea6baf, type: 3}
+  - {fileID: 21300000, guid: 0221dd1c69bf7ff40a6f0cd68c204afb, type: 3}
+  - {fileID: 21300000, guid: eccbad6cdfd8a624f8998addeeb3a158, type: 3}
+  - {fileID: 21300000, guid: 28abc9cc6d7187049a1ad7afd310f8b7, type: 3}
+  - {fileID: 21300000, guid: 7fe6173d0d7f1f34bb6574d05f88ee44, type: 3}
+  - {fileID: 21300000, guid: 36dc216d8a99ac74598650a993f89385, type: 3}
+  - {fileID: 21300000, guid: cd3d75bed88b83b4296bacc542fd8df3, type: 3}
+  - {fileID: 21300000, guid: 8abf96cfa9b416543b684d037b9967bb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - feedingfish_dialogue_head1
+  - feedingfish_dialogue_pro
+  - feedingfish_wrong
+  - feedingfish_huangliyu
+  - feedingfish_lvliyu
+  - feedingfish_diff_bg
+  - feedingfish_box
+  - feedingfish_lanliyu
+  - feedingfish_dialogue_head2
+  - feedingfish_diff3
+  - feedingfish_diff1
+  - feedingfish_right1
+  - feedingfish_right2
+  - feedingfish_diff2
+  - feedingfish_dialogue_bg2
+  - feedingfish_hongliyu
+  - feedingfish_dialogue_bg1
+  m_RenderDataMap: {}
+  m_Tag: feedingfish
+  m_IsVariant: 0
